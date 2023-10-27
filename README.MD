@@ -29,10 +29,9 @@ My_yaml_env would be the name of the new environment in that instance (You may u
 ```
 conda activate my_yaml_env
 ```
+Once your environment is set up correctly, you must follow a few steps: 
 
-Note: In order to use this correctly you must follow a few steps. 
-
-1: Replace each "www" in the reddit URls to old.
+1: Any Reddit URL you want to use, you must replace each "www" in the reddit URls to old.
 Example: 
 https://old.reddit.com/r/OnePiece/comments/16e71cy/how_close_is_zoro/
 VS
