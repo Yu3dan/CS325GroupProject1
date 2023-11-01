@@ -1,9 +1,9 @@
-# Text File Containing Reddit URL's to Filtered Comments
+# Reddit Comment Sentiment Analysis
 ### CS325 Group Project 1
 
-This project is focused on using Python to convert a Reddit page given by user to a text file containing it's text only media. Once that text file is created, then it will then parse through the HTML, filter out the comments, and print them into another text file.
+This project is focused on using Python to convert multiple Reddit pages given by user in a text file, filtering out the comments of each post and giving a setniment anaylsis in a final text file.
 
-If you are interested in using my code above, the first thing you must do is clone this repository by using this command in your terminal:
+If you are interested in using our code above, the first thing you must do is clone this repository by using this command in your terminal:
 
 ```
 git clone https://github.com/Yu3dan/CS325GroupProject1
@@ -11,7 +11,7 @@ git clone https://github.com/Yu3dan/CS325GroupProject1
 
 Once you have done this, make sure you are in the correct directory the repository (and its content) was downloaded to using cd (file location) in your terminal.
 
-The requirement.yaml file included is all the neccesary libraries in the environment I coded this project under while using miniconda.
+The requirements.yaml file included is all the neccesary libraries in the environment we coded this project under while using miniconda.
 In order to use the packages needed to run this program, you must create a new environment using the .yaml file given. Before you do this, you must remember to deactivate your current environment using
 
 ```
@@ -31,13 +31,13 @@ conda activate my_yaml_env
 ```
 Once your environment is set up correctly, you must follow a few steps: 
 
-1: Any Reddit URL you want to use, you must replace each "www" in the reddit URls to old.
+1: Any Reddit URL you want to use, you must replace each "www" in the reddit URLs to "old".
 Example: 
 https://old.reddit.com/r/OnePiece/comments/16e71cy/how_close_is_zoro/
 VS
 https://www.reddit.com/r/OnePiece/comments/16e71cy/how_close_is_zoro/
 
-2. Each URL in the text file used to run the program must be seperated by an empty line, but make sure there are none inbetween. For example the text file should look like this:
+2: Each URL in the text file used to run the program must be seperated by an empty line, but make sure there are none inbetween. For example the text file should look like this:
 
 https://old.reddit.com/r/OnePiece/comments/16e71cy/how_close_is_zoro/
 https://old.reddit.com/r/OnePiece/comments/17hq7g9/no_one_hates_kaido_more_than_moria/
@@ -51,7 +51,8 @@ Now, the syntax to run this program is: (the name of the text file containing al
 python run.py listOfURLs.txt
 ```
 
-The output of this project should be text files where all comments are is under the folder Data and subfolder processed.
+The output of this project should be text files where all comments of each post are filtered is under the folder Data and subfolder processed.
 
 If ran correctly, you should multiple text files named numerically according to what order you had the links in the text file.
-"# CS325GroupProject1" 
+If you want to remove any of the URLs provided and add your own, just make sure you follow the syntax in step 2.
+
