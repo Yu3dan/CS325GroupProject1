@@ -1,6 +1,6 @@
 import os
 import regex, re
-import sentiment_analysis
+from module_4 import sentiment_analysis
 files = os.scandir("./data/processed/")
 fileDataRaw = []
 for filePath in files:

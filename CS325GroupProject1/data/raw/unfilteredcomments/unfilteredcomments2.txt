@@ -12,20 +12,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="891">
-  891 points
+ <span class="score dislikes" title="937">
+  937 points
  </span>
- <span class="score unvoted" title="892">
-  892 points
+ <span class="score unvoted" title="938">
+  938 points
  </span>
- <span class="score likes" title="893">
-  893 points
+ <span class="score likes" title="939">
+  939 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T15:39:45+00:00" title="Fri Oct 27 15:39:45 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (40 children)
+  (44 children)
  </a>
 </p>
 
@@ -47,20 +47,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="146">
-  146 points
+ <span class="score dislikes" title="175">
+  175 points
  </span>
- <span class="score unvoted" title="147">
-  147 points
+ <span class="score unvoted" title="176">
+  176 points
  </span>
- <span class="score likes" title="148">
-  148 points
+ <span class="score likes" title="177">
+  177 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T21:13:52+00:00" title="Fri Oct 27 21:13:52 2023 UTC">
-  21 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
+  (5 children)
  </a>
 </p>
 
@@ -88,20 +88,20 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="70">
-  70 points
+ <span class="score dislikes" title="83">
+  83 points
  </span>
- <span class="score unvoted" title="71">
-  71 points
+ <span class="score unvoted" title="84">
+  84 points
  </span>
- <span class="score likes" title="72">
-  72 points
+ <span class="score likes" title="85">
+  85 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T01:34:20+00:00" title="Sat Oct 28 01:34:20 2023 UTC">
-  17 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
+  (3 children)
  </a>
 </p>
 
@@ -123,17 +123,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="21">
-  21 points
+ <span class="score dislikes" title="28">
+  28 points
  </span>
- <span class="score unvoted" title="22">
-  22 points
+ <span class="score unvoted" title="29">
+  29 points
  </span>
- <span class="score likes" title="23">
-  23 points
+ <span class="score likes" title="30">
+  30 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T07:50:32+00:00" title="Sat Oct 28 07:50:32 2023 UTC">
-  10 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -142,6 +142,79 @@
 
 <p>
  his whole thing is basically a luffy who failed and lost his crew, how jaded and broken that would make him
+</p>
+
+<p class="parent">
+ <a name="k6wpjuq">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_6qnt0x9p" href="https://old.reddit.com/user/Traditional_Art3928">
+  Traditional_Art3928
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-29T03:07:57+00:00" title="Sun Oct 29 03:07:57 2023 UTC">
+  8 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ wait where's Hogback? If he's dead, then Moria only has Perona
+ <img height="20" src="https://www.redditstatic.com/marketplace-assets/v1/core/emotes/snoomoji_emotes/free_emotes_pack/sob.gif" style="vertical-align:middle" width="20"/>
+</p>
+
+<p class="parent">
+ <a name="k6wxr1o">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_sjhn5" href="https://old.reddit.com/user/Shiplord13">
+  Shiplord13
+ </a>
+ <span class="flair flair-zoro-nw" title="">
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-29T04:28:12+00:00" title="Sun Oct 29 04:28:12 2023 UTC">
+  8 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ He should be still alive. Like last time we saw him was after Thriller Bark with him on the raft with Moriah and Absalom. Also its implied the reason Moriah survived his encounter with Donflamingo who thought he died to his wounds was probably due to Hogback. So he is probably around just not actively fighting since he isn't a fighter and keeps his distance whenever Moriah gets into a dangerous situation.
 </p>
 
 <p class="parent">
@@ -158,17 +231,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="51">
-  51 points
+ <span class="score dislikes" title="60">
+  60 points
  </span>
- <span class="score unvoted" title="52">
-  52 points
+ <span class="score unvoted" title="61">
+  61 points
  </span>
- <span class="score likes" title="53">
-  53 points
+ <span class="score likes" title="62">
+  62 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:37:29+00:00" title="Fri Oct 27 23:37:29 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -198,20 +271,20 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="440">
-  440 points
+ <span class="score dislikes" title="454">
+  454 points
  </span>
- <span class="score unvoted" title="441">
-  441 points
+ <span class="score unvoted" title="455">
+  455 points
  </span>
- <span class="score likes" title="442">
-  442 points
+ <span class="score likes" title="456">
+  456 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T20:51:24+00:00" title="Fri Oct 27 20:51:24 2023 UTC">
-  21 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (20 children)
+  (22 children)
  </a>
 </p>
 
@@ -245,20 +318,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="210">
-  210 points
+ <span class="score dislikes" title="216">
+  216 points
  </span>
- <span class="score unvoted" title="211">
-  211 points
+ <span class="score unvoted" title="217">
+  217 points
  </span>
- <span class="score likes" title="212">
-  212 points
+ <span class="score likes" title="218">
+  218 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:59:47+00:00" title="Fri Oct 27 22:59:47 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (5 children)
+  (6 children)
  </a>
 </p>
 
@@ -280,20 +353,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="55">
-  55 points
+ <span class="score dislikes" title="59">
+  59 points
  </span>
- <span class="score unvoted" title="56">
-  56 points
+ <span class="score unvoted" title="60">
+  60 points
  </span>
- <span class="score likes" title="57">
-  57 points
+ <span class="score likes" title="61">
+  61 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:00:13+00:00" title="Sat Oct 28 02:00:13 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (4 children)
+  (5 children)
  </a>
 </p>
 
@@ -320,20 +393,20 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="32">
-  32 points
+ <span class="score dislikes" title="37">
+  37 points
  </span>
- <span class="score unvoted" title="33">
-  33 points
+ <span class="score unvoted" title="38">
+  38 points
  </span>
- <span class="score likes" title="34">
-  34 points
+ <span class="score likes" title="39">
+  39 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T07:15:43+00:00" title="Sat Oct 28 07:15:43 2023 UTC">
-  11 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
+  (2 children)
  </a>
 </p>
 
@@ -355,11 +428,57 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T14:28:54+00:00" title="Sat Oct 28 14:28:54 2023 UTC">
-  4 hours ago
+  9 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Story?
+</p>
+
+<p class="parent">
+ <a name="k6x3ip0">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_51zzpt8l" href="https://old.reddit.com/user/Hyllian94">
+  Hyllian94
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ea0027; border-color: #ea0027;" title="Pirate">
+  <span>
+   Pirate
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-29T05:32:41+00:00" title="Sun Oct 29 05:32:41 2023 UTC">
+  8 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -367,7 +486,11 @@
 </p>
 
 <p>
- Story?
+ I was a stubborn teenager, my mom was having it rough with a nasty breakup with my step dad and lots of stress at work.we had an argument that escalated. I just left and grabbed a handful of cash (about €150) on the way out, couchsurfed at some friends houses for a month, tried to call my mum after about three weeks, she continued the argument. My dad (real) called her after that and kind of mediated.
+</p>
+
+<p>
+ Idk its not an very interesting story. And in not the only one of my friends who was like fuck it i'm out. I was the only one who didnt come home for a whole month tho, most were out for like two or three days.
 </p>
 
 <p class="parent">
@@ -384,17 +507,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="64">
-  64 points
+ <span class="score dislikes" title="70">
+  70 points
  </span>
- <span class="score unvoted" title="65">
-  65 points
+ <span class="score unvoted" title="71">
+  71 points
  </span>
- <span class="score likes" title="66">
-  66 points
+ <span class="score likes" title="72">
+  72 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:08:06+00:00" title="Sat Oct 28 02:08:06 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -419,17 +542,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="26">
-  26 points
+ <span class="score dislikes" title="32">
+  32 points
  </span>
- <span class="score unvoted" title="27">
-  27 points
+ <span class="score unvoted" title="33">
+  33 points
  </span>
- <span class="score likes" title="28">
-  28 points
+ <span class="score likes" title="34">
+  34 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T05:50:25+00:00" title="Sat Oct 28 05:50:25 2023 UTC">
-  12 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -454,17 +577,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="45">
-  45 points
+ <span class="score dislikes" title="50">
+  50 points
  </span>
- <span class="score unvoted" title="46">
-  46 points
+ <span class="score unvoted" title="51">
+  51 points
  </span>
- <span class="score likes" title="47">
-  47 points
+ <span class="score likes" title="52">
+  52 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T05:22:43+00:00" title="Sat Oct 28 05:22:43 2023 UTC">
-  13 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -491,17 +614,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="16">
-  16 points
- </span>
- <span class="score unvoted" title="17">
-  17 points
- </span>
- <span class="score likes" title="18">
+ <span class="score dislikes" title="18">
   18 points
  </span>
+ <span class="score unvoted" title="19">
+  19 points
+ </span>
+ <span class="score likes" title="20">
+  20 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T08:11:41+00:00" title="Sat Oct 28 08:11:41 2023 UTC">
-  10 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -526,17 +649,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="32">
-  32 points
+ <span class="score dislikes" title="35">
+  35 points
  </span>
- <span class="score unvoted" title="33">
-  33 points
+ <span class="score unvoted" title="36">
+  36 points
  </span>
- <span class="score likes" title="34">
-  34 points
+ <span class="score likes" title="37">
+  37 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T08:58:50+00:00" title="Sat Oct 28 08:58:50 2023 UTC">
-  9 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -563,17 +686,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="21">
-  21 points
+ <span class="score dislikes" title="24">
+  24 points
  </span>
- <span class="score unvoted" title="22">
-  22 points
+ <span class="score unvoted" title="25">
+  25 points
  </span>
- <span class="score likes" title="23">
-  23 points
+ <span class="score likes" title="26">
+  26 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T07:32:44+00:00" title="Sat Oct 28 07:32:44 2023 UTC">
-  11 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (6 children)
@@ -604,17 +727,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="15">
-  15 points
- </span>
- <span class="score unvoted" title="16">
-  16 points
- </span>
- <span class="score likes" title="17">
+ <span class="score dislikes" title="17">
   17 points
  </span>
+ <span class="score unvoted" title="18">
+  18 points
+ </span>
+ <span class="score likes" title="19">
+  19 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T08:13:32+00:00" title="Sat Oct 28 08:13:32 2023 UTC">
-  10 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (5 children)
@@ -647,17 +770,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="6">
-  6 points
- </span>
- <span class="score unvoted" title="7">
+ <span class="score dislikes" title="7">
   7 points
  </span>
- <span class="score likes" title="8">
+ <span class="score unvoted" title="8">
   8 points
  </span>
+ <span class="score likes" title="9">
+  9 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T09:44:28+00:00" title="Sat Oct 28 09:44:28 2023 UTC">
-  8 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (4 children)
@@ -684,17 +807,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
+ <span class="score dislikes" title="5">
   5 points
  </span>
- <span class="score likes" title="6">
+ <span class="score unvoted" title="6">
   6 points
  </span>
+ <span class="score likes" title="7">
+  7 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T10:01:59+00:00" title="Sat Oct 28 10:01:59 2023 UTC">
-  8 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -719,17 +842,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
+ <span class="score dislikes" title="5">
   5 points
  </span>
- <span class="score likes" title="6">
+ <span class="score unvoted" title="6">
   6 points
  </span>
+ <span class="score likes" title="7">
+  7 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T10:05:07+00:00" title="Sat Oct 28 10:05:07 2023 UTC">
-  8 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -754,17 +877,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="3">
-  3 points
- </span>
- <span class="score unvoted" title="4">
+ <span class="score dislikes" title="4">
   4 points
  </span>
- <span class="score likes" title="5">
+ <span class="score unvoted" title="5">
   5 points
  </span>
+ <span class="score likes" title="6">
+  6 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T12:37:09+00:00" title="Sat Oct 28 12:37:09 2023 UTC">
-  6 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -793,11 +916,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T15:08:18+00:00" title="Sat Oct 28 15:08:18 2023 UTC">
-  3 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -815,27 +944,30 @@
 
 <p class="tagline">
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
+  [+]
  </a>
  <a class="author may-blank id-t2_15r08h" href="https://old.reddit.com/user/Solid_Snark">
   Solid_Snark
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="-3">
-  -3 points
+ <span class="collapsed-reason">
+  comment score below threshold
  </span>
- <span class="score unvoted" title="-2">
-  -2 points
+ <span class="score dislikes" title="-7">
+  -7 points
  </span>
- <span class="score likes" title="-1">
-  -1 points
+ <span class="score unvoted" title="-6">
+  -6 points
+ </span>
+ <span class="score likes" title="-5">
+  -5 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:21:13+00:00" title="Fri Oct 27 22:21:13 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
+  (4 children)
  </a>
 </p>
 
@@ -869,20 +1001,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="38">
-  38 points
+ <span class="score dislikes" title="42">
+  42 points
  </span>
- <span class="score unvoted" title="39">
-  39 points
+ <span class="score unvoted" title="43">
+  43 points
  </span>
- <span class="score likes" title="40">
-  40 points
+ <span class="score likes" title="44">
+  44 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T03:47:21+00:00" title="Sat Oct 28 03:47:21 2023 UTC">
-  14 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
+  (2 children)
  </a>
 </p>
 
@@ -904,14 +1036,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T17:35:40+00:00" title="Sat Oct 28 17:35:40 2023 UTC">
-  1 hour ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
+  (1 child)
  </a>
 </p>
 
@@ -928,6 +1066,41 @@
 </p>
 
 <p class="parent">
+ <a name="k6v973t">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_efkzxxgc" href="https://old.reddit.com/user/RandAlSnore">
+  RandAlSnore
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-28T20:34:26+00:00" title="Sat Oct 28 20:34:26 2023 UTC">
+  8 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ If the main character of the show had a devil fruit that allowed him to use the dead as tools, he would lol. What’s Moria supposed to do, not use his fruit?
+</p>
+
+<p class="parent">
  <a name="k6thhtb">
  </a>
 </p>
@@ -941,11 +1114,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T13:42:50+00:00" title="Sat Oct 28 13:42:50 2023 UTC">
-  4 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -970,17 +1149,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="22">
-  22 points
- </span>
- <span class="score unvoted" title="23">
-  23 points
- </span>
- <span class="score likes" title="24">
+ <span class="score dislikes" title="24">
   24 points
  </span>
+ <span class="score unvoted" title="25">
+  25 points
+ </span>
+ <span class="score likes" title="26">
+  26 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T22:29:32+00:00" title="Fri Oct 27 22:29:32 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (12 children)
@@ -1005,17 +1184,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="63">
-  63 points
- </span>
- <span class="score unvoted" title="64">
+ <span class="score dislikes" title="64">
   64 points
  </span>
- <span class="score likes" title="65">
+ <span class="score unvoted" title="65">
   65 points
  </span>
+ <span class="score likes" title="66">
+  66 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T22:33:28+00:00" title="Fri Oct 27 22:33:28 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (4 children)
@@ -1040,17 +1219,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="58">
-  58 points
+ <span class="score dislikes" title="55">
+  55 points
  </span>
- <span class="score unvoted" title="59">
-  59 points
+ <span class="score unvoted" title="56">
+  56 points
  </span>
- <span class="score likes" title="60">
-  60 points
+ <span class="score likes" title="57">
+  57 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:52:17+00:00" title="Fri Oct 27 22:52:17 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -1075,17 +1254,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="45">
-  45 points
- </span>
- <span class="score unvoted" title="46">
-  46 points
- </span>
- <span class="score likes" title="47">
+ <span class="score dislikes" title="47">
   47 points
  </span>
+ <span class="score unvoted" title="48">
+  48 points
+ </span>
+ <span class="score likes" title="49">
+  49 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T23:57:12+00:00" title="Fri Oct 27 23:57:12 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -1115,17 +1294,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="28">
-  28 points
+ <span class="score dislikes" title="32">
+  32 points
  </span>
- <span class="score unvoted" title="29">
-  29 points
+ <span class="score unvoted" title="33">
+  33 points
  </span>
- <span class="score likes" title="30">
-  30 points
+ <span class="score likes" title="34">
+  34 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T03:41:39+00:00" title="Sat Oct 28 03:41:39 2023 UTC">
-  14 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1150,11 +1329,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T16:08:11+00:00" title="Sat Oct 28 16:08:11 2023 UTC">
-  2 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1179,17 +1364,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="52">
-  52 points
+ <span class="score dislikes" title="58">
+  58 points
  </span>
- <span class="score unvoted" title="53">
-  53 points
+ <span class="score unvoted" title="59">
+  59 points
  </span>
- <span class="score likes" title="54">
-  54 points
+ <span class="score likes" title="60">
+  60 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:50:14+00:00" title="Fri Oct 27 22:50:14 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (3 children)
@@ -1228,7 +1413,7 @@
   9 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:27:42+00:00" title="Sat Oct 28 02:27:42 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -1265,7 +1450,7 @@
   12 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T03:25:48+00:00" title="Sat Oct 28 03:25:48 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -1295,17 +1480,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="11">
-  11 points
- </span>
- <span class="score unvoted" title="12">
-  12 points
- </span>
- <span class="score likes" title="13">
+ <span class="score dislikes" title="13">
   13 points
  </span>
+ <span class="score unvoted" title="14">
+  14 points
+ </span>
+ <span class="score likes" title="15">
+  15 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T04:42:45+00:00" title="Sat Oct 28 04:42:45 2023 UTC">
-  13 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1338,17 +1523,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="6">
-  6 points
- </span>
- <span class="score unvoted" title="7">
+ <span class="score dislikes" title="7">
   7 points
  </span>
- <span class="score likes" title="8">
+ <span class="score unvoted" title="8">
   8 points
  </span>
+ <span class="score likes" title="9">
+  9 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T23:41:08+00:00" title="Fri Oct 27 23:41:08 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -1383,7 +1568,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:01:39+00:00" title="Sat Oct 28 02:01:39 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -1413,17 +1598,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="8">
+ <span class="score dislikes" title="7">
+  7 points
+ </span>
+ <span class="score unvoted" title="8">
   8 points
  </span>
- <span class="score unvoted" title="9">
+ <span class="score likes" title="9">
   9 points
  </span>
- <span class="score likes" title="10">
-  10 points
- </span>
  <time class="live-timestamp" datetime="2023-10-28T03:08:54+00:00" title="Sat Oct 28 03:08:54 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1448,17 +1633,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="7">
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
   7 points
  </span>
- <span class="score unvoted" title="8">
-  8 points
- </span>
- <span class="score likes" title="9">
-  9 points
- </span>
  <time class="live-timestamp" datetime="2023-10-28T01:23:55+00:00" title="Sat Oct 28 01:23:55 2023 UTC">
-  17 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -1483,17 +1668,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
+ <span class="score dislikes" title="2">
   2 points
  </span>
- <span class="score likes" title="3">
+ <span class="score unvoted" title="3">
   3 points
  </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T11:03:47+00:00" title="Sat Oct 28 11:03:47 2023 UTC">
-  7 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1518,17 +1703,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="210">
-  210 points
+ <span class="score dislikes" title="213">
+  213 points
  </span>
- <span class="score unvoted" title="211">
-  211 points
+ <span class="score unvoted" title="214">
+  214 points
  </span>
- <span class="score likes" title="212">
-  212 points
+ <span class="score likes" title="215">
+  215 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T18:33:20+00:00" title="Fri Oct 27 18:33:20 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (3 children)
@@ -1553,17 +1738,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="65">
-  65 points
+ <span class="score dislikes" title="71">
+  71 points
  </span>
- <span class="score unvoted" title="66">
-  66 points
+ <span class="score unvoted" title="72">
+  72 points
  </span>
- <span class="score likes" title="67">
-  67 points
+ <span class="score likes" title="73">
+  73 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T21:21:14+00:00" title="Fri Oct 27 21:21:14 2023 UTC">
-  21 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -1598,7 +1783,7 @@
   38 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T01:45:02+00:00" title="Sat Oct 28 01:45:02 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -1623,17 +1808,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="6">
-  6 points
- </span>
- <span class="score unvoted" title="7">
-  7 points
- </span>
- <span class="score likes" title="8">
+ <span class="score dislikes" title="8">
   8 points
  </span>
+ <span class="score unvoted" title="9">
+  9 points
+ </span>
+ <span class="score likes" title="10">
+  10 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T02:44:10+00:00" title="Sat Oct 28 02:44:10 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1660,20 +1845,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="152">
-  152 points
+ <span class="score dislikes" title="162">
+  162 points
  </span>
- <span class="score unvoted" title="153">
-  153 points
+ <span class="score unvoted" title="163">
+  163 points
  </span>
- <span class="score likes" title="154">
-  154 points
+ <span class="score likes" title="164">
+  164 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T19:27:01+00:00" title="Fri Oct 27 19:27:01 2023 UTC">
-  23 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (26 children)
+  (30 children)
  </a>
 </p>
 
@@ -1700,20 +1885,20 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="74">
-  74 points
- </span>
- <span class="score unvoted" title="75">
-  75 points
- </span>
- <span class="score likes" title="76">
+ <span class="score dislikes" title="76">
   76 points
  </span>
+ <span class="score unvoted" title="77">
+  77 points
+ </span>
+ <span class="score likes" title="78">
+  78 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T19:59:57+00:00" title="Fri Oct 27 19:59:57 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (25 children)
+  (29 children)
  </a>
 </p>
 
@@ -1743,20 +1928,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="56">
-  56 points
- </span>
- <span class="score unvoted" title="57">
-  57 points
- </span>
- <span class="score likes" title="58">
+ <span class="score dislikes" title="58">
   58 points
  </span>
+ <span class="score unvoted" title="59">
+  59 points
+ </span>
+ <span class="score likes" title="60">
+  60 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T20:10:49+00:00" title="Fri Oct 27 20:10:49 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (21 children)
+  (25 children)
  </a>
 </p>
 
@@ -1788,10 +1973,10 @@
   35 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T21:53:51+00:00" title="Fri Oct 27 21:53:51 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (6 children)
+  (10 children)
  </a>
 </p>
 
@@ -1817,17 +2002,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="18">
-  18 points
+ <span class="score dislikes" title="22">
+  22 points
  </span>
- <span class="score unvoted" title="19">
-  19 points
+ <span class="score unvoted" title="23">
+  23 points
  </span>
- <span class="score likes" title="20">
-  20 points
+ <span class="score likes" title="24">
+  24 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:22:50+00:00" title="Sat Oct 28 02:22:50 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (3 children)
@@ -1852,17 +2037,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="12">
-  12 points
+ <span class="score dislikes" title="9">
+  9 points
  </span>
- <span class="score unvoted" title="13">
-  13 points
+ <span class="score unvoted" title="10">
+  10 points
  </span>
- <span class="score likes" title="14">
-  14 points
+ <span class="score likes" title="11">
+  11 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:27:01+00:00" title="Sat Oct 28 02:27:01 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -1887,17 +2072,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
+ <span class="score dislikes" title="5">
   5 points
  </span>
- <span class="score likes" title="6">
+ <span class="score unvoted" title="6">
   6 points
  </span>
+ <span class="score likes" title="7">
+  7 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T05:25:03+00:00" title="Sat Oct 28 05:25:03 2023 UTC">
-  13 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -1922,17 +2107,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="3">
-  3 points
- </span>
- <span class="score unvoted" title="4">
-  4 points
- </span>
- <span class="score likes" title="5">
+ <span class="score dislikes" title="5">
   5 points
  </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
+  7 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T06:22:08+00:00" title="Sat Oct 28 06:22:08 2023 UTC">
-  12 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1957,14 +2142,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T15:15:35+00:00" title="Sat Oct 28 15:15:35 2023 UTC">
-  3 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
+  (3 children)
  </a>
 </p>
 
@@ -1998,14 +2189,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T15:51:11+00:00" title="Sat Oct 28 15:51:11 2023 UTC">
-  2 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
+  (2 children)
  </a>
 </p>
 
@@ -2015,6 +2212,150 @@
 
 <p>
  And yeah when I said that Sanji could maybe survive it that was indeed a stretch, and I straight up completely forgot about King and the Lunarians.
+</p>
+
+<p class="parent">
+ <a name="k6uw09i">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_igr9a4pjh" href="https://old.reddit.com/user/DefiantBalls">
+  DefiantBalls
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-28T19:05:34+00:00" title="Sat Oct 28 19:05:34 2023 UTC">
+  9 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ but when it’s specifically magma, everyone is a mundane human with no defensive feats of that scale
+</p>
+
+<p>
+ Not only magma, Oden was injured heavily by being boiled in Oil
+</p>
+
+<p class="parent">
+ <a name="k6uyqo5">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_61avpf9i" href="https://old.reddit.com/user/le_trans_alt">
+  le_trans_alt
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-28T19:24:21+00:00" title="Sat Oct 28 19:24:21 2023 UTC">
+  9 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I mean you’re right but unlike magma, boiling oil at least conceded a little ground in letting Oden remain conscious for a full hour
+</p>
+
+<p class="parent">
+ <a name="k6uy535">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_7g4ceec" href="https://old.reddit.com/user/Wedos98">
+  Wedos98
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-28T19:20:13+00:00" title="Sat Oct 28 19:20:13 2023 UTC">
+  9 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ The only counter I can find for this is his lava form, Kaido is literally swimming in lava without a problem in the world
+</p>
+
+<p class="parent">
+ <a name="k6uzbec">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_61avpf9i" href="https://old.reddit.com/user/le_trans_alt">
+  le_trans_alt
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-28T19:28:18+00:00" title="Sat Oct 28 19:28:18 2023 UTC">
+  9 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ yeah from a logical standpoint Big Mom is melting before she knows what’s going on while Kaido is likely uncomfortable but can push through until either he escapes or something else kills him, but from a narrative standpoint it’d probably end up being the other way around.
 </p>
 
 <p class="parent">
@@ -2036,17 +2377,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="22">
-  22 points
- </span>
- <span class="score unvoted" title="23">
-  23 points
- </span>
- <span class="score likes" title="24">
+ <span class="score dislikes" title="24">
   24 points
  </span>
+ <span class="score unvoted" title="25">
+  25 points
+ </span>
+ <span class="score likes" title="26">
+  26 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T20:17:48+00:00" title="Fri Oct 27 20:17:48 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (13 children)
@@ -2087,17 +2428,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="20">
-  20 points
+ <span class="score dislikes" title="23">
+  23 points
  </span>
- <span class="score unvoted" title="21">
-  21 points
+ <span class="score unvoted" title="24">
+  24 points
  </span>
- <span class="score likes" title="22">
-  22 points
+ <span class="score likes" title="25">
+  25 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T20:30:56+00:00" title="Fri Oct 27 20:30:56 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -2122,17 +2463,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="10">
+ <span class="score dislikes" title="9">
+  9 points
+ </span>
+ <span class="score unvoted" title="10">
   10 points
  </span>
- <span class="score unvoted" title="11">
+ <span class="score likes" title="11">
   11 points
  </span>
- <span class="score likes" title="12">
-  12 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T20:58:05+00:00" title="Fri Oct 27 20:58:05 2023 UTC">
-  21 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2157,17 +2498,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
-  5 points
- </span>
- <span class="score likes" title="6">
+ <span class="score dislikes" title="6">
   6 points
  </span>
+ <span class="score unvoted" title="7">
+  7 points
+ </span>
+ <span class="score likes" title="8">
+  8 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T22:15:02+00:00" title="Fri Oct 27 22:15:02 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (9 children)
@@ -2214,7 +2555,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:42:47+00:00" title="Fri Oct 27 23:42:47 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (8 children)
@@ -2239,17 +2580,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="8">
-  8 points
- </span>
- <span class="score unvoted" title="9">
+ <span class="score dislikes" title="9">
   9 points
  </span>
- <span class="score likes" title="10">
+ <span class="score unvoted" title="10">
   10 points
  </span>
+ <span class="score likes" title="11">
+  11 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T23:57:10+00:00" title="Fri Oct 27 23:57:10 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (6 children)
@@ -2274,17 +2615,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
-  3 points
- </span>
- <span class="score likes" title="4">
+ <span class="score dislikes" title="4">
   4 points
  </span>
+ <span class="score unvoted" title="5">
+  5 points
+ </span>
+ <span class="score likes" title="6">
+  6 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T11:36:38+00:00" title="Sat Oct 28 11:36:38 2023 UTC">
-  7 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (5 children)
@@ -2319,7 +2660,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T11:45:13+00:00" title="Sat Oct 28 11:45:13 2023 UTC">
-  6 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (4 children)
@@ -2344,11 +2685,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T15:17:29+00:00" title="Sat Oct 28 15:17:29 2023 UTC">
-  3 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (3 children)
@@ -2379,11 +2726,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T15:16:56+00:00" title="Sat Oct 28 15:16:56 2023 UTC">
-  3 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2408,17 +2761,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="1">
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
   1 point
  </span>
- <span class="score unvoted" title="2">
+ <span class="score likes" title="2">
   2 points
  </span>
- <span class="score likes" title="3">
-  3 points
- </span>
  <time class="live-timestamp" datetime="2023-10-28T01:40:56+00:00" title="Sat Oct 28 01:40:56 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2453,7 +2806,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:10:11+00:00" title="Fri Oct 27 23:10:11 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -2493,7 +2846,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T05:31:17+00:00" title="Sat Oct 28 05:31:17 2023 UTC">
-  13 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2518,17 +2871,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
+ <span class="score dislikes" title="1">
   1 point
  </span>
- <span class="score likes" title="2">
+ <span class="score unvoted" title="2">
   2 points
  </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T02:38:26+00:00" title="Sat Oct 28 02:38:26 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2558,17 +2911,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="196">
-  196 points
+ <span class="score dislikes" title="205">
+  205 points
  </span>
- <span class="score unvoted" title="197">
-  197 points
+ <span class="score unvoted" title="206">
+  206 points
  </span>
- <span class="score likes" title="198">
-  198 points
+ <span class="score likes" title="207">
+  207 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T19:41:51+00:00" title="Fri Oct 27 19:41:51 2023 UTC">
-  22 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (5 children)
@@ -2593,17 +2946,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="74">
+ <span class="score dislikes" title="73">
+  73 points
+ </span>
+ <span class="score unvoted" title="74">
   74 points
  </span>
- <span class="score unvoted" title="75">
+ <span class="score likes" title="75">
   75 points
  </span>
- <span class="score likes" title="76">
-  76 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T20:32:02+00:00" title="Fri Oct 27 20:32:02 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (4 children)
@@ -2628,17 +2981,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="24">
-  24 points
- </span>
- <span class="score unvoted" title="25">
+ <span class="score dislikes" title="25">
   25 points
  </span>
- <span class="score likes" title="26">
+ <span class="score unvoted" title="26">
   26 points
  </span>
+ <span class="score likes" title="27">
+  27 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T22:51:44+00:00" title="Fri Oct 27 22:51:44 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2663,17 +3016,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="30">
-  30 points
+ <span class="score dislikes" title="33">
+  33 points
  </span>
- <span class="score unvoted" title="31">
-  31 points
+ <span class="score unvoted" title="34">
+  34 points
  </span>
- <span class="score likes" title="32">
-  32 points
+ <span class="score likes" title="35">
+  35 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T21:55:33+00:00" title="Fri Oct 27 21:55:33 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2713,7 +3066,7 @@
   6 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T05:32:22+00:00" title="Sat Oct 28 05:32:22 2023 UTC">
-  13 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -2748,7 +3101,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T10:31:18+00:00" title="Sat Oct 28 10:31:18 2023 UTC">
-  8 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2775,17 +3128,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="69">
-  69 points
+ <span class="score dislikes" title="64">
+  64 points
  </span>
- <span class="score unvoted" title="70">
-  70 points
+ <span class="score unvoted" title="65">
+  65 points
  </span>
- <span class="score likes" title="71">
-  71 points
+ <span class="score likes" title="66">
+  66 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T20:01:55+00:00" title="Fri Oct 27 20:01:55 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -2810,17 +3163,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="16">
-  16 points
- </span>
- <span class="score unvoted" title="17">
+ <span class="score dislikes" title="17">
   17 points
  </span>
- <span class="score likes" title="18">
+ <span class="score unvoted" title="18">
   18 points
  </span>
+ <span class="score likes" title="19">
+  19 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T01:39:26+00:00" title="Sat Oct 28 01:39:26 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2845,17 +3198,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="12">
+ <span class="score dislikes" title="11">
+  11 points
+ </span>
+ <span class="score unvoted" title="12">
   12 points
  </span>
- <span class="score unvoted" title="13">
+ <span class="score likes" title="13">
   13 points
  </span>
- <span class="score likes" title="14">
-  14 points
- </span>
  <time class="live-timestamp" datetime="2023-10-28T02:04:07+00:00" title="Sat Oct 28 02:04:07 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2880,17 +3233,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="50">
-  50 points
+ <span class="score dislikes" title="47">
+  47 points
  </span>
- <span class="score unvoted" title="51">
-  51 points
+ <span class="score unvoted" title="48">
+  48 points
  </span>
- <span class="score likes" title="52">
-  52 points
+ <span class="score likes" title="49">
+  49 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T20:41:45+00:00" title="Fri Oct 27 20:41:45 2023 UTC">
-  21 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (7 children)
@@ -2915,17 +3268,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="36">
-  36 points
+ <span class="score dislikes" title="40">
+  40 points
  </span>
- <span class="score unvoted" title="37">
-  37 points
+ <span class="score unvoted" title="41">
+  41 points
  </span>
- <span class="score likes" title="38">
-  38 points
+ <span class="score likes" title="42">
+  42 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:11:53+00:00" title="Fri Oct 27 22:11:53 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -2960,7 +3313,7 @@
   21 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:42:40+00:00" title="Fri Oct 27 23:42:40 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -2985,17 +3338,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="15">
-  15 points
- </span>
- <span class="score unvoted" title="16">
-  16 points
- </span>
- <span class="score likes" title="17">
+ <span class="score dislikes" title="17">
   17 points
  </span>
+ <span class="score unvoted" title="18">
+  18 points
+ </span>
+ <span class="score likes" title="19">
+  19 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T00:58:06+00:00" title="Sat Oct 28 00:58:06 2023 UTC">
-  17 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3024,17 +3377,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="18">
-  18 points
- </span>
- <span class="score unvoted" title="19">
+ <span class="score dislikes" title="19">
   19 points
  </span>
- <span class="score likes" title="20">
+ <span class="score unvoted" title="20">
   20 points
  </span>
+ <span class="score likes" title="21">
+  21 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T22:55:48+00:00" title="Fri Oct 27 22:55:48 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -3069,7 +3422,7 @@
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:41:18+00:00" title="Sat Oct 28 02:41:18 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3094,17 +3447,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="10">
-  10 points
- </span>
- <span class="score unvoted" title="11">
+ <span class="score dislikes" title="11">
   11 points
  </span>
- <span class="score likes" title="12">
+ <span class="score unvoted" title="12">
   12 points
  </span>
+ <span class="score likes" title="13">
+  13 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T22:27:21+00:00" title="Fri Oct 27 22:27:21 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3139,7 +3492,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:19:23+00:00" title="Sat Oct 28 02:19:23 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3164,17 +3517,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="25">
+ <span class="score dislikes" title="24">
+  24 points
+ </span>
+ <span class="score unvoted" title="25">
   25 points
  </span>
- <span class="score unvoted" title="26">
+ <span class="score likes" title="26">
   26 points
  </span>
- <span class="score likes" title="27">
-  27 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T20:18:12+00:00" title="Fri Oct 27 20:18:12 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3199,17 +3552,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="13">
-  13 points
- </span>
- <span class="score unvoted" title="14">
+ <span class="score dislikes" title="14">
   14 points
  </span>
- <span class="score likes" title="15">
+ <span class="score unvoted" title="15">
   15 points
  </span>
+ <span class="score likes" title="16">
+  16 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T20:34:31+00:00" title="Fri Oct 27 20:34:31 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3234,17 +3587,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="38">
-  38 points
+ <span class="score dislikes" title="34">
+  34 points
  </span>
- <span class="score unvoted" title="39">
-  39 points
+ <span class="score unvoted" title="35">
+  35 points
  </span>
- <span class="score likes" title="40">
-  40 points
+ <span class="score likes" title="36">
+  36 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T20:27:01+00:00" title="Fri Oct 27 20:27:01 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (3 children)
@@ -3269,19 +3622,19 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
   4 points
  </span>
- <span class="score unvoted" title="5">
+ <span class="score likes" title="5">
   5 points
  </span>
- <span class="score likes" title="6">
-  6 points
- </span>
  <time class="live-timestamp" datetime="2023-10-28T03:24:44+00:00" title="Sat Oct 28 03:24:44 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
- <time class="edited-timestamp" datetime="2023-10-28T03:36:01+00:00" title="last edited 15 hours ago">
+ <time class="edited-timestamp" datetime="2023-10-28T03:36:01+00:00" title="last edited 9 days ago">
   *
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -3329,7 +3682,7 @@
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T05:50:27+00:00" title="Sat Oct 28 05:50:27 2023 UTC">
-  12 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3368,7 +3721,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T11:06:32+00:00" title="Sat Oct 28 11:06:32 2023 UTC">
-  7 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3393,17 +3746,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
   4 points
  </span>
- <span class="score unvoted" title="5">
+ <span class="score likes" title="5">
   5 points
  </span>
- <span class="score likes" title="6">
-  6 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T21:36:22+00:00" title="Fri Oct 27 21:36:22 2023 UTC">
-  21 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3428,19 +3781,19 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="18">
-  18 points
- </span>
- <span class="score unvoted" title="19">
+ <span class="score dislikes" title="19">
   19 points
  </span>
- <span class="score likes" title="20">
+ <span class="score unvoted" title="20">
   20 points
  </span>
+ <span class="score likes" title="21">
+  21 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T20:59:25+00:00" title="Fri Oct 27 20:59:25 2023 UTC">
-  21 hours ago
+  9 days ago
  </time>
- <time class="edited-timestamp" datetime="2023-10-27T23:54:40+00:00" title="last edited 18 hours ago">
+ <time class="edited-timestamp" datetime="2023-10-27T23:54:40+00:00" title="last edited 9 days ago">
   *
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -3470,17 +3823,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="6">
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
   6 points
  </span>
- <span class="score unvoted" title="7">
+ <span class="score likes" title="7">
   7 points
  </span>
- <span class="score likes" title="8">
-  8 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T23:53:47+00:00" title="Fri Oct 27 23:53:47 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3505,17 +3858,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="5">
-  5 points
+ <span class="score dislikes" title="2">
+  2 points
  </span>
- <span class="score unvoted" title="6">
-  6 points
+ <span class="score unvoted" title="3">
+  3 points
  </span>
- <span class="score likes" title="7">
-  7 points
+ <span class="score likes" title="4">
+  4 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T20:07:14+00:00" title="Fri Oct 27 20:07:14 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3550,7 +3903,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T19:40:05+00:00" title="Fri Oct 27 19:40:05 2023 UTC">
-  22 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3585,7 +3938,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:48:14+00:00" title="Fri Oct 27 22:48:14 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (5 children)
@@ -3610,17 +3963,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="8">
-  8 points
- </span>
- <span class="score unvoted" title="9">
+ <span class="score dislikes" title="9">
   9 points
  </span>
- <span class="score likes" title="10">
+ <span class="score unvoted" title="10">
   10 points
  </span>
+ <span class="score likes" title="11">
+  11 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T23:00:39+00:00" title="Fri Oct 27 23:00:39 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (4 children)
@@ -3655,7 +4008,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:01:41+00:00" title="Fri Oct 27 23:01:41 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (3 children)
@@ -3680,17 +4033,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="7">
-  7 points
- </span>
- <span class="score unvoted" title="8">
+ <span class="score dislikes" title="8">
   8 points
  </span>
- <span class="score likes" title="9">
+ <span class="score unvoted" title="9">
   9 points
  </span>
+ <span class="score likes" title="10">
+  10 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T23:37:04+00:00" title="Fri Oct 27 23:37:04 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -3733,7 +4086,7 @@
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:48:22+00:00" title="Fri Oct 27 23:48:22 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3772,7 +4125,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:03:57+00:00" title="Fri Oct 27 23:03:57 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3807,7 +4160,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:53:50+00:00" title="Fri Oct 27 22:53:50 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3842,7 +4195,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:38:47+00:00" title="Fri Oct 27 23:38:47 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3877,7 +4230,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T10:56:01+00:00" title="Sat Oct 28 10:56:01 2023 UTC">
-  7 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3912,7 +4265,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:45:33+00:00" title="Fri Oct 27 22:45:33 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3951,7 +4304,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T01:38:14+00:00" title="Sat Oct 28 01:38:14 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -3986,7 +4339,7 @@
   1 point
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:16:41+00:00" title="Sat Oct 28 02:16:41 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4021,7 +4374,7 @@
   1 point
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:29:20+00:00" title="Fri Oct 27 22:29:20 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4056,7 +4409,7 @@
   0 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T01:25:12+00:00" title="Sat Oct 28 01:25:12 2023 UTC">
-  17 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4084,17 +4437,17 @@
  <span class="collapsed-reason">
   comment score below threshold
  </span>
- <span class="score dislikes" title="-6">
-  -6 points
+ <span class="score dislikes" title="-9">
+  -9 points
  </span>
- <span class="score unvoted" title="-5">
-  -5 points
+ <span class="score unvoted" title="-8">
+  -8 points
  </span>
- <span class="score likes" title="-4">
-  -4 points
+ <span class="score likes" title="-7">
+  -7 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T19:37:42+00:00" title="Fri Oct 27 19:37:42 2023 UTC">
-  22 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (8 children)
@@ -4119,17 +4472,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="21">
-  21 points
- </span>
- <span class="score unvoted" title="22">
+ <span class="score dislikes" title="22">
   22 points
  </span>
- <span class="score likes" title="23">
+ <span class="score unvoted" title="23">
   23 points
  </span>
+ <span class="score likes" title="24">
+  24 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T20:01:28+00:00" title="Fri Oct 27 20:01:28 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (6 children)
@@ -4168,7 +4521,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T21:55:19+00:00" title="Fri Oct 27 21:55:19 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (5 children)
@@ -4203,7 +4556,7 @@
   9 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T21:57:33+00:00" title="Fri Oct 27 21:57:33 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (4 children)
@@ -4228,17 +4581,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
+ <span class="score unvoted" title="4">
   4 points
  </span>
+ <span class="score likes" title="5">
+  5 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-28T02:24:01+00:00" title="Sat Oct 28 02:24:01 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (3 children)
@@ -4275,7 +4628,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:52:17+00:00" title="Sat Oct 28 02:52:17 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -4310,7 +4663,7 @@
   6 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:59:05+00:00" title="Sat Oct 28 02:59:05 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -4347,7 +4700,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T03:08:17+00:00" title="Sat Oct 28 03:08:17 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4382,7 +4735,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:56:51+00:00" title="Fri Oct 27 22:56:51 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4417,7 +4770,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T21:47:31+00:00" title="Fri Oct 27 21:47:31 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -4452,7 +4805,7 @@
   8 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T00:33:05+00:00" title="Sat Oct 28 00:33:05 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4487,7 +4840,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:44:07+00:00" title="Fri Oct 27 23:44:07 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4522,7 +4875,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T01:35:39+00:00" title="Sat Oct 28 01:35:39 2023 UTC">
-  17 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4562,7 +4915,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:08:53+00:00" title="Sat Oct 28 02:08:53 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4597,7 +4950,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:17:24+00:00" title="Sat Oct 28 02:17:24 2023 UTC">
-  16 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4637,7 +4990,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T03:09:29+00:00" title="Sat Oct 28 03:09:29 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4672,7 +5025,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T05:14:21+00:00" title="Sat Oct 28 05:14:21 2023 UTC">
-  13 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4712,7 +5065,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T05:55:38+00:00" title="Sat Oct 28 05:55:38 2023 UTC">
-  12 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4747,7 +5100,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T07:45:19+00:00" title="Sat Oct 28 07:45:19 2023 UTC">
-  10 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4782,7 +5135,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T08:04:33+00:00" title="Sat Oct 28 08:04:33 2023 UTC">
-  10 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4817,7 +5170,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T09:10:17+00:00" title="Sat Oct 28 09:10:17 2023 UTC">
-  9 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4852,7 +5205,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T13:00:22+00:00" title="Sat Oct 28 13:00:22 2023 UTC">
-  5 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4877,11 +5230,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T16:50:04+00:00" title="Sat Oct 28 16:50:04 2023 UTC">
-  1 hour ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -4890,5 +5249,44 @@
 
 <p>
  And this Moria got beaten by the rookie Luffy. Moria knew exactly he would never be on same tier with Kaido that he just went on with his illusionary dream of defeating Kaido while being lazy.
+</p>
+
+<p class="parent">
+ <a name="k6xjwzv">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_fudmeiiht" href="https://old.reddit.com/user/MyDayIsRuined6143">
+  MyDayIsRuined6143
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-29T09:14:06+00:00" title="Sun Oct 29 09:14:06 2023 UTC">
+  8 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Its' fun to think that Moria would train and be buff again in his 2 year captivity by BB in Fullalead Island.
+</p>
+
+<p>
+ Strong enough to match Kaido.
 </p>
 

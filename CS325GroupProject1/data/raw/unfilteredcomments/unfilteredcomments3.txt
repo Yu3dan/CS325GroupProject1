@@ -12,17 +12,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="131">
+ <span class="score dislikes" title="129">
+  129 points
+ </span>
+ <span class="score unvoted" title="130">
+  130 points
+ </span>
+ <span class="score likes" title="131">
   131 points
  </span>
- <span class="score unvoted" title="132">
-  132 points
- </span>
- <span class="score likes" title="133">
-  133 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T09:48:40+00:00" title="Fri Oct 27 09:48:40 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (3 children)
@@ -47,17 +47,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="60">
+ <span class="score dislikes" title="59">
+  59 points
+ </span>
+ <span class="score unvoted" title="60">
   60 points
  </span>
- <span class="score unvoted" title="61">
+ <span class="score likes" title="61">
   61 points
  </span>
- <span class="score likes" title="62">
-  62 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T14:12:02+00:00" title="Fri Oct 27 14:12:02 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -87,17 +87,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="23">
-  23 points
- </span>
- <span class="score unvoted" title="24">
+ <span class="score dislikes" title="24">
   24 points
  </span>
- <span class="score likes" title="25">
+ <span class="score unvoted" title="25">
   25 points
  </span>
+ <span class="score likes" title="26">
+  26 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T15:04:52+00:00" title="Fri Oct 27 15:04:52 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -122,17 +122,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="5">
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
   5 points
  </span>
- <span class="score unvoted" title="6">
+ <span class="score likes" title="6">
   6 points
  </span>
- <span class="score likes" title="7">
-  7 points
- </span>
  <time class="live-timestamp" datetime="2023-10-28T01:08:33+00:00" title="Sat Oct 28 01:08:33 2023 UTC">
-  17 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -157,17 +157,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="57">
+ <span class="score dislikes" title="55">
+  55 points
+ </span>
+ <span class="score unvoted" title="56">
+  56 points
+ </span>
+ <span class="score likes" title="57">
   57 points
  </span>
- <span class="score unvoted" title="58">
-  58 points
- </span>
- <span class="score likes" title="59">
-  59 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T13:11:22+00:00" title="Fri Oct 27 13:11:22 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -192,17 +192,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="50">
-  50 points
- </span>
- <span class="score unvoted" title="51">
+ <span class="score dislikes" title="51">
   51 points
  </span>
- <span class="score likes" title="52">
+ <span class="score unvoted" title="52">
   52 points
  </span>
+ <span class="score likes" title="53">
+  53 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T11:35:40+00:00" title="Fri Oct 27 11:35:40 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -227,17 +227,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="12">
-  12 points
- </span>
- <span class="score unvoted" title="13">
+ <span class="score dislikes" title="13">
   13 points
  </span>
- <span class="score likes" title="14">
+ <span class="score unvoted" title="14">
   14 points
  </span>
+ <span class="score likes" title="15">
+  15 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T13:12:20+00:00" title="Fri Oct 27 13:12:20 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -272,7 +272,7 @@
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T21:05:07+00:00" title="Fri Oct 27 21:05:07 2023 UTC">
-  21 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -297,17 +297,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="14">
-  14 points
- </span>
- <span class="score unvoted" title="15">
-  15 points
- </span>
- <span class="score likes" title="16">
+ <span class="score dislikes" title="16">
   16 points
  </span>
+ <span class="score unvoted" title="17">
+  17 points
+ </span>
+ <span class="score likes" title="18">
+  18 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T17:59:45+00:00" title="Fri Oct 27 17:59:45 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -332,17 +332,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="9">
-  9 points
- </span>
- <span class="score unvoted" title="10">
+ <span class="score dislikes" title="10">
   10 points
  </span>
- <span class="score likes" title="11">
+ <span class="score unvoted" title="11">
   11 points
  </span>
+ <span class="score likes" title="12">
+  12 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T20:26:15+00:00" title="Fri Oct 27 20:26:15 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -367,17 +367,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="6">
-  6 points
- </span>
- <span class="score unvoted" title="7">
-  7 points
- </span>
- <span class="score likes" title="8">
+ <span class="score dislikes" title="8">
   8 points
  </span>
+ <span class="score unvoted" title="9">
+  9 points
+ </span>
+ <span class="score likes" title="10">
+  10 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T19:37:17+00:00" title="Fri Oct 27 19:37:17 2023 UTC">
-  23 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -412,7 +412,7 @@
   14 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T15:35:32+00:00" title="Fri Oct 27 15:35:32 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (4 children)
@@ -447,7 +447,7 @@
   5 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T20:37:18+00:00" title="Fri Oct 27 20:37:18 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -484,7 +484,7 @@
   9 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T22:22:32+00:00" title="Fri Oct 27 22:22:32 2023 UTC">
-  20 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -519,7 +519,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:34:07+00:00" title="Fri Oct 27 23:34:07 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -549,17 +549,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="1">
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
   1 point
  </span>
- <span class="score unvoted" title="2">
+ <span class="score likes" title="2">
   2 points
  </span>
- <span class="score likes" title="3">
-  3 points
- </span>
  <time class="live-timestamp" datetime="2023-10-28T12:48:59+00:00" title="Sat Oct 28 12:48:59 2023 UTC">
-  5 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -584,17 +584,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="7">
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
   7 points
  </span>
- <span class="score unvoted" title="8">
-  8 points
- </span>
- <span class="score likes" title="9">
-  9 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T16:13:43+00:00" title="Fri Oct 27 16:13:43 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -634,7 +634,7 @@
   6 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T19:37:05+00:00" title="Fri Oct 27 19:37:05 2023 UTC">
-  23 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -659,17 +659,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
+ <span class="score dislikes" title="6">
   6 points
  </span>
- <span class="score likes" title="7">
+ <span class="score unvoted" title="7">
   7 points
  </span>
+ <span class="score likes" title="8">
+  8 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T22:45:14+00:00" title="Fri Oct 27 22:45:14 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -704,10 +704,10 @@
   5 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T18:13:09+00:00" title="Fri Oct 27 18:13:09 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (4 children)
+  (5 children)
  </a>
 </p>
 
@@ -729,20 +729,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="3">
-  3 points
- </span>
- <span class="score unvoted" title="4">
+ <span class="score dislikes" title="4">
   4 points
  </span>
- <span class="score likes" title="5">
+ <span class="score unvoted" title="5">
   5 points
  </span>
+ <span class="score likes" title="6">
+  6 points
+ </span>
  <time class="live-timestamp" datetime="2023-10-27T18:38:35+00:00" title="Fri Oct 27 18:38:35 2023 UTC">
-  23 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
+  (4 children)
  </a>
 </p>
 
@@ -764,20 +764,20 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
   4 points
  </span>
- <span class="score unvoted" title="5">
+ <span class="score likes" title="5">
   5 points
  </span>
- <span class="score likes" title="6">
-  6 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T18:42:10+00:00" title="Fri Oct 27 18:42:10 2023 UTC">
-  23 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
+  (3 children)
  </a>
 </p>
 
@@ -813,7 +813,7 @@
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T18:48:55+00:00" title="Fri Oct 27 18:48:55 2023 UTC">
-  23 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -850,7 +850,42 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T08:38:48+00:00" title="Sat Oct 28 08:38:48 2023 UTC">
-  9 hours ago
+  9 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ They are prize figures so they are not even 10 dollar each
+</p>
+
+<p class="parent">
+ <a name="k73v1bd">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_7w7pqdab" href="https://old.reddit.com/user/Independent-Dish2476">
+  Independent-Dish2476
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-30T16:31:23+00:00" title="Mon Oct 30 16:31:23 2023 UTC">
+  7 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -858,7 +893,7 @@
 </p>
 
 <p>
- They are prize figures so they are not even 10 dollar each
+ From where? I want em
 </p>
 
 <p class="parent">
@@ -885,7 +920,7 @@
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:02:42+00:00" title="Fri Oct 27 23:02:42 2023 UTC">
-  19 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -910,17 +945,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="5">
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
   5 points
  </span>
- <span class="score unvoted" title="6">
+ <span class="score likes" title="6">
   6 points
  </span>
- <span class="score likes" title="7">
-  7 points
- </span>
  <time class="live-timestamp" datetime="2023-10-27T18:13:21+00:00" title="Fri Oct 27 18:13:21 2023 UTC">
-  1 day ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -945,6 +980,41 @@
  </a>
  <span class="userattrs">
  </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-27T21:19:02+00:00" title="Fri Oct 27 21:19:02 2023 UTC">
+  9 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Any info on where these are available?
+</p>
+
+<p class="parent">
+ <a name="k6rvmn5">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [+]
+ </a>
+ <a class="author may-blank id-t2_nd8qacl1" href="https://old.reddit.com/user/Brylock2135">
+  Brylock2135
+ </a>
+ <span class="userattrs">
+ </span>
  <span class="score dislikes" title="1">
   1 point
  </span>
@@ -954,8 +1024,8 @@
  <span class="score likes" title="3">
   3 points
  </span>
- <time class="live-timestamp" datetime="2023-10-27T21:19:02+00:00" title="Fri Oct 27 21:19:02 2023 UTC">
-  21 hours ago
+ <time class="live-timestamp" datetime="2023-10-28T03:25:20+00:00" title="Sat Oct 28 03:25:20 2023 UTC">
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -963,7 +1033,7 @@
 </p>
 
 <p>
- Any info on where these are available?
+ I require the Issho figurine 🥹
 </p>
 
 <p class="parent">
@@ -990,7 +1060,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T02:58:47+00:00" title="Sat Oct 28 02:58:47 2023 UTC">
-  15 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1025,7 +1095,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T18:54:50+00:00" title="Fri Oct 27 18:54:50 2023 UTC">
-  23 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1060,7 +1130,7 @@
   -3 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T20:56:13+00:00" title="Fri Oct 27 20:56:13 2023 UTC">
-  21 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1095,7 +1165,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T19:54:57+00:00" title="Fri Oct 27 19:54:57 2023 UTC">
-  22 hours ago
+  10 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1135,7 +1205,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T19:57:17+00:00" title="Fri Oct 27 19:57:17 2023 UTC">
-  22 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1170,7 +1240,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-27T23:51:01+00:00" title="Fri Oct 27 23:51:01 2023 UTC">
-  18 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1179,41 +1249,6 @@
 
 <p>
  That Kizaru figure is dope as fuck.
-</p>
-
-<p class="parent">
- <a name="k6rvmn5">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [+]
- </a>
- <a class="author may-blank id-t2_nd8qacl1" href="https://old.reddit.com/user/Brylock2135">
-  Brylock2135
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-10-28T03:25:20+00:00" title="Sat Oct 28 03:25:20 2023 UTC">
-  15 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I require the Issho figurine 🥹
 </p>
 
 <p class="parent">
@@ -1240,7 +1275,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T08:38:42+00:00" title="Sat Oct 28 08:38:42 2023 UTC">
-  9 hours ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1265,11 +1300,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-10-28T16:43:02+00:00" title="Sat Oct 28 16:43:02 2023 UTC">
-  1 hour ago
+  9 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1278,5 +1319,40 @@
 
 <p>
  Is there a site where I can look at Ichiban kuji figures?
+</p>
+
+<p class="parent">
+ <a name="k78bguq">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_mjlee3nl7" href="https://old.reddit.com/user/AtlasTheMotherHolder">
+  AtlasTheMotherHolder
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-10-31T14:09:19+00:00" title="Tue Oct 31 14:09:19 2023 UTC">
+  6 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Where do I buy one?
 </p>
 

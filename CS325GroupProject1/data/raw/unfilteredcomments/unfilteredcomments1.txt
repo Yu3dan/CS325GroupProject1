@@ -17,14 +17,14 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="208">
-  208 points
+ <span class="score dislikes" title="211">
+  211 points
  </span>
- <span class="score unvoted" title="209">
-  209 points
+ <span class="score unvoted" title="212">
+  212 points
  </span>
- <span class="score likes" title="210">
-  210 points
+ <span class="score likes" title="213">
+  213 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:43:14+00:00" title="Sat Sep 9 17:43:14 2023 UTC">
   1 month ago
@@ -77,14 +77,14 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="80">
-  80 points
- </span>
- <span class="score unvoted" title="81">
+ <span class="score dislikes" title="81">
   81 points
  </span>
- <span class="score likes" title="82">
+ <span class="score unvoted" title="82">
   82 points
+ </span>
+ <span class="score likes" title="83">
+  83 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T18:46:14+00:00" title="Sat Sep 9 18:46:14 2023 UTC">
   1 month ago
@@ -124,14 +124,14 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="27">
+ <span class="score dislikes" title="26">
+  26 points
+ </span>
+ <span class="score unvoted" title="27">
   27 points
  </span>
- <span class="score unvoted" title="28">
+ <span class="score likes" title="28">
   28 points
- </span>
- <span class="score likes" title="29">
-  29 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T19:53:24+00:00" title="Sat Sep 9 19:53:24 2023 UTC">
   1 month ago
@@ -172,14 +172,14 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="15">
+ <span class="score dislikes" title="14">
+  14 points
+ </span>
+ <span class="score unvoted" title="15">
   15 points
  </span>
- <span class="score unvoted" title="16">
+ <span class="score likes" title="16">
   16 points
- </span>
- <span class="score likes" title="17">
-  17 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T20:43:50+00:00" title="Sat Sep 9 20:43:50 2023 UTC">
   1 month ago
@@ -333,14 +333,14 @@
   </a>
   ]
  </span>
- <span class="score dislikes" title="5">
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
   5 points
  </span>
- <span class="score unvoted" title="6">
+ <span class="score likes" title="6">
   6 points
- </span>
- <span class="score likes" title="7">
-  7 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:48:33+00:00" title="Sat Sep 9 17:48:33 2023 UTC">
   1 month ago
@@ -389,14 +389,14 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="122">
-  122 points
+ <span class="score dislikes" title="128">
+  128 points
  </span>
- <span class="score unvoted" title="123">
-  123 points
+ <span class="score unvoted" title="129">
+  129 points
  </span>
- <span class="score likes" title="124">
-  124 points
+ <span class="score likes" title="130">
+  130 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T14:30:16+00:00" title="Sat Sep 9 14:30:16 2023 UTC">
   1 month ago
@@ -431,14 +431,14 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="41">
-  41 points
- </span>
- <span class="score unvoted" title="42">
+ <span class="score dislikes" title="42">
   42 points
  </span>
- <span class="score likes" title="43">
+ <span class="score unvoted" title="43">
   43 points
+ </span>
+ <span class="score likes" title="44">
+  44 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:42:48+00:00" title="Sat Sep 9 15:42:48 2023 UTC">
   1 month ago
@@ -471,14 +471,14 @@
   </a>
   ]
  </span>
- <span class="score dislikes" title="54">
-  54 points
+ <span class="score dislikes" title="59">
+  59 points
  </span>
- <span class="score unvoted" title="55">
-  55 points
+ <span class="score unvoted" title="60">
+  60 points
  </span>
- <span class="score likes" title="56">
-  56 points
+ <span class="score likes" title="61">
+  61 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T16:43:28+00:00" title="Sat Sep 9 16:43:28 2023 UTC">
   1 month ago
@@ -510,14 +510,14 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="29">
-  29 points
- </span>
- <span class="score unvoted" title="30">
+ <span class="score dislikes" title="30">
   30 points
  </span>
- <span class="score likes" title="31">
+ <span class="score unvoted" title="31">
   31 points
+ </span>
+ <span class="score likes" title="32">
+  32 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T16:57:42+00:00" title="Sat Sep 9 16:57:42 2023 UTC">
   1 month ago
@@ -590,14 +590,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="14">
+ <span class="score dislikes" title="13">
+  13 points
+ </span>
+ <span class="score unvoted" title="14">
   14 points
  </span>
- <span class="score unvoted" title="15">
+ <span class="score likes" title="15">
   15 points
- </span>
- <span class="score likes" title="16">
-  16 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:05:13+00:00" title="Sat Sep 9 17:05:13 2023 UTC">
   1 month ago
@@ -630,14 +630,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="12">
-  12 points
- </span>
- <span class="score unvoted" title="13">
+ <span class="score dislikes" title="13">
   13 points
  </span>
- <span class="score likes" title="14">
+ <span class="score unvoted" title="14">
   14 points
+ </span>
+ <span class="score likes" title="15">
+  15 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:08:29+00:00" title="Sat Sep 9 17:08:29 2023 UTC">
   1 month ago
@@ -669,14 +669,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="22">
+ <span class="score dislikes" title="20">
+  20 points
+ </span>
+ <span class="score unvoted" title="21">
+  21 points
+ </span>
+ <span class="score likes" title="22">
   22 points
- </span>
- <span class="score unvoted" title="23">
-  23 points
- </span>
- <span class="score likes" title="24">
-  24 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:15:48+00:00" title="Sat Sep 9 17:15:48 2023 UTC">
   1 month ago
@@ -709,14 +709,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="7">
+ <span class="score dislikes" title="6">
+  6 points
+ </span>
+ <span class="score unvoted" title="7">
   7 points
  </span>
- <span class="score unvoted" title="8">
+ <span class="score likes" title="8">
   8 points
- </span>
- <span class="score likes" title="9">
-  9 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:17:04+00:00" title="Sat Sep 9 17:17:04 2023 UTC">
   1 month ago
@@ -851,14 +851,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
+ <span class="score dislikes" title="3">
   3 points
+ </span>
+ <span class="score unvoted" title="4">
+  4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T19:10:07+00:00" title="Sat Sep 9 19:10:07 2023 UTC">
   1 month ago
@@ -888,19 +888,24 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_j8bvj" href="https://old.reddit.com/user/DatGameGuy">
+ <a class="author cakeday may-blank id-t2_j8bvj" href="https://old.reddit.com/user/DatGameGuy">
   DatGameGuy
  </a>
  <span class="userattrs">
+  [
+  <a class="cakeday" href="/user/DatGameGuy" title="DatGameGuy just celebrated a reddit birthday!">
+   🍰
+  </a>
+  ]
  </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
+ <span class="score dislikes" title="7">
   7 points
+ </span>
+ <span class="score unvoted" title="8">
+  8 points
+ </span>
+ <span class="score likes" title="9">
+  9 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T21:06:32+00:00" title="Sat Sep 9 21:06:32 2023 UTC">
   1 month ago
@@ -965,10 +970,15 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_j8bvj" href="https://old.reddit.com/user/DatGameGuy">
+ <a class="author cakeday may-blank id-t2_j8bvj" href="https://old.reddit.com/user/DatGameGuy">
   DatGameGuy
  </a>
  <span class="userattrs">
+  [
+  <a class="cakeday" href="/user/DatGameGuy" title="DatGameGuy just celebrated a reddit birthday!">
+   🍰
+  </a>
+  ]
  </span>
  <span class="score dislikes" title="1">
   1 point
@@ -1425,14 +1435,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="7">
-  7 points
- </span>
- <span class="score unvoted" title="8">
+ <span class="score dislikes" title="8">
   8 points
  </span>
- <span class="score likes" title="9">
+ <span class="score unvoted" title="9">
   9 points
+ </span>
+ <span class="score likes" title="10">
+  10 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T19:14:36+00:00" title="Sat Sep 9 19:14:36 2023 UTC">
   1 month ago
@@ -1476,14 +1486,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="5">
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
   5 points
  </span>
- <span class="score unvoted" title="6">
+ <span class="score likes" title="6">
   6 points
- </span>
- <span class="score likes" title="7">
-  7 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T20:21:06+00:00" title="Sat Sep 9 20:21:06 2023 UTC">
   1 month ago
@@ -1726,14 +1736,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="14">
-  14 points
- </span>
- <span class="score unvoted" title="15">
+ <span class="score dislikes" title="15">
   15 points
  </span>
- <span class="score likes" title="16">
+ <span class="score unvoted" title="16">
   16 points
+ </span>
+ <span class="score likes" title="17">
+  17 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:17:08+00:00" title="Sat Sep 9 15:17:08 2023 UTC">
   1 month ago
@@ -1811,14 +1821,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="4">
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
   4 points
  </span>
- <span class="score unvoted" title="5">
+ <span class="score likes" title="5">
   5 points
- </span>
- <span class="score likes" title="6">
-  6 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:33:25+00:00" title="Sat Sep 9 15:33:25 2023 UTC">
   1 month ago
@@ -1933,14 +1943,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
+ <span class="score dislikes" title="5">
   5 points
  </span>
- <span class="score likes" title="6">
+ <span class="score unvoted" title="6">
   6 points
+ </span>
+ <span class="score likes" title="7">
+  7 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:18:53+00:00" title="Sat Sep 9 15:18:53 2023 UTC">
   1 month ago
@@ -2070,14 +2080,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="273">
-  273 points
- </span>
- <span class="score unvoted" title="274">
+ <span class="score dislikes" title="274">
   274 points
  </span>
- <span class="score likes" title="275">
+ <span class="score unvoted" title="275">
   275 points
+ </span>
+ <span class="score likes" title="276">
+  276 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T14:39:14+00:00" title="Sat Sep 9 14:39:14 2023 UTC">
   1 month ago
@@ -2117,14 +2127,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="151">
-  151 points
- </span>
- <span class="score unvoted" title="152">
-  152 points
- </span>
- <span class="score likes" title="153">
+ <span class="score dislikes" title="153">
   153 points
+ </span>
+ <span class="score unvoted" title="154">
+  154 points
+ </span>
+ <span class="score likes" title="155">
+  155 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T14:42:17+00:00" title="Sat Sep 9 14:42:17 2023 UTC">
   1 month ago
@@ -2152,14 +2162,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="45">
+ <span class="score dislikes" title="43">
+  43 points
+ </span>
+ <span class="score unvoted" title="44">
+  44 points
+ </span>
+ <span class="score likes" title="45">
   45 points
- </span>
- <span class="score unvoted" title="46">
-  46 points
- </span>
- <span class="score likes" title="47">
-  47 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T14:44:58+00:00" title="Sat Sep 9 14:44:58 2023 UTC">
   1 month ago
@@ -2215,14 +2225,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="43">
+ <span class="score dislikes" title="41">
+  41 points
+ </span>
+ <span class="score unvoted" title="42">
+  42 points
+ </span>
+ <span class="score likes" title="43">
   43 points
- </span>
- <span class="score unvoted" title="44">
-  44 points
- </span>
- <span class="score likes" title="45">
-  45 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:46:05+00:00" title="Sat Sep 9 17:46:05 2023 UTC">
   1 month ago
@@ -2294,14 +2304,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="6">
-  6 points
- </span>
- <span class="score unvoted" title="7">
-  7 points
- </span>
- <span class="score likes" title="8">
+ <span class="score dislikes" title="8">
   8 points
+ </span>
+ <span class="score unvoted" title="9">
+  9 points
+ </span>
+ <span class="score likes" title="10">
+  10 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T18:34:20+00:00" title="Sat Sep 9 18:34:20 2023 UTC">
   1 month ago
@@ -2329,14 +2339,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="5">
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
+  4 points
+ </span>
+ <span class="score likes" title="5">
   5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
-  7 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T21:21:45+00:00" title="Sat Sep 9 21:21:45 2023 UTC">
   1 month ago
@@ -2372,14 +2382,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="12">
+ <span class="score dislikes" title="10">
+  10 points
+ </span>
+ <span class="score unvoted" title="11">
+  11 points
+ </span>
+ <span class="score likes" title="12">
   12 points
- </span>
- <span class="score unvoted" title="13">
-  13 points
- </span>
- <span class="score likes" title="14">
-  14 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T19:00:12+00:00" title="Sat Sep 9 19:00:12 2023 UTC">
   1 month ago
@@ -2482,14 +2492,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="58">
-  58 points
- </span>
- <span class="score unvoted" title="59">
+ <span class="score dislikes" title="59">
   59 points
  </span>
- <span class="score likes" title="60">
+ <span class="score unvoted" title="60">
   60 points
+ </span>
+ <span class="score likes" title="61">
+  61 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:42:12+00:00" title="Sat Sep 9 15:42:12 2023 UTC">
   1 month ago
@@ -2521,14 +2531,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="46">
-  46 points
+ <span class="score dislikes" title="43">
+  43 points
  </span>
- <span class="score unvoted" title="47">
-  47 points
+ <span class="score unvoted" title="44">
+  44 points
  </span>
- <span class="score likes" title="48">
-  48 points
+ <span class="score likes" title="45">
+  45 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:06:40+00:00" title="Sat Sep 9 17:06:40 2023 UTC">
   1 month ago
@@ -2556,14 +2566,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="12">
+ <span class="score dislikes" title="11">
+  11 points
+ </span>
+ <span class="score unvoted" title="12">
   12 points
  </span>
- <span class="score unvoted" title="13">
+ <span class="score likes" title="13">
   13 points
- </span>
- <span class="score likes" title="14">
-  14 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T21:00:21+00:00" title="Sat Sep 9 21:00:21 2023 UTC">
   1 month ago
@@ -2593,14 +2603,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="-4">
-  -4 points
- </span>
- <span class="score unvoted" title="-3">
+ <span class="score dislikes" title="-3">
   -3 points
  </span>
- <span class="score likes" title="-2">
+ <span class="score unvoted" title="-2">
   -2 points
+ </span>
+ <span class="score likes" title="-1">
+  -1 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T23:57:43+00:00" title="Sat Sep 9 23:57:43 2023 UTC">
   1 month ago
@@ -2667,14 +2677,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="3">
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
   3 points
  </span>
- <span class="score unvoted" title="4">
+ <span class="score likes" title="4">
   4 points
- </span>
- <span class="score likes" title="5">
-  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-10T00:31:17+00:00" title="Sun Sep 10 00:31:17 2023 UTC">
   1 month ago
@@ -2746,14 +2756,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  <span class="collapsed-reason">
   comment score below threshold
  </span>
- <span class="score dislikes" title="-8">
+ <span class="score dislikes" title="-10">
+  -10 points
+ </span>
+ <span class="score unvoted" title="-9">
+  -9 points
+ </span>
+ <span class="score likes" title="-8">
   -8 points
- </span>
- <span class="score unvoted" title="-7">
-  -7 points
- </span>
- <span class="score likes" title="-6">
-  -6 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:48:54+00:00" title="Sat Sep 9 15:48:54 2023 UTC">
   1 month ago
@@ -2816,14 +2826,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="-2">
-  -2 points
- </span>
- <span class="score unvoted" title="-1">
+ <span class="score dislikes" title="-1">
   -1 points
  </span>
- <span class="score likes" title="0">
+ <span class="score unvoted" title="0">
   0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:51:18+00:00" title="Sat Sep 9 15:51:18 2023 UTC">
   1 month ago
@@ -2851,14 +2861,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="9">
+ <span class="score dislikes" title="8">
+  8 points
+ </span>
+ <span class="score unvoted" title="9">
   9 points
  </span>
- <span class="score unvoted" title="10">
+ <span class="score likes" title="10">
   10 points
- </span>
- <span class="score likes" title="11">
-  11 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:58:45+00:00" title="Sat Sep 9 15:58:45 2023 UTC">
   1 month ago
@@ -2890,14 +2900,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
+ <span class="score unvoted" title="4">
   4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T16:02:48+00:00" title="Sat Sep 9 16:02:48 2023 UTC">
   1 month ago
@@ -3112,14 +3122,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="6">
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
   6 points
  </span>
- <span class="score unvoted" title="7">
+ <span class="score likes" title="7">
   7 points
- </span>
- <span class="score likes" title="8">
-  8 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T16:32:58+00:00" title="Sat Sep 9 16:32:58 2023 UTC">
   1 month ago
@@ -3283,14 +3293,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="17">
+ <span class="score dislikes" title="16">
+  16 points
+ </span>
+ <span class="score unvoted" title="17">
   17 points
  </span>
- <span class="score unvoted" title="18">
+ <span class="score likes" title="18">
   18 points
- </span>
- <span class="score likes" title="19">
-  19 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T20:29:37+00:00" title="Sat Sep 9 20:29:37 2023 UTC">
   1 month ago
@@ -3364,14 +3374,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="8">
+ <span class="score dislikes" title="7">
+  7 points
+ </span>
+ <span class="score unvoted" title="8">
   8 points
  </span>
- <span class="score unvoted" title="9">
+ <span class="score likes" title="9">
   9 points
- </span>
- <span class="score likes" title="10">
-  10 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T19:34:36+00:00" title="Sat Sep 9 19:34:36 2023 UTC">
   1 month ago
@@ -3441,14 +3451,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="20">
-  20 points
- </span>
- <span class="score unvoted" title="21">
+ <span class="score dislikes" title="21">
   21 points
  </span>
- <span class="score likes" title="22">
+ <span class="score unvoted" title="22">
   22 points
+ </span>
+ <span class="score likes" title="23">
+  23 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T19:36:08+00:00" title="Sat Sep 9 19:36:08 2023 UTC">
   1 month ago
@@ -3548,14 +3558,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
+ <span class="score unvoted" title="4">
   4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T22:02:19+00:00" title="Sat Sep 9 22:02:19 2023 UTC">
   1 month ago
@@ -3620,14 +3630,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="6">
-  6 points
- </span>
- <span class="score unvoted" title="7">
+ <span class="score dislikes" title="7">
   7 points
  </span>
- <span class="score likes" title="8">
+ <span class="score unvoted" title="8">
   8 points
+ </span>
+ <span class="score likes" title="9">
+  9 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T22:32:42+00:00" title="Sat Sep 9 22:32:42 2023 UTC">
   1 month ago
@@ -3655,14 +3665,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
   4 points
  </span>
- <span class="score unvoted" title="5">
+ <span class="score likes" title="5">
   5 points
- </span>
- <span class="score likes" title="6">
-  6 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T21:48:07+00:00" title="Sat Sep 9 21:48:07 2023 UTC">
   1 month ago
@@ -3856,14 +3866,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="30">
-  30 points
- </span>
- <span class="score unvoted" title="31">
-  31 points
- </span>
- <span class="score likes" title="32">
+ <span class="score dislikes" title="32">
   32 points
+ </span>
+ <span class="score unvoted" title="33">
+  33 points
+ </span>
+ <span class="score likes" title="34">
+  34 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T16:57:53+00:00" title="Sat Sep 9 16:57:53 2023 UTC">
   1 month ago
@@ -3896,14 +3906,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="15">
+ <span class="score dislikes" title="14">
+  14 points
+ </span>
+ <span class="score unvoted" title="15">
   15 points
  </span>
- <span class="score unvoted" title="16">
+ <span class="score likes" title="16">
   16 points
- </span>
- <span class="score likes" title="17">
-  17 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:02:25+00:00" title="Sat Sep 9 17:02:25 2023 UTC">
   1 month ago
@@ -3935,14 +3945,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="6">
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
   6 points
  </span>
- <span class="score unvoted" title="7">
+ <span class="score likes" title="7">
   7 points
- </span>
- <span class="score likes" title="8">
-  8 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:22:26+00:00" title="Sat Sep 9 17:22:26 2023 UTC">
   1 month ago
@@ -3984,14 +3994,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="40">
+ <span class="score dislikes" title="39">
+  39 points
+ </span>
+ <span class="score unvoted" title="40">
   40 points
  </span>
- <span class="score unvoted" title="41">
+ <span class="score likes" title="41">
   41 points
- </span>
- <span class="score likes" title="42">
-  42 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:39:57+00:00" title="Sat Sep 9 15:39:57 2023 UTC">
   1 month ago
@@ -4062,14 +4072,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="13">
-  13 points
- </span>
- <span class="score unvoted" title="14">
+ <span class="score dislikes" title="14">
   14 points
  </span>
- <span class="score likes" title="15">
+ <span class="score unvoted" title="15">
   15 points
+ </span>
+ <span class="score likes" title="16">
+  16 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T15:45:58+00:00" title="Sat Sep 9 15:45:58 2023 UTC">
   1 month ago
@@ -4178,14 +4188,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="3">
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
   3 points
  </span>
- <span class="score unvoted" title="4">
+ <span class="score likes" title="4">
   4 points
- </span>
- <span class="score likes" title="5">
-  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:12:23+00:00" title="Sat Sep 9 17:12:23 2023 UTC">
   1 month ago
@@ -4218,14 +4228,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
+ <span class="score unvoted" title="4">
   4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:14:40+00:00" title="Sat Sep 9 17:14:40 2023 UTC">
   1 month ago
@@ -4257,14 +4267,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="8">
+ <span class="score dislikes" title="7">
+  7 points
+ </span>
+ <span class="score unvoted" title="8">
   8 points
  </span>
- <span class="score unvoted" title="9">
+ <span class="score likes" title="9">
   9 points
- </span>
- <span class="score likes" title="10">
-  10 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T19:10:56+00:00" title="Sat Sep 9 19:10:56 2023 UTC">
   1 month ago
@@ -4371,14 +4381,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
+ <span class="score dislikes" title="3">
   3 points
+ </span>
+ <span class="score unvoted" title="4">
+  4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:56:09+00:00" title="Sat Sep 9 17:56:09 2023 UTC">
   1 month ago
@@ -4406,14 +4416,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
+ <span class="score unvoted" title="4">
   4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:58:38+00:00" title="Sat Sep 9 17:58:38 2023 UTC">
   1 month ago
@@ -4549,14 +4559,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="3">
-  3 points
- </span>
- <span class="score unvoted" title="4">
-  4 points
- </span>
- <span class="score likes" title="5">
+ <span class="score dislikes" title="5">
   5 points
+ </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
+  7 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T18:03:03+00:00" title="Sat Sep 9 18:03:03 2023 UTC">
   1 month ago
@@ -4625,14 +4635,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="19">
+ <span class="score dislikes" title="18">
+  18 points
+ </span>
+ <span class="score unvoted" title="19">
   19 points
  </span>
- <span class="score unvoted" title="20">
+ <span class="score likes" title="20">
   20 points
- </span>
- <span class="score likes" title="21">
-  21 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:30:53+00:00" title="Sat Sep 9 17:30:53 2023 UTC">
   1 month ago
@@ -4723,14 +4733,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
+ <span class="score unvoted" title="4">
   4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:47:32+00:00" title="Sat Sep 9 17:47:32 2023 UTC">
   1 month ago
@@ -4763,14 +4773,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="3">
-  3 points
- </span>
- <span class="score unvoted" title="4">
+ <span class="score dislikes" title="4">
   4 points
  </span>
- <span class="score likes" title="5">
+ <span class="score unvoted" title="5">
   5 points
+ </span>
+ <span class="score likes" title="6">
+  6 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:51:26+00:00" title="Sat Sep 9 17:51:26 2023 UTC">
   1 month ago
@@ -4843,14 +4853,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
   </a>
   ]
  </span>
- <span class="score dislikes" title="3">
-  3 points
- </span>
- <span class="score unvoted" title="4">
-  4 points
- </span>
- <span class="score likes" title="5">
+ <span class="score dislikes" title="5">
   5 points
+ </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
+  7 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:58:02+00:00" title="Sat Sep 9 17:58:02 2023 UTC">
   1 month ago
@@ -4887,14 +4897,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
+ <span class="score unvoted" title="4">
   4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T18:00:19+00:00" title="Sat Sep 9 18:00:19 2023 UTC">
   1 month ago
@@ -4967,14 +4977,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
+ <span class="score unvoted" title="4">
   4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T18:02:45+00:00" title="Sat Sep 9 18:02:45 2023 UTC">
   1 month ago
@@ -5177,14 +5187,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
+ <span class="score unvoted" title="4">
   4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T22:56:40+00:00" title="Sat Sep 9 22:56:40 2023 UTC">
   1 month ago
@@ -5927,14 +5937,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="4">
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
   4 points
  </span>
- <span class="score unvoted" title="5">
+ <span class="score likes" title="5">
   5 points
- </span>
- <span class="score likes" title="6">
-  6 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T23:28:37+00:00" title="Sat Sep 9 23:28:37 2023 UTC">
   1 month ago
@@ -6301,14 +6311,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
   2 points
  </span>
- <span class="score unvoted" title="3">
+ <span class="score likes" title="3">
   3 points
- </span>
- <span class="score likes" title="4">
-  4 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T18:41:17+00:00" title="Sat Sep 9 18:41:17 2023 UTC">
   1 month ago
@@ -6411,14 +6421,14 @@ Jinbe's current bounty is inflated af, dude has a bounty bigger than Katakuri's.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="3">
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
   3 points
  </span>
- <span class="score unvoted" title="4">
+ <span class="score likes" title="4">
   4 points
- </span>
- <span class="score likes" title="5">
-  5 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T19:59:08+00:00" title="Sat Sep 9 19:59:08 2023 UTC">
   1 month ago
@@ -6844,14 +6854,14 @@ And Law is not a swordsman🙂
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="1">
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
   1 point
  </span>
- <span class="score unvoted" title="2">
+ <span class="score likes" title="2">
   2 points
- </span>
- <span class="score likes" title="3">
-  3 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T14:38:59+00:00" title="Sat Sep 9 14:38:59 2023 UTC">
   1 month ago
@@ -7568,14 +7578,14 @@ And Law is not a swordsman🙂
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="2">
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
   2 points
  </span>
- <span class="score unvoted" title="3">
+ <span class="score likes" title="3">
   3 points
- </span>
- <span class="score likes" title="4">
-  4 points
  </span>
  <time class="live-timestamp" datetime="2023-09-09T17:52:17+00:00" title="Sat Sep 9 17:52:17 2023 UTC">
   1 month ago
@@ -8006,14 +8016,14 @@ And Law is not a swordsman🙂
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="-2">
-  -2 points
- </span>
- <span class="score unvoted" title="-1">
+ <span class="score dislikes" title="-1">
   -1 points
  </span>
- <span class="score likes" title="0">
+ <span class="score unvoted" title="0">
   0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
  </span>
  <time class="live-timestamp" datetime="2023-09-09T16:08:41+00:00" title="Sat Sep 9 16:08:41 2023 UTC">
   1 month ago
