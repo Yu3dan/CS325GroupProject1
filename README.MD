@@ -45,6 +45,8 @@ https://old.reddit.com/r/OnePiece/comments/17hjder/new_admirals_figurines/
 
 Note: Make sure the cursor ends at the last / of the URL given. If there is an empty line(s) after the URLs you pasted into the text file there will be an error given because it doesn't recognized an empty space as a URL.
 
+You must also add your chatGPT api key to the api_key.txt file in module_4. This file should consist only of your api key with no ther text, otherwise you may run into errors.
+
 Now, the syntax to run this program is: (the name of the text file containing all the Reddit URL's I created are listOfURLS.txt)
 
 ```
