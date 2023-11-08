@@ -97,7 +97,8 @@ for val in commentVals:
     fa = open(f"./data/sentiments/sentiments{i}.csv", "w")
     itemsPerBatch = 7
     for j in range(len(splitVals)):
-        if j % itemsPerBatch == 0 and currentVals != "":
+        print(len(currentVals))
+        if len(currentVals) > 2500:
             # On every fifth value send it to the ai
             print("Getting sentiment batch")
             batch = getSentiment(currentVals)
@@ -110,7 +111,7 @@ for val in commentVals:
                 continue
             elif "cookie values" in batch:
                 print("batch failed, cookie error")
-                j -= 1
+                # j -= 1
                 continue
             responses += batch + ", "
             print("Sentiment batch received")
@@ -118,11 +119,10 @@ for val in commentVals:
             currentVals = ""
             # Needed to slow down the receiving otherwise google would get mad for sending too many
             sleep(5)
-        sleep(30)
         # Sleep between files to give extra safety
         currentVals += splitVals[j]
-        
-
+    responses += getSentiment(currentVals)
+    # Add the rest of the values to the sentiment
     # print(sentiments)
-    
-    fa.writelines(responses)
+    fa.writelines(responses.replace(".", ""))
+    sleep(30) #Extra slowdown to be more sure we wont have any issues
