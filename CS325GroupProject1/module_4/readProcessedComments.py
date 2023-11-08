@@ -1,6 +1,6 @@
 import os
 import regex, re
-from module_4 import sentiment_analysis
+# from module_4 import sentiment_analysis
 files = os.scandir("./data/processed/")
 fileDataRaw = []
 for filePath in files:
@@ -42,19 +42,44 @@ for pageData in fileDataRaw:
 
 
 commentVals = []
-commentVals.append("""""")
-i = 0
+commentVals.append("")
+j = 0
 for file in fileData:
-    for val in file:
-        # For each comment
-        if len(commentVals[i]) + len(val[0]) > 4000:
-            # A basic check to see how many tokens this will have taken up. Not accurate but should always be lower than actuality so should be safe
-            print(sentiment_analysis.getSentiment(commentVals[i]))
-            commentVals.append("""""")
-            i += 1
-        valLine = val[0] + "\n\n"
-        # print("ValLine: ", valLine)
-        commentVals[i] += valLine
-        
-    # print(len(commentVals))
+    for i in range(50):
+        if len(file) > i:
+            commentVals[j] += file[i][0] + "\n"
+    j += 1
+    commentVals.append("")
+commentVals.pop(len(commentVals) - 1)
+
+from openai import OpenAI
+prompt = """I am going to send you a series of comments, give me the sentiment analysis for each of the following comments in order. Do not explain the sentiment, do not add any extra information. Only separate the sentiments by a comma..\n
+"""
+# Use the prompt and add the lines
+
+
+# Create the client for chatGPT
+global client
+
+fa = open("./module_4/api_key.txt", "r")
+key = fa.readline().strip()
+
+client = OpenAI(key)
+
+def getSentiment(items : str) -> str:
+    # inVal = prompt + items
+    global client
+    print("Getting sentiment: ", items)
+    response = client.chat.completions.create(model="gpt-3.5-turbo",
+                                              messages=[
+                                                  {"role":"system", "content":prompt},
+                                                  {"role":"user", "content":items}
+                                              ])
     
+    return response.choices[0].message.content
+i = 0
+for val in commentVals:
+    sentiments = getSentiment(val)
+    i += 1
+    fa = open(f"../data/sentiments/sentiments{i}.csv", "w")
+    fa.writelines(sentiments)
