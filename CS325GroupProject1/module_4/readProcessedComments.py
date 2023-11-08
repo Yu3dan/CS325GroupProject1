@@ -52,32 +52,39 @@ for file in fileData:
     commentVals.append("")
 commentVals.pop(len(commentVals) - 1)
 
-from openai import OpenAI
-prompt = """I am going to send you a series of comments, give me the sentiment analysis for each of the following comments in order. Do not explain the sentiment, do not add any extra information. Only separate the sentiments by a comma..\n
-"""
-# Use the prompt and add the lines
+from bardapi import Bard
+import requests
 
+PSID = open("./PSID", "r").readline()
+PSIDCC = open("./PSIDCC", "r").readline()
+PSIDTS = open("./PSIDTS", "r").readline()
 
-# Create the client for chatGPT
+session = requests.Session()
+# This is a whole pain but it does actually work unlike chatgpt
+session.cookies.set("__Secure-1PSID", PSID)
+session.cookies.set( "__Secure-1PSIDCC", PSIDCC)
+session.cookies.set("__Secure-1PSIDTS", PSIDTS)
+session.headers = {
+        "Host": "bard.google.com",
+        "X-Same-Domain": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.4472.114 Safari/537.36",
+        "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+        "Origin": "https://bard.google.com",
+        "Referer": "https://bard.google.com/",
+ }
+
 global client
+client = Bard(token=PSID, session=session)
+# The starting prompt in order to get information properly
 
-fa = open("./module_4/api_key.txt", "r")
-key = fa.readline().strip()
 
-client = OpenAI(key)
-
-def getSentiment(items : str) -> str:
-    # inVal = prompt + items
+def getSentiment(val : str) -> str:
+    prompt = "I am going to send you a series of comments, give me the sentiment analysis for each of the following comments in order. Do not explain the sentiment, do not add any extra information. Only separate the sentiments by a comma..\n"
     global client
-    print("Getting sentiment: ", items)
-    response = client.chat.completions.create(model="gpt-3.5-turbo",
-                                              messages=[
-                                                  {"role":"system", "content":prompt},
-                                                  {"role":"user", "content":items}
-                                              ])
-    
-    return response.choices[0].message.content
-i = 0
+    response = client.get_answer(prompt + val)
+    return response["content"]
+
+
 for val in commentVals:
     sentiments = getSentiment(val)
     i += 1
