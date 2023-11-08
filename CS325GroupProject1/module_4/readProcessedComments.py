@@ -55,9 +55,9 @@ commentVals.pop(len(commentVals) - 1)
 from bardapi import Bard
 import requests
 
-PSID = open("./PSID", "r").readline()
-PSIDCC = open("./PSIDCC", "r").readline()
-PSIDTS = open("./PSIDTS", "r").readline()
+PSID = open("./module_4/PSID", "r").readline()
+PSIDCC = open("./module_4/PSIDCC", "r").readline()
+PSIDTS = open("./module_4/PSIDTS", "r").readline()
 
 session = requests.Session()
 # This is a whole pain but it does actually work unlike chatgpt
@@ -79,14 +79,50 @@ client = Bard(token=PSID, session=session)
 
 
 def getSentiment(val : str) -> str:
-    prompt = "I am going to send you a series of comments, give me the sentiment analysis for each of the following comments in order. Do not explain the sentiment, do not add any extra information. Only separate the sentiments by a comma..\n"
+    prompt = "I am going to send you a series of comments, only give me the sentiment analysis for each of the following comments in order. Do not explain the sentiment, do not add any extra information. Only separate the sentiments by a comma..\n"
     global client
     response = client.get_answer(prompt + val)
+    # print(prompt + val)
     return response["content"]
 
-
+i = 0
+from time import sleep
 for val in commentVals:
-    sentiments = getSentiment(val)
+    # print("Getting sentiments for: ", val[:500])
+    # If we allow too many sentiments through the ai gets confused and does not answer properly
+    splitVals = val.split("\n")
+    currentVals = ""
+    responses = ""
     i += 1
-    fa = open(f"../data/sentiments/sentiments{i}.csv", "w")
-    fa.writelines(sentiments)
+    fa = open(f"./data/sentiments/sentiments{i}.csv", "w")
+    itemsPerBatch = 7
+    for j in range(len(splitVals)):
+        if j % itemsPerBatch == 0 and currentVals != "":
+            # On every fifth value send it to the ai
+            print("Getting sentiment batch")
+            batch = getSentiment(currentVals)
+            print(batch)
+            if "language model" in batch:
+
+                
+                print("Batch failed, too long")
+                responses += "FAIL, " * itemsPerBatch
+                continue
+            elif "cookie values" in batch:
+                print("batch failed, cookie error")
+                j -= 1
+                continue
+            responses += batch + ", "
+            print("Sentiment batch received")
+            
+            currentVals = ""
+            # Needed to slow down the receiving otherwise google would get mad for sending too many
+            sleep(5)
+        sleep(30)
+        # Sleep between files to give extra safety
+        currentVals += splitVals[j]
+        
+
+    # print(sentiments)
+    
+    fa.writelines(responses)
