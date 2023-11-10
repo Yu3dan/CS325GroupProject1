@@ -45,7 +45,9 @@ https://old.reddit.com/r/OnePiece/comments/17hjder/new_admirals_figurines/
 
 Note: Make sure the cursor ends at the last / of the URL given. If there is an empty line(s) after the URLs you pasted into the text file there will be an error given because it doesn't recognized an empty space as a URL.
 
-You must give the program your Google Bard cookies, PSID, PSIDCC, and PSIDTS. To get these values (in Firefox), you open bard.google.com, inspect, navigate to storage, click cookies, and copy the data from __Secure-1PSID, __Secure-1PSIDCC, __Secure-1PSIDTS to their respective files in module_4.
+There is a limit on how many sentiment anaylsis you are able to run, if you run too many URL's with a lot of comments, you will recieve errors on the sentiment analysis portion however the comments will print properly.
+
+Next, you must give the program your Google Bard cookies, PSID, PSIDCC, and PSIDTS. To get these values (in Firefox), you open bard.google.com, inspect, navigate to storage, click cookies, and copy the data from __Secure-1PSID, __Secure-1PSIDCC, __Secure-1PSIDTS to their respective files in module_4.
 
 Now, the syntax to run this program is: (the name of the text file containing all the Reddit URL's I created are listOfURLS.txt)
 
@@ -55,6 +57,5 @@ python run.py listOfURLs.txt
 
 The output of this project should be text files where all comments of each post are filtered is under the folder Data and subfolder processed.
 
-If ran correctly, you should multiple text files named numerically according to what order you had the links in the text file.
+If ran correctly, you should multiple text files named numerically according to what order you had the links in the text file. Along with this there will be a Sentiments subfolder under the data folder that contains .csv files with all of the sentiment analysis of each adjusted post in order.
 If you want to remove any of the URLs provided and add your own, just make sure you follow the syntax in step 2.
-
