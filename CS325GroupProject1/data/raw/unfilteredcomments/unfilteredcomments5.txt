@@ -1,0 +1,885 @@
+<p class="parent">
+ <a name="k9jm5ak">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author moderator may-blank id-t2_6l4z3" href="https://old.reddit.com/user/AutoModerator">
+  AutoModerator
+ </a>
+ <span class="userattrs">
+  [
+  <a class="moderator" href="/r/JuJutsuKaisen/about/moderators" title="moderator of r/JuJutsuKaisen, speaking officially">
+   M
+  </a>
+  ]
+ </span>
+ <span class="score-hidden" title="scores for stickied comments are visible to mods only">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-11-16T19:53:33+00:00" title="Thu Nov 16 19:53:33 2023 UTC">
+  22 hours ago
+ </time>
+ <span class="stickied-tagline" title="selected by this subreddit's moderators">
+  stickied comment
+ </span>
+ <span class="locked-tagline" title="locked by this subreddit's moderators">
+  locked comment
+ </span>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ <strong>
+  If this post does not have a spoiler tag, SPOILER TAG MANGA COMMENTS
+ </strong>
+ , or you risk a tempban. Keep it secret for the anime watchers.  Please remember that vague spoilers count as spoilers such as "do we tell them".
+If you're caught up on the manga, consider joining our sister sub
+ <a href="/r/Jujutsushi" rel="nofollow">
+  r/Jujutsushi
+ </a>
+ for catered, in-depth manga discussion.
+</p>
+
+<p>
+ <em>
+  I am a bot, and this action was performed automatically. Please
+  <a href="/message/compose/?to=/r/JuJutsuKaisen" rel="nofollow">
+   contact the moderators of this subreddit
+  </a>
+  if you have any questions or concerns.
+ </em>
+</p>
+
+<p class="parent">
+ <a name="k9jpblm">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_w7ky26qp" href="https://old.reddit.com/user/itsnotgivinghonestly">
+  itsnotgivinghonestly
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="19">
+  19 points
+ </span>
+ <span class="score unvoted" title="20">
+  20 points
+ </span>
+ <span class="score likes" title="21">
+  21 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-16T20:14:05+00:00" title="Thu Nov 16 20:14:05 2023 UTC">
+  21 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ I'm still scared to even start watching this arc because I know what will happen to my beloved comfort character
+ <span class="md-spoiler-text">
+  Nanami Kento
+ </span>
+</p>
+
+<p class="parent">
+ <a name="k9ktlvq">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_yzxr3xo" href="https://old.reddit.com/user/DorothyDrangus">
+  DorothyDrangus
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="8">
+  8 points
+ </span>
+ <span class="score unvoted" title="9">
+  9 points
+ </span>
+ <span class="score likes" title="10">
+  10 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T00:53:47+00:00" title="Fri Nov 17 00:53:47 2023 UTC">
+  17 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ We’re just
+ <em>
+  almost
+ </em>
+ there. But it’s been excellent so far, damn what the haters say
+</p>
+
+<p class="parent">
+ <a name="k9khh1r">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_fykv5qxk" href="https://old.reddit.com/user/DZK0047">
+  DZK0047
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="9">
+  9 points
+ </span>
+ <span class="score unvoted" title="10">
+  10 points
+ </span>
+ <span class="score likes" title="11">
+  11 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-16T23:23:20+00:00" title="Thu Nov 16 23:23:20 2023 UTC">
+  18 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ The pain only gets worse I’m afraid
+</p>
+
+<p class="parent">
+ <a name="k9knu3y">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_1cpag1j1" href="https://old.reddit.com/user/HuCat21">
+  HuCat21
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="9">
+  9 points
+ </span>
+ <span class="score unvoted" title="10">
+  10 points
+ </span>
+ <span class="score likes" title="11">
+  11 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T00:10:01+00:00" title="Fri Nov 17 00:10:01 2023 UTC">
+  17 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ It was at this point I had to ask myself...."is Gege a villian?" Cuz this is real villian shit he's doing here lol.
+</p>
+
+<p class="parent">
+ <a name="k9kuyp9">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3723j6xp" href="https://old.reddit.com/user/chadbrad1738">
+  chadbrad1738
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
+  5 points
+ </span>
+ <span class="score likes" title="6">
+  6 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T01:04:17+00:00" title="Fri Nov 17 01:04:17 2023 UTC">
+  17 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ My fav anime arc
+</p>
+
+<p class="parent">
+ <a name="k9ngvxk">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_1ab0polr" href="https://old.reddit.com/user/VARDHAN_157">
+  VARDHAN_157
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T16:18:34+00:00" title="Fri Nov 17 16:18:34 2023 UTC">
+  1 hour ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Def my top 5 along with Pain Arc, Rescuing Rukia arc, York Town Arc, RtS arc
+</p>
+
+<p class="parent">
+ <a name="k9k72i0">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_p1q4jf3b" href="https://old.reddit.com/user/Sushi_cakes_">
+  Sushi_cakes_
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
+  5 points
+ </span>
+ <span class="score likes" title="6">
+  6 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-16T22:10:21+00:00" title="Thu Nov 16 22:10:21 2023 UTC">
+  19 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I feel you, weirdly enough several of the most recent episodes have left me with actual chills. I was practically shaking by the end of this episode. I have never had that happen. I’m not exaggerating either, as much as I loved season 1 of jjk I have to be honest that during season 2 is the first time I started shaking from the hype.
+</p>
+
+<p>
+ I also have read the manga, so I knew what would happen but still got crazy chills watching it unfold in the anime. It’s been a fantastic experience so far.
+</p>
+
+<p class="parent">
+ <a name="k9ki5c8">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_5ti5vpmc2" href="https://old.reddit.com/user/aot-and-yakuzafan_88">
+  aot-and-yakuzafan_88
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
+  7 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-16T23:28:14+00:00" title="Thu Nov 16 23:28:14 2023 UTC">
+  18 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Sukuna's rampage should be the least of your concerns.
+</p>
+
+<p class="parent">
+ <a name="k9lnbwn">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_5gozbhnr" href="https://old.reddit.com/user/lozzy1400">
+  lozzy1400
+ </a>
+ <span class="flair flair-Gojou" title=" .">
+  .
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T04:49:35+00:00" title="Fri Nov 17 04:49:35 2023 UTC">
+  13 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I felt teary watching Yuji cry. I felt like reaching through the screen to hug him. They did a fantastic job with that scene!
+</p>
+
+<p class="parent">
+ <a name="k9mnz4y">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_42uxpjqz6" href="https://old.reddit.com/user/alethra_oberhelm">
+  alethra_oberhelm
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T12:34:44+00:00" title="Fri Nov 17 12:34:44 2023 UTC">
+  5 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I usually don't cry over tv series or movies, but seeing Yuji's despair + the Specialz ost playing as though to mock him some more just shattered me and left me in shambles.
+</p>
+
+<p>
+ If I could reach out towards my TV and hug Yuji I would do it 🥺
+</p>
+
+<p class="parent">
+ <a name="k9k9ieo">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_8jrhy64r" href="https://old.reddit.com/user/ApplePitou">
+  ApplePitou
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
+ </span>
+ <time class="live-timestamp" datetime="2023-11-16T22:26:51+00:00" title="Thu Nov 16 22:26:51 2023 UTC">
+  19 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ This Arc is peak :3
+</p>
+
+<p class="parent">
+ <a name="k9l0gv3">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_5jtamc8x" href="https://old.reddit.com/user/Shadow_Huntress12">
+  Shadow_Huntress12
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T01:45:54+00:00" title="Fri Nov 17 01:45:54 2023 UTC">
+  16 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Shibuya left me in tears🐍
+</p>
+
+<p class="parent">
+ <a name="k9m3udy">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_1i5hkubl" href="https://old.reddit.com/user/GoldenGekko">
+  GoldenGekko
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T08:03:22+00:00" title="Fri Nov 17 08:03:22 2023 UTC">
+  10 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I respectfully disagree with using the opening song during Yuji's breakdown. It's like dance music.. and I don't really listen to the lyrics for symbolism since I'm trying to listen to the VA have a mental breakdown during an impactful moment.
+</p>
+
+<p>
+ But that's like my opinion
+</p>
+
+<p class="parent">
+ <a name="k9l1ngi">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_fq5y3b" href="https://old.reddit.com/user/Adm_Kunkka">
+  Adm_Kunkka
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T01:54:36+00:00" title="Fri Nov 17 01:54:36 2023 UTC">
+  16 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (8 children)
+ </a>
+</p>
+
+<p>
+ Fking Gojo's overconfidence led to all this shit. He should've just blitzed every cursed spirit without wasting time
+</p>
+
+<p class="parent">
+ <a name="k9m7k8t">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_ajvzrbmo" href="https://old.reddit.com/user/Legitimate_Cow7198">
+  Legitimate_Cow7198
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T08:57:19+00:00" title="Fri Nov 17 08:57:19 2023 UTC">
+  9 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (7 children)
+ </a>
+</p>
+
+<p>
+ It wasn't his overconfidence it was his morals and obligations. He didn't want to kill the humans present, they explained how even a little fast movement from him would be like getting hit by a semi truck for a regular human. If Gojo gave no fucks, he would just kill everyone there with UV and call it a day.
+</p>
+
+<p class="parent">
+ <a name="k9m9ihw">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_fq5y3b" href="https://old.reddit.com/user/Adm_Kunkka">
+  Adm_Kunkka
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T09:26:36+00:00" title="Fri Nov 17 09:26:36 2023 UTC">
+  8 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (6 children)
+ </a>
+</p>
+
+<p>
+ Hmm ok. Then I blame whoever let a finger be placed at a fking school and then sent a kid to retrieve it
+</p>
+
+<p class="parent">
+ <a name="k9mbn6h">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_ajvzrbmo" href="https://old.reddit.com/user/Legitimate_Cow7198">
+  Legitimate_Cow7198
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T09:58:41+00:00" title="Fri Nov 17 09:58:41 2023 UTC">
+  8 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (5 children)
+ </a>
+</p>
+
+<p>
+ You act like a finger would not make its way down Yuji's throat eventually. You should blame the person who convinced Gojo to not let Yuji be killed.
+</p>
+
+<p class="parent">
+ <a name="k9mjdw7">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_fq5y3b" href="https://old.reddit.com/user/Adm_Kunkka">
+  Adm_Kunkka
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T11:45:10+00:00" title="Fri Nov 17 11:45:10 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ I don't think Gojo would've let Yuji die even without Megumi. And why would a finger go down Yuji eventually? Noone knew he was a suitable vessel before right?
+</p>
+
+<p class="parent">
+ <a name="k9mkvzc">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_ajvzrbmo" href="https://old.reddit.com/user/Legitimate_Cow7198">
+  Legitimate_Cow7198
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T12:02:22+00:00" title="Fri Nov 17 12:02:22 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Well it's definitely likely Gojo would try and save him either way, but at the same time he asked Megumi what he wants him to do with Yuji, giving him the choice.
+</p>
+
+<p class="parent">
+ <a name="k9mjgzb">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_fq5y3b" href="https://old.reddit.com/user/Adm_Kunkka">
+  Adm_Kunkka
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T11:46:11+00:00" title="Fri Nov 17 11:46:11 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ On that note, couldn't the trance granny used a finger to revive sukuna and basically own him? Could've tried that to fight Gojo
+</p>
+
+<p class="parent">
+ <a name="k9mkggc">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_ajvzrbmo" href="https://old.reddit.com/user/Legitimate_Cow7198">
+  Legitimate_Cow7198
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T11:57:29+00:00" title="Fri Nov 17 11:57:29 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Possibly, but maybe Sukuna technically not actually being dead might stop the technique from working on him.
+</p>
+
+<p class="parent">
+ <a name="k9n2715">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_57hndc7n" href="https://old.reddit.com/user/madgodcthulhu">
+  madgodcthulhu
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T14:35:21+00:00" title="Fri Nov 17 14:35:21 2023 UTC">
+  3 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I don’t think so mahito touching sukunas soul almost got him instakilled and granny doesn’t have near the power to get anywhere near that especially seeing as sukuna technically bound his soul to parts of his physical body so I don’t think she could do anything but get her self killed
+</p>
+
+<p class="parent">
+ <a name="k9mv28w">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_n4leize7" href="https://old.reddit.com/user/FloatyLillypad">
+  FloatyLillypad
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-17T13:39:19+00:00" title="Fri Nov 17 13:39:19 2023 UTC">
+  4 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Have you seen hxh? They also use outro music a lil early. I'm under the impression they got their inspiration from them.
+</p>
+
