@@ -1,5 +1,5 @@
 # Reddit Comment Sentiment Analysis
-### CS325 Group Project 1
+### CS325 Group Project 2 (Project 5)
 
 This project is focused on using Python to convert multiple Reddit pages given by user in a text file, filtering out the comments of each post and giving a setniment anaylsis in a final text file.
 
@@ -59,3 +59,5 @@ The output of this project should be text files where all comments of each post 
 
 If ran correctly, you should multiple text files named numerically according to what order you had the links in the text file. Along with this there will be a Sentiments subfolder under the data folder that contains .csv files with all of the sentiment analysis of each adjusted post in order.
 If you want to remove any of the URLs provided and add your own, just make sure you follow the syntax in step 2.
+
+If you would like to edit or change the URL's with no errors, the best way to do so is delete or store all the text/csv files in the data folder somewhere else so new ones can be written without issue.
