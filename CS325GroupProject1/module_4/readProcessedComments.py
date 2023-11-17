@@ -94,7 +94,7 @@ for val in commentVals:
     currentVals = ""
     responses = ""
     i += 1
-    fa = open(f"./data/sentiments/sentiments{i}.csv", "w")
+    fa = open(f"./data/processed/sentiments{i}.csv", "w")
     itemsPerBatch = 7
     for j in range(len(splitVals)):
         print(len(currentVals))
@@ -118,11 +118,11 @@ for val in commentVals:
             
             currentVals = ""
             # Needed to slow down the receiving otherwise google would get mad for sending too many
-            sleep(5)
+            sleep(10)
         # Sleep between files to give extra safety
         currentVals += splitVals[j]
     responses += getSentiment(currentVals)
     # Add the rest of the values to the sentiment
     # print(sentiments)
     fa.writelines(responses.replace(".", ""))
-    sleep(30) #Extra slowdown to be more sure we wont have any issues
+    sleep(20) #Extra slowdown to be more sure we wont have any issues
