@@ -1,5 +1,5 @@
 <p class="parent">
- <a name="k9k6gjg">
+ <a name="kbjbr5u">
  </a>
 </p>
 
@@ -7,22 +7,92 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_1z30bkdb" href="https://old.reddit.com/user/yourmom555">
-  yourmom555
+ <a class="author may-blank id-t2_um3f5odx" href="https://old.reddit.com/user/Cyrus-suryC">
+  Cyrus-suryC
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="279">
-  279 points
+ <span class="score dislikes" title="23">
+  23 points
  </span>
- <span class="score unvoted" title="280">
-  280 points
+ <span class="score unvoted" title="24">
+  24 points
  </span>
- <span class="score likes" title="281">
-  281 points
+ <span class="score likes" title="25">
+  25 points
  </span>
- <time class="live-timestamp" datetime="2023-11-16T22:06:14+00:00" title="Thu Nov 16 22:06:14 2023 UTC">
-  19 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T11:57:08+00:00" title="Fri Dec 1 11:57:08 2023 UTC">
+  11 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Nice time of the year to make a Going "Merry" cake
+</p>
+
+<p class="parent">
+ <a name="kbjkbus">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_8zlnpgrh" href="https://old.reddit.com/user/Responsible_Cloud_92">
+  Responsible_Cloud_92
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="10">
+  10 points
+ </span>
+ <span class="score unvoted" title="11">
+  11 points
+ </span>
+ <span class="score likes" title="12">
+  12 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T13:17:41+00:00" title="Fri Dec 1 13:17:41 2023 UTC">
+  10 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (4 children)
+ </a>
+</p>
+
+<p>
+ Oh this looks amazing! It’s all gingerbread?
+</p>
+
+<p class="parent">
+ <a name="kbjx3dx">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_ldsfbpf" href="https://old.reddit.com/user/thefoodiedentist">
+  thefoodiedentist
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:53:18+00:00" title="Fri Dec 1 14:53:18 2023 UTC">
+  8 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (3 children)
@@ -30,11 +100,11 @@
 </p>
 
 <p>
- i was so surprised. they’re all so real for that
+ No.  You can see. Twizzlers, mnms frostings, etc.
 </p>
 
 <p class="parent">
- <a name="k9kk7u8">
+ <a name="kbkdmox">
  </a>
 </p>
 
@@ -42,776 +112,21 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_egiao" href="https://old.reddit.com/user/imgooley">
-  imgooley
+ <a class="author may-blank id-t2_aom3ef0w0" href="https://old.reddit.com/user/SPZ_MYYST">
+  SPZ_MYYST
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="63">
-  63 points
+ <span class="score dislikes" title="-3">
+  -3 points
  </span>
- <span class="score unvoted" title="64">
-  64 points
+ <span class="score unvoted" title="-2">
+  -2 points
  </span>
- <span class="score likes" title="65">
-  65 points
+ <span class="score likes" title="-1">
+  -1 points
  </span>
- <time class="live-timestamp" datetime="2023-11-16T23:43:16+00:00" title="Thu Nov 16 23:43:16 2023 UTC">
-  18 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Yup this. Big twist that was clearly long planned with every thing you needed to figure it out beforehand. Chef's kiss
-</p>
-
-<p class="parent">
- <a name="k9lee5v">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_31yq33kv" href="https://old.reddit.com/user/kwpang">
-  kwpang
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="44">
-  44 points
- </span>
- <span class="score unvoted" title="45">
-  45 points
- </span>
- <span class="score likes" title="46">
-  46 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T03:31:38+00:00" title="Fri Nov 17 03:31:38 2023 UTC">
-  14 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- And it was still unbelievable. Why would the minks sacrifice so much for a stupid Ninja over some oath?
-</p>
-
-<p>
- Then... you eventually learn that Inuarashi and Nekomamushi...
-</p>
-
-<p>
- Suddenly it all makes sense.
-</p>
-
-<p class="parent">
- <a name="k9nr2je">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_f9jntlmwd" href="https://old.reddit.com/user/I_Am_Groot14">
-  I_Am_Groot14
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/OnePiece/comments/17wyax8/how_many_of_you_saw_the_twist_coming_at_the_end/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:24:54+00:00" title="Fri Nov 17 17:24:54 2023 UTC">
-  41 minutes ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Oda is an absolute master world builder and really knows how to tell a story, DB was my only anime before watching the LA of one piece and I'm gutted I waited this long to try something different
-</p>
-
-<p class="parent">
- <a name="k9kje0q">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_3qmokhfm" href="https://old.reddit.com/user/BAlpha90">
-  BAlpha90
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="147">
-  147 points
- </span>
- <span class="score unvoted" title="148">
-  148 points
- </span>
- <span class="score likes" title="149">
-  149 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T23:37:14+00:00" title="Thu Nov 16 23:37:14 2023 UTC">
-  18 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- Honestly Jack was so crazy and irrational when first introduced that I fully bought that he would destroy Zou for no reason. Never gave it much more thought after the Minks said Raizo wasn't there
-</p>
-
-<p class="parent">
- <a name="k9mbvh5">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_i6f11" href="https://old.reddit.com/user/cmrobbins86">
-  cmrobbins86
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="17">
-  17 points
- </span>
- <span class="score unvoted" title="18">
-  18 points
- </span>
- <span class="score likes" title="19">
-  19 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T10:02:03+00:00" title="Fri Nov 17 10:02:03 2023 UTC">
-  8 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Jack knew due to a large spoiler that only makes sense in hindsight
-</p>
-
-<p class="parent">
- <a name="k9kqyae">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_pkpyaj4e" href="https://old.reddit.com/user/Pretend_Accident6209">
-  Pretend_Accident6209
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="87">
-  87 points
- </span>
- <span class="score unvoted" title="88">
-  88 points
- </span>
- <span class="score likes" title="89">
-  89 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T00:33:22+00:00" title="Fri Nov 17 00:33:22 2023 UTC">
-  17 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- anddd THIS is why i tell people not to spoil OP for themselves. The end of Zou was a massive shock, common Goda W
-</p>
-
-<p class="parent">
- <a name="k9k3rg3">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_hry2uy5vl" href="https://old.reddit.com/user/Kizaru94">
-  Kizaru94
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="47">
-  47 points
- </span>
- <span class="score unvoted" title="48">
-  48 points
- </span>
- <span class="score likes" title="49">
-  49 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T21:48:16+00:00" title="Thu Nov 16 21:48:16 2023 UTC">
-  20 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I was surprised too when they hid Raizo
-</p>
-
-<p class="parent">
- <a name="k9k5r6d">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_fy5e8" href="https://old.reddit.com/user/HokageEzio">
-  HokageEzio
- </a>
- <span class="flair flair-luffy" title="">
- </span>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="39">
-  39 points
- </span>
- <span class="score unvoted" title="40">
-  40 points
- </span>
- <span class="score likes" title="41">
-  41 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T22:01:29+00:00" title="Thu Nov 16 22:01:29 2023 UTC">
-  20 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Shocked everybody.
-</p>
-
-<p class="parent">
- <a name="k9lgfzo">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_cgpmo24e" href="https://old.reddit.com/user/Impressive-Target206">
-  Impressive-Target206
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="35">
-  35 points
- </span>
- <span class="score unvoted" title="36">
-  36 points
- </span>
- <span class="score likes" title="37">
-  37 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T03:48:29+00:00" title="Fri Nov 17 03:48:29 2023 UTC">
-  14 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- How long ago did LA drop? Now at 767 or even more right now.
-</p>
-
-<p>
- <em>
-  One of us. One of us. One of us.
- </em>
-</p>
-
-<p class="parent">
- <a name="k9npxfs">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_f9jntlmwd" href="https://old.reddit.com/user/I_Am_Groot14">
-  I_Am_Groot14
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/OnePiece/comments/17wyax8/how_many_of_you_saw_the_twist_coming_at_the_end/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:17:24+00:00" title="Fri Nov 17 17:17:24 2023 UTC">
-  48 minutes ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- It's literally the only thing I have watched when I haven't been working, sleeping, ps5 and spending time with my family, yes iv been a tad obsessed 🤣🤣🤣🤣🤣
-</p>
-
-<p class="parent">
- <a name="k9kbecp">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_12fyvb" href="https://old.reddit.com/user/LostSissel">
-  LostSissel
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="47">
-  47 points
- </span>
- <span class="score unvoted" title="48">
-  48 points
- </span>
- <span class="score likes" title="49">
-  49 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T22:40:05+00:00" title="Thu Nov 16 22:40:05 2023 UTC">
-  19 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- One of my favorite twists in the whole show actually lol Felt like one of the few ones where i was 100% fully blind for
-</p>
-
-<p class="parent">
- <a name="k9nqjhg">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_f9jntlmwd" href="https://old.reddit.com/user/I_Am_Groot14">
-  I_Am_Groot14
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/OnePiece/comments/17wyax8/how_many_of_you_saw_the_twist_coming_at_the_end/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:21:24+00:00" title="Fri Nov 17 17:21:24 2023 UTC">
-  44 minutes ago
- </time>
- <time class="edited-timestamp" datetime="2023-11-17T17:27:41+00:00" title="last edited 38 minutes ago">
-  *
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I absolutely was floored by it and it brought the biggest smile to my face and despite the events of marineford, this more than anything got me emotional more than anything else
-</p>
-
-<p class="parent">
- <a name="k9kwiig">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_hd6d8cie" href="https://old.reddit.com/user/Material-Ad2807">
-  Material-Ad2807
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="12">
-  12 points
- </span>
- <span class="score unvoted" title="13">
-  13 points
- </span>
- <span class="score likes" title="14">
-  14 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:16:12+00:00" title="Fri Nov 17 01:16:12 2023 UTC">
-  16 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- I'm on my second watch through, and I actually just watched this episode last night. I was so surprised when I first watched it.
-</p>
-
-<p class="parent">
- <a name="k9nrush">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_f9jntlmwd" href="https://old.reddit.com/user/I_Am_Groot14">
-  I_Am_Groot14
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/OnePiece/comments/17wyax8/how_many_of_you_saw_the_twist_coming_at_the_end/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:30:04+00:00" title="Fri Nov 17 17:30:04 2023 UTC">
-  36 minutes ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- It's my 1st and despite how much I love it so far, it's definitely not yearly watching, something I'd have to re try every couple of years and give myself abit.of breathing space before being consumed by it like I have this time
-</p>
-
-<p class="parent">
- <a name="k9lfcfi">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [+]
- </a>
- <a class="author may-blank id-t2_ge0lzoua" href="https://old.reddit.com/user/Away-Needleworker-15">
-  Away-Needleworker-15
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="7">
-  7 points
- </span>
- <span class="score unvoted" title="8">
-  8 points
- </span>
- <span class="score likes" title="9">
-  9 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T03:39:27+00:00" title="Fri Nov 17 03:39:27 2023 UTC">
-  14 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Zou arc is severely underrated
-</p>
-
-<p class="parent">
- <a name="k9m5p8d">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_nv92jvb" href="https://old.reddit.com/user/-Giuseppe-">
-  -Giuseppe-
- </a>
- <span class="flairrichtext flaircolorlight flair" style="background-color: #373c3f; border-color: #373c3f;" title="The Revolutionary Army">
-  <span>
-   The Revolutionary Army
-  </span>
- </span>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
-  7 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T08:29:55+00:00" title="Fri Nov 17 08:29:55 2023 UTC">
-  9 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Imo a very emotional moment and one of the hypest in the series. Knowing that they could have all died, that they chose not to fight, that NONE of them gave up and stuck together. With the Strawhats you expect it, but this was such a surprise.
-</p>
-
-<p class="parent">
- <a name="k9lji6f">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_14bwtw" href="https://old.reddit.com/user/HurleyTheKid">
-  HurleyTheKid
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
-  7 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T04:14:34+00:00" title="Fri Nov 17 04:14:34 2023 UTC">
-  13 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I was so surprised and slow I was confused at first lol
-</p>
-
-<p class="parent">
- <a name="k9ln18u">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_pzcmq" href="https://old.reddit.com/user/as0rb">
-  as0rb
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
-  7 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T04:46:45+00:00" title="Fri Nov 17 04:46:45 2023 UTC">
-  13 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- It was the most exciting twist I've seen in an anime, instantly teared with the bravery of the Minks. Check out the discussion thread on the chapter release of this moment, its great. Chapter 816 IIRC.
-</p>
-
-<p class="parent">
- <a name="k9ls8my">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_a1olah76" href="https://old.reddit.com/user/DryProfit364">
-  DryProfit364
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T05:38:57+00:00" title="Fri Nov 17 05:38:57 2023 UTC">
-  12 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I was shocked that they enjoyed their torture 😳
-</p>
-
-<p class="parent">
- <a name="k9m954t">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_iswcprh3j" href="https://old.reddit.com/user/strrax-ish">
-  strrax-ish
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T09:21:01+00:00" title="Fri Nov 17 09:21:01 2023 UTC">
-  8 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Oh, it made that zou short arc real.
-</p>
-
-<p class="parent">
- <a name="k9m9hjg">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_5nenffec" href="https://old.reddit.com/user/_Kazt_">
-  _Kazt_
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T09:26:12+00:00" title="Fri Nov 17 09:26:12 2023 UTC">
-  8 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Oda pulled a little sneaky on us.
-</p>
-
-<p class="parent">
- <a name="k9mex6f">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_b938p" href="https://old.reddit.com/user/redrexdas">
-  redrexdas
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T10:45:36+00:00" title="Fri Nov 17 10:45:36 2023 UTC">
+ <time class="live-timestamp" datetime="2023-12-01T16:39:09+00:00" title="Fri Dec 1 16:39:09 2023 UTC">
   7 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -820,12 +135,15 @@
 </p>
 
 <p>
- I was here. On reddit when that happened. A good idea to understand public reaction would be you can open up manga threads on this subreddit from years ago and read up top comments. What was the consensus leading up to that chapter. What were people predicting which SH will fight against which mink when they learn about Samurai. And then the reveal. 
-That chapter was Truely a treat.
+ Who tf cares bro???
+</p>
+
+<p>
+ (Great work btw)
 </p>
 
 <p class="parent">
- <a name="k9n92wd">
+ <a name="kbkdv3a">
  </a>
 </p>
 
@@ -833,310 +151,69 @@ That chapter was Truely a treat.
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_8kkkqq40" href="https://old.reddit.com/user/K-DramaAccount990">
-  K-DramaAccount990
+ <a class="author may-blank id-t2_ldsfbpf" href="https://old.reddit.com/user/thefoodiedentist">
+  thefoodiedentist
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T15:25:19+00:00" title="Fri Nov 17 15:25:19 2023 UTC">
-  2 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Yea, you got it.
-</p>
-
-<p>
- I was there when it happened and it was one of the greatest wholesome moments and a twist that can only be appreciated if you read the arc weekly.
-</p>
-
-<p>
- It's similar to how chapter 731 flipped the entire fanbase with Sabo's reveal.
-</p>
-
-<p class="parent">
- <a name="k9ntjqe">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_f9jntlmwd" href="https://old.reddit.com/user/I_Am_Groot14">
-  I_Am_Groot14
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/OnePiece/comments/17wyax8/how_many_of_you_saw_the_twist_coming_at_the_end/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:41:16+00:00" title="Fri Nov 17 17:41:16 2023 UTC">
-  24 minutes ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I haven't read the manga only the LA then the anime but for those of you there as it happened I can understand how the reaction must have been from the fans
-</p>
-
-<p class="parent">
- <a name="k9mh6vi">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_gkgl383v" href="https://old.reddit.com/user/stonefinger69">
-  stonefinger69
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T11:17:36+00:00" title="Fri Nov 17 11:17:36 2023 UTC">
-  6 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I was more surprised that neko and dog didn’t say anything when they saw Kinemon or painter samurai. 
-Imho the whole plot twist felt too forced and I could tell there’s some big twist coming that’ll get too hyped…
-</p>
-
-<p class="parent">
- <a name="k9mjv7i">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_4d44z3be" href="https://old.reddit.com/user/nikosbab">
-  nikosbab
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T11:50:45+00:00" title="Fri Nov 17 11:50:45 2023 UTC">
-  6 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I did not for a second thought about it. I don't know why, but I said after everything the minks went through denying everything about raizo, I thought "there's no way he's good, AND THERE right???". Wrong......
-</p>
-
-<p class="parent">
- <a name="k9mp34q">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_b6zjee8j" href="https://old.reddit.com/user/dirtyoldsocklife">
-  dirtyoldsocklife
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T12:45:36+00:00" title="Fri Nov 17 12:45:36 2023 UTC">
-  5 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I'm on mu third or fourth reread, and I just passed that Zhou.
-</p>
-
-<p>
- Two parts that really hit hard for me.
-</p>
-
-<p>
- One is the Ussop's reaction. He feels so much of the suffering that minks have been through and he's legit  angry at them for not giving up Raizo, but also in awe of the heroism that they displayed, knowing that for all his accomplishments in Dressrosa, he still has a ways to go before he's truly a hero.
-</p>
-
-<p>
- The second is just luffy's face when they say; " we'd never sell out a comrade". It's just a perfect image of pride and happiness that these beastmen understand the world just like him. Love it.
-</p>
-
-<p class="parent">
- <a name="k9my2f8">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_w5wrt" href="https://old.reddit.com/user/triotone">
-  triotone
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T14:03:47+00:00" title="Fri Nov 17 14:03:47 2023 UTC">
-  4 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I realy thought there was about to be a chase sequence.
-</p>
-
-<p class="parent">
- <a name="k9n7bb7">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_kwlr4tw" href="https://old.reddit.com/user/Chaosbrushogun">
-  Chaosbrushogun
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T15:12:44+00:00" title="Fri Nov 17 15:12:44 2023 UTC">
-  2 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Definitely. It’s a nice twist too. Instead of just making it out for Jack to be some twisted sadist, it makes the minks to be super honorable and loyal Allies. It immediately gives you a great impression of them as good, trusting people.
-</p>
-
-<p class="parent">
- <a name="k9nk4o2">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_ckhh2" href="https://old.reddit.com/user/LoganGyre">
-  LoganGyre
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T16:39:57+00:00" title="Fri Nov 17 16:39:57 2023 UTC">
-  1 hour ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- So I have a friend who is watching for the first time and just made it to the doflamingo arc. He was at my house and I was finishing my wano rewatch when I almost spoiled a major reveal at the end of wano and had to stop the episode before he could figure it out. I had forgotten just how deep the storyline ran.
-</p>
-
-<p class="parent">
- <a name="k9m07sk">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_wmqik" href="https://old.reddit.com/user/Diniario">
-  Diniario
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
+ <span class="score dislikes" title="5">
   5 points
  </span>
- <span class="score likes" title="6">
+ <span class="score unvoted" title="6">
   6 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T07:14:03+00:00" title="Fri Nov 17 07:14:03 2023 UTC">
-  10 hours ago
+ <span class="score likes" title="7">
+  7 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:40:34+00:00" title="Fri Dec 1 16:40:34 2023 UTC">
+  6 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (10 children)
+  (1 child)
  </a>
 </p>
 
 <p>
- I don't understand why people say this was a huge revela and shocking and what not... To me this event was a regular one piece sunday and I feel like I missed part the excitement somehow. At the time I was all caught up.
+ He asked.
 </p>
 
 <p class="parent">
- <a name="k9mbk4p">
+ <a name="kbke192">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [+]
+ </a>
+ <a class="author may-blank id-t2_aom3ef0w0" href="https://old.reddit.com/user/SPZ_MYYST">
+  SPZ_MYYST
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:41:41+00:00" title="Fri Dec 1 16:41:41 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Nvm, i was joking around.
+</p>
+
+<p class="parent">
+ <a name="kbjvd4x">
  </a>
 </p>
 
@@ -1144,14 +221,44 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_6brc9xu" href="https://old.reddit.com/user/higaroth">
-  higaroth
+ <a class="author may-blank id-t2_erydh22x" href="https://old.reddit.com/user/Instant_noodlesss">
+  Instant_noodlesss
  </a>
- <span class="flairrichtext flaircolordark flair" style="background-color: #ffd635; border-color: #ffd635;" title="Prisoner">
-  <span>
-   Prisoner
-  </span>
+ <span class="userattrs">
  </span>
+ <span class="score dislikes" title="8">
+  8 points
+ </span>
+ <span class="score unvoted" title="9">
+  9 points
+ </span>
+ <span class="score likes" title="10">
+  10 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:41:21+00:00" title="Fri Dec 1 14:41:21 2023 UTC">
+  8 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Oh you even have Luffy on the figurehead.
+</p>
+
+<p class="parent">
+ <a name="kbjc6so">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_j2yss9mw0" href="https://old.reddit.com/user/adaywithjennym">
+  adaywithjennym
+ </a>
  <span class="userattrs">
  </span>
  <span class="score dislikes" title="3">
@@ -1163,8 +270,8 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <span class="score likes" title="5">
   5 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T09:57:28+00:00" title="Fri Nov 17 09:57:28 2023 UTC">
-  8 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T12:01:48+00:00" title="Fri Dec 1 12:01:48 2023 UTC">
+  11 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1172,11 +279,11 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
 </p>
 
 <p>
- Same, I wish it had the same impact on me that it did everyone else, but I usually just forget it happened.
+ Great work 😉
 </p>
 
 <p class="parent">
- <a name="k9n185g">
+ <a name="kbk7dc5">
  </a>
 </p>
 
@@ -1184,65 +291,34 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_a7isbuoh" href="https://old.reddit.com/user/Themistokles42">
-  Themistokles42
+ <a class="author may-blank id-t2_l730s5v0" href="https://old.reddit.com/user/TheRealEmilAxelsson">
+  TheRealEmilAxelsson
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T14:28:04+00:00" title="Fri Nov 17 14:28:04 2023 UTC">
-  3 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- the idea of an entire town withstanding torture while all hiding something is insane
-</p>
-
-<p class="parent">
- <a name="k9m93m6">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_ywbag" href="https://old.reddit.com/user/MegalomanicMegalodon">
-  MegalomanicMegalodon
- </a>
- <span class="flair flair-jinbei" title="">
- </span>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
+ <span class="score dislikes" title="2">
   2 points
  </span>
- <span class="score likes" title="3">
+ <span class="score unvoted" title="3">
   3 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T09:20:23+00:00" title="Fri Nov 17 09:20:23 2023 UTC">
-  8 hours ago
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:00:12+00:00" title="Fri Dec 1 16:00:12 2023 UTC">
+  7 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (6 children)
+  (0 children)
  </a>
 </p>
 
 <p>
- I'm kinda in the same boat.  A little different though.  I think it's still badass they protected someone like that, but with how the minks looked and thinking of Bepo and Law I figured the minks were in on the alliance somehow.  When people talk about it as a reveal, in retrospect, I think I'm not even realizing what the reveal was.  I thought people meant how Raizo was not dead?  But maybe it's the minks being good guys?
+ I'm living for that gelatinous lil Loof
 </p>
 
 <p class="parent">
- <a name="k9maomv">
+ <a name="kbkbgri">
  </a>
 </p>
 
@@ -1250,42 +326,39 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_70zg4h" href="https://old.reddit.com/user/shipsailing94">
-  shipsailing94
+ <a class="author may-blank id-t2_38acebt4" href="https://old.reddit.com/user/laurel_laureate">
+  laurel_laureate
  </a>
+ <span class="flair flair-luffypaint" title="">
+ </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="5">
-  5 points
+ <span class="score dislikes" title="2">
+  2 points
  </span>
- <span class="score unvoted" title="6">
-  6 points
+ <span class="score unvoted" title="3">
+  3 points
  </span>
- <span class="score likes" title="7">
-  7 points
+ <span class="score likes" title="4">
+  4 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T09:44:33+00:00" title="Fri Nov 17 09:44:33 2023 UTC">
-  8 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T16:25:44+00:00" title="Fri Dec 1 16:25:44 2023 UTC">
+  7 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (5 children)
+  (1 child)
  </a>
 </p>
 
 <p>
- The reveal that Raizo WAS on Zou and thet the minks knew that
-</p>
-
-<p>
- Oda managed to make everyone believe for sure that euther Raizo wasn't there, or that he was but the Minks weren't aware of it.
-</p>
-
-<p>
- The idea that they would still deny after all they've been through was unfathomable (but also it was never stated that they were allies)
+ When/if you eat it, make sure to listen to the right music to
+ <a href="https://www.youtube.com/watch?v=XvMMLzGl3M0" rel="nofollow">
+  set the mood.
+ </a>
 </p>
 
 <p class="parent">
- <a name="k9mb5zu">
+ <a name="kbkkm5d">
  </a>
 </p>
 
@@ -1293,12 +366,15 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_ywbag" href="https://old.reddit.com/user/MegalomanicMegalodon">
-  MegalomanicMegalodon
+ <a class="author submitter may-blank id-t2_8xs0vv7i" href="https://old.reddit.com/user/NinjaOz1">
+  NinjaOz1
  </a>
- <span class="flair flair-jinbei" title="">
- </span>
  <span class="userattrs">
+  [
+  <a class="submitter" href="/r/OnePiece/comments/1889ry2/me_and_my_mom_made_this_the_other_day_took_us_2/" title="submitter">
+   S
+  </a>
+  ]
  </span>
  <span class="score dislikes" title="0">
   0 points
@@ -1309,151 +385,8 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T09:51:42+00:00" title="Fri Nov 17 09:51:42 2023 UTC">
-  8 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (4 children)
- </a>
-</p>
-
-<p>
- OH ok I think I get it.  I don’t know why that didn’t get a strong reaction outa me.  I did feel mad respect for their sacrifice, I remember that much.  Just don’t remember thinking Raizo was not there or they wouldn’t be involved.
-</p>
-
-<p class="parent">
- <a name="k9n8hn6">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_8kkkqq40" href="https://old.reddit.com/user/K-DramaAccount990">
-  K-DramaAccount990
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T15:21:08+00:00" title="Fri Nov 17 15:21:08 2023 UTC">
-  2 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
- </a>
-</p>
-
-<p>
- Just don’t remember thinking Raizo was not there or they wouldn’t be involved.
-</p>
-
-<p>
- Raizo was never said to be on the island. The conflict about Minks almost losing their home because of Raizo and THEN having a samurai come to ask about it was a thing that everyone and their mothers were talking about during the weekly chapter releases.
-</p>
-
-<p>
- People were already loving minks as a group and were expressing how they didn't want Minks and Strawhats to fight because that's how the story was being built up only for the "Raizo-dono is safe" moment to happen.
-</p>
-
-<p>
- I am genuinely trying to understand how this goddamn epic moment somehow didn't make an impression. It's like one of those moments that embodies the core theme of friendship and loyalty. It's absolutely significant and a masterpiece of reveal.
-</p>
-
-<p class="parent">
- <a name="k9na5gp">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_ywbag" href="https://old.reddit.com/user/MegalomanicMegalodon">
-  MegalomanicMegalodon
- </a>
- <span class="flair flair-jinbei" title="">
- </span>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T15:32:51+00:00" title="Fri Nov 17 15:32:51 2023 UTC">
-  2 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
- </a>
-</p>
-
-<p>
- I think I’m forever screwed, like if I go back and reread, I’ll probably still not get the same reaction since I know it’s coming but I’ll probably just have to.
-</p>
-
-<p>
- It was so long ago all I can remember is reacting the whole way to how much they suffered to protect him.  How loyal they were was inspiring.  I just don’t remember ever thinking Raizo wasn’t there and dammit I wish I had.
-</p>
-
-<p class="parent">
- <a name="k9nbo8o">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_8kkkqq40" href="https://old.reddit.com/user/K-DramaAccount990">
-  K-DramaAccount990
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T15:43:28+00:00" title="Fri Nov 17 15:43:28 2023 UTC">
-  2 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- Watch this video and read some of the comments:
- <a href="https://www.youtube.com/watch?v=nMxBrOSe2FU" rel="nofollow">
-  https://www.youtube.com/watch?v=nMxBrOSe2FU
- </a>
-</p>
-
-<p>
- Look at the reaction. This is 7 years old but captures the weekly reaction. I can tell you that as someone who was on One Piece forums, and Youtube, chapter 816 (which is the Raizo-dono is safe chapter) flipped the entire fanbase and everyone was shocked and loved the shit out of this moment.
-</p>
-
-<p class="parent">
- <a name="k9nf2k7">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_ywbag" href="https://old.reddit.com/user/MegalomanicMegalodon">
-  MegalomanicMegalodon
- </a>
- <span class="flair flair-jinbei" title="">
- </span>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T16:06:29+00:00" title="Fri Nov 17 16:06:29 2023 UTC">
-  1 hour ago
+ <time class="live-timestamp" datetime="2023-12-01T17:21:51+00:00" title="Fri Dec 1 17:21:51 2023 UTC">
+  6 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1461,15 +394,11 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
 </p>
 
 <p>
- This helped so much thanks!  It's probably the only way I can relive it blind through others.  I think it also jogged my memory specifically, but memory is often unreliable anyway.  The moment they started to chase after the samurai panicking about the minks seeing them I remember thinking, "Unless they've truly been hiding him.  Holy shit wait...  That would be extreme."  And at least digging up that thought reminded me of why it was STILL super emotional, but I didn't get like a shock reaction, more of a slow burn of emotion.  Raizo actually being there must have been just burning in the back of my head as a possibility.
-</p>
-
-<p>
- TL;DR since I rambled lol: this helped me get the reaction I missed, AND realized my stupid brain just happened to think, "Man, it'd be nuts if he actually was tho" messed me up from a twist dammit.  Still remembered the emotion being strong.
+ yes
 </p>
 
 <p class="parent">
- <a name="k9n7wox">
+ <a name="kbklgv8">
  </a>
 </p>
 
@@ -1477,45 +406,12 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_8kkkqq40" href="https://old.reddit.com/user/K-DramaAccount990">
-  K-DramaAccount990
+ <a class="author may-blank id-t2_6j7m8ho5" href="https://old.reddit.com/user/SprawMcgraw">
+  SprawMcgraw
  </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T15:16:58+00:00" title="Fri Nov 17 15:16:58 2023 UTC">
-  2 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Everyone was surprised and it flipped the fanbase.
-</p>
-
-<p>
- It is genuinely one of those twists that you had to experience on a weekly basis for it to have an impact.
-</p>
-
-<p class="parent">
- <a name="k9kc1dw">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_pujlmis" href="https://old.reddit.com/user/Mad-Oka">
-  Mad-Oka
- </a>
- <span class="flairrichtext flaircolorlight flair" style="background-color: #ea0027; border-color: #ea0027;" title="Void Month Survivor">
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ea0027; border-color: #ea0027;" title="Pirate">
   <span>
-   Void Month Survivor
+   Pirate
   </span>
  </span>
  <span class="userattrs">
@@ -1529,110 +425,8 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <span class="score likes" title="4">
   4 points
  </span>
- <time class="live-timestamp" datetime="2023-11-16T22:44:36+00:00" title="Thu Nov 16 22:44:36 2023 UTC">
-  19 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
- </a>
-</p>
-
-<p>
- From a mile away. There was too much emphasis on "there is no Samurai in Zou" that he had to be there.
-</p>
-
-<p>
- It's one of the few plot twists I got right so I'm pretty proud of myself.
-</p>
-
-<p class="parent">
- <a name="k9l02vf">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_13wdqz15" href="https://old.reddit.com/user/Xszit">
-  Xszit
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="25">
-  25 points
- </span>
- <span class="score unvoted" title="26">
-  26 points
- </span>
- <span class="score likes" title="27">
-  27 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:43:01+00:00" title="Fri Nov 17 01:43:01 2023 UTC">
-  16 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
- </a>
-</p>
-
-<p>
- But there wasn't a samurai in Zou, hes a ninja not a samurai.  Check mate beast pirates.
-</p>
-
-<p class="parent">
- <a name="k9nsa18">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_f9jntlmwd" href="https://old.reddit.com/user/I_Am_Groot14">
-  I_Am_Groot14
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/OnePiece/comments/17wyax8/how_many_of_you_saw_the_twist_coming_at_the_end/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:32:52+00:00" title="Fri Nov 17 17:32:52 2023 UTC">
-  33 minutes ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- I'm not naive enough to think it was a total shock, I understand for some it was obvious but for a 1st time watcher who didn't read the manga, I definitely did not see it coming
-</p>
-
-<p class="parent">
- <a name="k9nw7w7">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_13wdqz15" href="https://old.reddit.com/user/Xszit">
-  Xszit
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:58:50+00:00" title="Fri Nov 17 17:58:50 2023 UTC">
-  7 minutes ago
+ <time class="live-timestamp" datetime="2023-12-01T17:27:00+00:00" title="Fri Dec 1 17:27:00 2023 UTC">
+  6 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1640,19 +434,11 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
 </p>
 
 <p>
- Oh it was a surprise for me too the first time I watched it.
-</p>
-
-<p>
- There aren't many plot twists in One Piece, usually there's a fairly linear formula to the story arcs where the crew arrives at a new island, they have a happy time interacting with locals and exploring the area, then the crew witnesses the dark side of what the other pirates are doing to the locals and gets upset that their new friends are being mistreated, Liffy decides he's going to kick somebody's ass and then hijinks ensue.
-</p>
-
-<p>
- Always a surprise when we get a curveball that goes against the usual formula.
+ So heartwarming. Makes me wish I could hug my mom again
 </p>
 
 <p class="parent">
- <a name="k9ltlf4">
+ <a name="kbjhz4y">
  </a>
 </p>
 
@@ -1660,8 +446,8 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_hh9yp4if" href="https://old.reddit.com/user/Connect_Put_6155">
-  Connect_Put_6155
+ <a class="author may-blank id-t2_834ssyuh" href="https://old.reddit.com/user/Junior-Bird-9381">
+  Junior-Bird-9381
  </a>
  <span class="userattrs">
  </span>
@@ -1674,106 +460,8 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T05:53:47+00:00" title="Fri Nov 17 05:53:47 2023 UTC">
-  12 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (7 children)
- </a>
-</p>
-
-<p>
- How are you that far? I started a couple months before LA and I'm only on Marineford.
-</p>
-
-<p class="parent">
- <a name="k9m9tc3">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_6pggt8vl" href="https://old.reddit.com/user/VVBROS">
-  VVBROS
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
-  3 points
- </span>
- <span class="score likes" title="4">
-  4 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T09:31:16+00:00" title="Fri Nov 17 09:31:16 2023 UTC">
-  8 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
- </a>
-</p>
-
-<p>
- bro why are you here, now you just got spoiled on something big
-</p>
-
-<p class="parent">
- <a name="k9n9aza">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_8kkkqq40" href="https://old.reddit.com/user/K-DramaAccount990">
-  K-DramaAccount990
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T15:26:55+00:00" title="Fri Nov 17 15:26:55 2023 UTC">
-  2 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- Some people are really rushing through their experience and do not care about the sequence of events that lead to twists and turns.
-</p>
-
-<p class="parent">
- <a name="k9nt0yb">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_f9jntlmwd" href="https://old.reddit.com/user/I_Am_Groot14">
-  I_Am_Groot14
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/OnePiece/comments/17wyax8/how_many_of_you_saw_the_twist_coming_at_the_end/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:37:49+00:00" title="Fri Nov 17 17:37:49 2023 UTC">
-  28 minutes ago
+ <time class="live-timestamp" datetime="2023-12-01T12:57:19+00:00" title="Fri Dec 1 12:57:19 2023 UTC">
+  10 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1781,11 +469,12 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
 </p>
 
 <p>
- Oh I care about the experience believe me but how my brain works is once I get hooked on watching something I just can't bring myself to start anything new so I have to finish what I'm watching which in this case is one piece
+ <img height="60" src="https://www.redditstatic.com/marketplace-assets/v1/core/emotes/snoomoji_emotes/free_emotes_pack/grin.gif" style="vertical-align:middle" width="60"/>
+ <img height="60" src="https://www.redditstatic.com/marketplace-assets/v1/core/emotes/snoomoji_emotes/free_emotes_pack/grin.gif" style="vertical-align:middle" width="60"/>
 </p>
 
 <p class="parent">
- <a name="k9mv9rh">
+ <a name="kbjjzw0">
  </a>
 </p>
 
@@ -1793,104 +482,8 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_f6yf3" href="https://old.reddit.com/user/SpiderJerusalem42">
-  SpiderJerusalem42
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T13:41:04+00:00" title="Fri Nov 17 13:41:04 2023 UTC">
-  4 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
- </a>
-</p>
-
-<p>
- I started in May, finished early October. It was like a second job. I watched up to 1000 at 1x and when I got closer to the end, I started 1.5x speed on the filler stuff. I kinda just wanted my life back by that point.
-</p>
-
-<p class="parent">
- <a name="k9n8qnt">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_8kkkqq40" href="https://old.reddit.com/user/K-DramaAccount990">
-  K-DramaAccount990
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T15:22:56+00:00" title="Fri Nov 17 15:22:56 2023 UTC">
-  2 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- Are you even enjoying the series? If not then why are you wasting your own time?
-</p>
-
-<p>
- There is no race here, my guy. You aren't going to get some prize for catching up. If you think it's a second job then drop the series. You aren't doing the series or yourself any favors.
-</p>
-
-<p class="parent">
- <a name="k9nsocs">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_f9jntlmwd" href="https://old.reddit.com/user/I_Am_Groot14">
-  I_Am_Groot14
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/OnePiece/comments/17wyax8/how_many_of_you_saw_the_twist_coming_at_the_end/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:35:30+00:00" title="Fri Nov 17 17:35:30 2023 UTC">
-  30 minutes ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I live alone and apart from work and seeing my family, i get alot of spare time buddy and once I get hooked watching something I can't start something else until iv finished what I'm already watching
-</p>
-
-<p class="parent">
- <a name="k9ma119">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_mabfr" href="https://old.reddit.com/user/Arthquake">
-  Arthquake
+ <a class="author may-blank id-t2_4g3vgnfw" href="https://old.reddit.com/user/RockOn93">
+  RockOn93
  </a>
  <span class="userattrs">
  </span>
@@ -1903,7 +496,204 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T09:34:35+00:00" title="Fri Nov 17 09:34:35 2023 UTC">
+ <time class="live-timestamp" datetime="2023-12-01T13:14:50+00:00" title="Fri Dec 1 13:14:50 2023 UTC">
+  10 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Looks so awesome
+</p>
+
+<p class="parent">
+ <a name="kbjm6gd">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_bxgy0" href="https://old.reddit.com/user/quasiscythe">
+  quasiscythe
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T13:33:03+00:00" title="Fri Dec 1 13:33:03 2023 UTC">
+  10 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ This is so wonderful
+</p>
+
+<p class="parent">
+ <a name="kbju115">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_nrwji4h" href="https://old.reddit.com/user/JackMayson94">
+  JackMayson94
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #373c3f; border-color: #373c3f;" title="The Revolutionary Army">
+  <span>
+   The Revolutionary Army
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:31:58+00:00" title="Fri Dec 1 14:31:58 2023 UTC">
+  9 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ The strawhats gonna have a mental breakdown eating this cake
+</p>
+
+<p>
+ (Looks amazing btw, great work)
+</p>
+
+<p class="parent">
+ <a name="kbkf92l">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author submitter may-blank id-t2_8xs0vv7i" href="https://old.reddit.com/user/NinjaOz1">
+  NinjaOz1
+ </a>
+ <span class="userattrs">
+  [
+  <a class="submitter" href="/r/OnePiece/comments/1889ry2/me_and_my_mom_made_this_the_other_day_took_us_2/" title="submitter">
+   S
+  </a>
+  ]
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:49:09+00:00" title="Fri Dec 1 16:49:09 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ its gingerbread
+</p>
+
+<p>
+ but thanks
+</p>
+
+<p class="parent">
+ <a name="kbjun3v">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_djg1u2bey" href="https://old.reddit.com/user/cache_hierarchy_tip">
+  cache_hierarchy_tip
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:36:18+00:00" title="Fri Dec 1 14:36:18 2023 UTC">
+  9 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ that's amazing!
+</p>
+
+<p>
+ do whole cake island next!
+</p>
+
+<p class="parent">
+ <a name="kbjvvkx">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_hx9nriib0" href="https://old.reddit.com/user/Spirited_Eye_4663">
+  Spirited_Eye_4663
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:44:57+00:00" title="Fri Dec 1 14:44:57 2023 UTC">
   8 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -1912,6 +702,501 @@ Imho the whole plot twist felt too forced and I could tell there’s some big tw
 </p>
 
 <p>
- I didn‘t see it coming but I didn‘t get emotional reading it back then and was surpised how many thought it was one of the greatest moments of the series, Raizo‘s role in Wano retroactively made the moment even worse for me like really? All of this for this guy?
+ That looks great! Nice job!
+</p>
+
+<p class="parent">
+ <a name="kbk8fsr">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_izzt0o18t" href="https://old.reddit.com/user/lifeless_or_loveless">
+  lifeless_or_loveless
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #373c3f; border-color: #373c3f;" title="The Revolutionary Army">
+  <span>
+   The Revolutionary Army
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:06:56+00:00" title="Fri Dec 1 16:06:56 2023 UTC">
+  7 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ You can't catch me, I've a gingerbread mast!
+</p>
+
+<p class="parent">
+ <a name="kbkko8g">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author submitter may-blank id-t2_8xs0vv7i" href="https://old.reddit.com/user/NinjaOz1">
+  NinjaOz1
+ </a>
+ <span class="userattrs">
+  [
+  <a class="submitter" href="/r/OnePiece/comments/1889ry2/me_and_my_mom_made_this_the_other_day_took_us_2/" title="submitter">
+   S
+  </a>
+  ]
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T17:22:12+00:00" title="Fri Dec 1 17:22:12 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ lol
+</p>
+
+<p class="parent">
+ <a name="kbk8m2c">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_fc014esa" href="https://old.reddit.com/user/Ok_Examination_8141">
+  Ok_Examination_8141
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:08:01+00:00" title="Fri Dec 1 16:08:01 2023 UTC">
+  7 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ And now, to finish the work, you just have to SET IT ON FIRE!
+</p>
+
+<p>
+ ​
+</p>
+
+<p>
+ ​
+</p>
+
+<p>
+ Jk, great work, im not crying, you are crying!
+</p>
+
+<p class="parent">
+ <a name="kbkard3">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_2qnak76" href="https://old.reddit.com/user/Alycehearts">
+  Alycehearts
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:21:25+00:00" title="Fri Dec 1 16:21:25 2023 UTC">
+  7 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I love this so much
+</p>
+
+<p class="parent">
+ <a name="kbkeor8">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_furpl" href="https://old.reddit.com/user/Salmon_for_bears">
+  Salmon_for_bears
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:45:41+00:00" title="Fri Dec 1 16:45:41 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ You guys did a great job!
+</p>
+
+<p class="parent">
+ <a name="kbkfvk8">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_7c2s79fy" href="https://old.reddit.com/user/dirtyxxdan128">
+  dirtyxxdan128
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:52:55+00:00" title="Fri Dec 1 16:52:55 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ enjoy momma while you got her, that looks dope!
+</p>
+
+<p class="parent">
+ <a name="kbl98m5">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_nz2uch164" href="https://old.reddit.com/user/Heeheeheehaah">
+  Heeheeheehaah
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T19:53:42+00:00" title="Fri Dec 1 19:53:42 2023 UTC">
+  3 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Have a "Merry" Christmas
+</p>
+
+<p class="parent">
+ <a name="kblp6qk">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_990mtm88h" href="https://old.reddit.com/user/HotMedia701">
+  HotMedia701
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T21:35:16+00:00" title="Fri Dec 1 21:35:16 2023 UTC">
+  2 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ hope me and my mom can have a little bonding like that too
+</p>
+
+<p class="parent">
+ <a name="kblr6xt">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_dhdocwuc" href="https://old.reddit.com/user/Future_Sea_2725">
+  Future_Sea_2725
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T21:48:09+00:00" title="Fri Dec 1 21:48:09 2023 UTC">
+  1 hour ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I can see so much love was made into this ❤️
+Love it!!!!
+</p>
+
+<p class="parent">
+ <a name="kbluw1z">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_5es7llx7a" href="https://old.reddit.com/user/Lev_Alens">
+  Lev_Alens
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T22:12:20+00:00" title="Fri Dec 1 22:12:20 2023 UTC">
+  1 hour ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I love the gum gum Luffy on his spot. It's gonna be a Merry Xmas. Really punny cake, kudos.
+Edit: cake for cookie.
+</p>
+
+<p class="parent">
+ <a name="kblvm9q">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_jj7q7j4u" href="https://old.reddit.com/user/hanammichi">
+  hanammichi
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T22:17:12+00:00" title="Fri Dec 1 22:17:12 2023 UTC">
+  1 hour ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Omg I want that cake for my birthday 😆😁
+</p>
+
+<p class="parent">
+ <a name="kblwjyl">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_q0moiemx" href="https://old.reddit.com/user/Tahu-bannana-69">
+  Tahu-bannana-69
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T22:23:29+00:00" title="Fri Dec 1 22:23:29 2023 UTC">
+  1 hour ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Dammmmmmmmmmmmm that’s nice
+</p>
+
+<p class="parent">
+ <a name="kblyx0q">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_91igtc32" href="https://old.reddit.com/user/B00KWARM">
+  B00KWARM
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T22:39:43+00:00" title="Fri Dec 1 22:39:43 2023 UTC">
+  1 hour ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Great job nakama, and Mom! That looks delicious!
+</p>
+
+<p class="parent">
+ <a name="kbm3uaq">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_6ehouijc" href="https://old.reddit.com/user/Kaylaocalypse666">
+  Kaylaocalypse666
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T23:14:13+00:00" title="Fri Dec 1 23:14:13 2023 UTC">
+  26 minutes ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ There's a song in Bob's Burgers called "if you love something, set it on fire". I wonder why this made me think about that🤔🤔
+</p>
+
+<p class="parent">
+ <a name="kbm6qmn">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_7rf41pdy" href="https://old.reddit.com/user/SnooOranges5913">
+  SnooOranges5913
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T23:35:21+00:00" title="Fri Dec 1 23:35:21 2023 UTC">
+  5 minutes ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I gasped when I saw this! It made me so happy to see and i hope you two had as much joy making it &lt;3
 </p>
 

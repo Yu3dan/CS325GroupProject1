@@ -21,7 +21,7 @@ for dirName, subDirList, fileList in os.walk('../CS325GroupProject1/data/raw/unf
             with open('../CS325GroupProject1/data/raw/unfilteredcomments/' + file, 'rb') as bs:
                 soup = BeautifulSoup(bs, 'html5lib')    
             comments = soup.find_all('p')                                                                                                       #parsing to find comments 
-            with open('../CS325GroupProject1/data/processed/' + f'filteredcomments{counter}.txt', 'w', encoding="utf-8") as output:             #creating the final text file with each comment seperated and neatly placed without html.                       
+            with open('../CS325GroupProject1/data/processed/comments/' + f'filteredcomments{counter}.txt', 'w', encoding="utf-8") as output:             #creating the final text file with each comment seperated and neatly placed without html.                       
                 for comment in comments:       
                     output.write(remove_tags(comment.prettify()))
                     output.write("\n")

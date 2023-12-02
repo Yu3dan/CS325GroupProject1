@@ -1,5 +1,5 @@
 <p class="parent">
- <a name="k9jm5ak">
+ <a name="kb7uuqw">
  </a>
 </p>
 
@@ -12,7 +12,7 @@
  </a>
  <span class="userattrs">
   [
-  <a class="moderator" href="/r/JuJutsuKaisen/about/moderators" title="moderator of r/JuJutsuKaisen, speaking officially">
+  <a class="moderator" href="/r/Jujutsushi/about/moderators" title="moderator of r/Jujutsushi, speaking officially">
    M
   </a>
   ]
@@ -20,8 +20,8 @@
  <span class="score-hidden" title="scores for stickied comments are visible to mods only">
   [score hidden]
  </span>
- <time class="live-timestamp" datetime="2023-11-16T19:53:33+00:00" title="Thu Nov 16 19:53:33 2023 UTC">
-  22 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T04:01:18+00:00" title="Wed Nov 29 04:01:18 2023 UTC">
+  2 days ago
  </time>
  <span class="stickied-tagline" title="selected by this subreddit's moderators">
   stickied comment
@@ -35,21 +35,19 @@
 </p>
 
 <p>
- <strong>
-  If this post does not have a spoiler tag, SPOILER TAG MANGA COMMENTS
- </strong>
- , or you risk a tempban. Keep it secret for the anime watchers.  Please remember that vague spoilers count as spoilers such as "do we tell them".
-If you're caught up on the manga, consider joining our sister sub
- <a href="/r/Jujutsushi" rel="nofollow">
-  r/Jujutsushi
+ Reminder:
+</p>
+
+<p>
+ <a href="https://www.reddit.com/r/Jujutsushi/wiki/canon" rel="nofollow">
+  Fanbook &amp; Other Canon Material
  </a>
- for catered, in-depth manga discussion.
 </p>
 
 <p>
  <em>
   I am a bot, and this action was performed automatically. Please
-  <a href="/message/compose/?to=/r/JuJutsuKaisen" rel="nofollow">
+  <a href="/message/compose/?to=/r/Jujutsushi" rel="nofollow">
    contact the moderators of this subreddit
   </a>
   if you have any questions or concerns.
@@ -57,7 +55,7 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p class="parent">
- <a name="k9jpblm">
+ <a name="kb7v9s9">
  </a>
 </p>
 
@@ -65,22 +63,57 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_w7ky26qp" href="https://old.reddit.com/user/itsnotgivinghonestly">
-  itsnotgivinghonestly
+ <a class="author may-blank id-t2_b12h7n83" href="https://old.reddit.com/user/ionrays">
+  ionrays
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="19">
-  19 points
+ <span class="score dislikes" title="130">
+  130 points
  </span>
- <span class="score unvoted" title="20">
-  20 points
+ <span class="score unvoted" title="131">
+  131 points
  </span>
- <span class="score likes" title="21">
+ <span class="score likes" title="132">
+  132 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T04:04:38+00:00" title="Wed Nov 29 04:04:38 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ Depends on if Gege wants him to survive
+</p>
+
+<p class="parent">
+ <a name="kb94i4a">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_d7cv5ajb" href="https://old.reddit.com/user/TryContent4093">
+  TryContent4093
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="21">
   21 points
  </span>
- <time class="live-timestamp" datetime="2023-11-16T20:14:05+00:00" title="Thu Nov 16 20:14:05 2023 UTC">
-  21 hours ago
+ <span class="score unvoted" title="22">
+  22 points
+ </span>
+ <span class="score likes" title="23">
+  23 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T12:32:48+00:00" title="Wed Nov 29 12:32:48 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -88,14 +121,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- I'm still scared to even start watching this arc because I know what will happen to my beloved comfort character
- <span class="md-spoiler-text">
-  Nanami Kento
- </span>
+ Yuta is always left out despite being the main character in jjk 0, being related to gojo and having the most powerful ct among the students. I doubt he can survive it
 </p>
 
 <p class="parent">
- <a name="k9ktlvq">
+ <a name="kba8uaw">
  </a>
 </p>
 
@@ -103,240 +133,22 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_yzxr3xo" href="https://old.reddit.com/user/DorothyDrangus">
-  DorothyDrangus
+ <a class="author may-blank id-t2_5aba5glt" href="https://old.reddit.com/user/Darthjinju1901">
+  Darthjinju1901
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="8">
-  8 points
- </span>
- <span class="score unvoted" title="9">
-  9 points
- </span>
- <span class="score likes" title="10">
-  10 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T00:53:47+00:00" title="Fri Nov 17 00:53:47 2023 UTC">
-  17 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- We’re just
- <em>
-  almost
- </em>
- there. But it’s been excellent so far, damn what the haters say
-</p>
-
-<p class="parent">
- <a name="k9khh1r">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_fykv5qxk" href="https://old.reddit.com/user/DZK0047">
-  DZK0047
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="9">
-  9 points
- </span>
- <span class="score unvoted" title="10">
-  10 points
- </span>
- <span class="score likes" title="11">
-  11 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T23:23:20+00:00" title="Thu Nov 16 23:23:20 2023 UTC">
-  18 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- The pain only gets worse I’m afraid
-</p>
-
-<p class="parent">
- <a name="k9knu3y">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_1cpag1j1" href="https://old.reddit.com/user/HuCat21">
-  HuCat21
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="9">
-  9 points
- </span>
- <span class="score unvoted" title="10">
-  10 points
- </span>
- <span class="score likes" title="11">
-  11 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T00:10:01+00:00" title="Fri Nov 17 00:10:01 2023 UTC">
-  17 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- It was at this point I had to ask myself...."is Gege a villian?" Cuz this is real villian shit he's doing here lol.
-</p>
-
-<p class="parent">
- <a name="k9kuyp9">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_3723j6xp" href="https://old.reddit.com/user/chadbrad1738">
-  chadbrad1738
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
-  5 points
- </span>
- <span class="score likes" title="6">
+ <span class="score dislikes" title="6">
   6 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T01:04:17+00:00" title="Fri Nov 17 01:04:17 2023 UTC">
-  17 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- My fav anime arc
-</p>
-
-<p class="parent">
- <a name="k9ngvxk">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_1ab0polr" href="https://old.reddit.com/user/VARDHAN_157">
-  VARDHAN_157
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T16:18:34+00:00" title="Fri Nov 17 16:18:34 2023 UTC">
-  1 hour ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Def my top 5 along with Pain Arc, Rescuing Rukia arc, York Town Arc, RtS arc
-</p>
-
-<p class="parent">
- <a name="k9k72i0">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_p1q4jf3b" href="https://old.reddit.com/user/Sushi_cakes_">
-  Sushi_cakes_
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
-  5 points
- </span>
- <span class="score likes" title="6">
-  6 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T22:10:21+00:00" title="Thu Nov 16 22:10:21 2023 UTC">
-  19 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I feel you, weirdly enough several of the most recent episodes have left me with actual chills. I was practically shaking by the end of this episode. I have never had that happen. I’m not exaggerating either, as much as I loved season 1 of jjk I have to be honest that during season 2 is the first time I started shaking from the hype.
-</p>
-
-<p>
- I also have read the manga, so I knew what would happen but still got crazy chills watching it unfold in the anime. It’s been a fantastic experience so far.
-</p>
-
-<p class="parent">
- <a name="k9ki5c8">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_5ti5vpmc2" href="https://old.reddit.com/user/aot-and-yakuzafan_88">
-  aot-and-yakuzafan_88
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
+ <span class="score unvoted" title="7">
   7 points
  </span>
- <time class="live-timestamp" datetime="2023-11-16T23:28:14+00:00" title="Thu Nov 16 23:28:14 2023 UTC">
-  18 hours ago
+ <span class="score likes" title="8">
+  8 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T17:12:04+00:00" title="Wed Nov 29 17:12:04 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -344,11 +156,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Sukuna's rampage should be the least of your concerns.
+ 243 showed that he was actually training Bush Camping the whole story. That's why he was left out.
 </p>
 
 <p class="parent">
- <a name="k9lnbwn">
+ <a name="kb80xok">
  </a>
 </p>
 
@@ -356,60 +168,22 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_5gozbhnr" href="https://old.reddit.com/user/lozzy1400">
-  lozzy1400
- </a>
- <span class="flair flair-Gojou" title=" .">
-  .
- </span>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T04:49:35+00:00" title="Fri Nov 17 04:49:35 2023 UTC">
-  13 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I felt teary watching Yuji cry. I felt like reaching through the screen to hug him. They did a fantastic job with that scene!
-</p>
-
-<p class="parent">
- <a name="k9mnz4y">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_42uxpjqz6" href="https://old.reddit.com/user/alethra_oberhelm">
-  alethra_oberhelm
+ <a class="author may-blank id-t2_v24htz6e" href="https://old.reddit.com/user/Several_Cycle_2012">
+  Several_Cycle_2012
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="1">
-  1 point
+ <span class="score dislikes" title="50">
+  50 points
  </span>
- <span class="score unvoted" title="2">
-  2 points
+ <span class="score unvoted" title="51">
+  51 points
  </span>
- <span class="score likes" title="3">
-  3 points
+ <span class="score likes" title="52">
+  52 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T12:34:44+00:00" title="Fri Nov 17 12:34:44 2023 UTC">
-  5 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T04:52:07+00:00" title="Wed Nov 29 04:52:07 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -417,15 +191,15 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- I usually don't cry over tv series or movies, but seeing Yuji's despair + the Specialz ost playing as though to mock him some more just shattered me and left me in shambles.
+ Using the space manipulation technique….. to warp the slash that cuts space.
 </p>
 
 <p>
- If I could reach out towards my TV and hug Yuji I would do it 🥺
+ Based on the space cleave’s description, no.
 </p>
 
 <p class="parent">
- <a name="k9k9ieo">
+ <a name="kb8asft">
  </a>
 </p>
 
@@ -433,8 +207,160 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_8jrhy64r" href="https://old.reddit.com/user/ApplePitou">
-  ApplePitou
+ <a class="author may-blank id-t2_99s16r6b" href="https://old.reddit.com/user/Muted_Lurker2383">
+  Muted_Lurker2383
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="22">
+  22 points
+ </span>
+ <span class="score unvoted" title="23">
+  23 points
+ </span>
+ <span class="score likes" title="24">
+  24 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T06:26:01+00:00" title="Wed Nov 29 06:26:01 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (6 children)
+ </a>
+</p>
+
+<p>
+ Depends specifically on how the technique works.
+If Sky Manipulation works by moving the space (eg, this region you targetted is no longer at these co-ordinates, they are instead over there) then its possible. If what it does is control a vector (eg what seems like a straight path now actually has this curve in it that deflects the shot) its like Infinity and wont work.
+</p>
+
+<p>
+ Narratively, i doubt it. The build up since early days has been Yuji v Sukuna and Gojo v Sukuna. Would be weird to have Yuta be the one to end it all and with Gojo out of the picture it seems like it should be Yuji to beat Sukuna if he is to be beaten.
+</p>
+
+<p class="parent">
+ <a name="kb98bj2">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [+]
+ </a>
+ <a class="author may-blank id-t2_dhxer1lk" href="https://old.reddit.com/user/Difficult_Guidance25">
+  Difficult_Guidance25
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="collapsed-reason">
+  comment score below threshold
+ </span>
+ <span class="score dislikes" title="-10">
+  -10 points
+ </span>
+ <span class="score unvoted" title="-9">
+  -9 points
+ </span>
+ <span class="score likes" title="-8">
+  -8 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T13:07:10+00:00" title="Wed Nov 29 13:07:10 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (4 children)
+ </a>
+</p>
+
+<p>
+ Narratively it makes no sense for Sukuna to lose but it is what it is
+</p>
+
+<p class="parent">
+ <a name="kb99po7">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_12ru2a" href="https://old.reddit.com/user/uglyjackwagon">
+  uglyjackwagon
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="11">
+  11 points
+ </span>
+ <span class="score unvoted" title="12">
+  12 points
+ </span>
+ <span class="score likes" title="13">
+  13 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T13:18:56+00:00" title="Wed Nov 29 13:18:56 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ Narratively? Gojo’s students narratively are supposed to surpass him. Yuta is stronger than teen Gojo pre awakening, if he gets an awakening, it’s not unbelievable to see him at relative strength.  Then you have the entire rest of the gang jumping Sukuna.
+</p>
+
+<p>
+ Yuji potentially has a unknown soul related ability, Maki has a sword that should be capable of doing damage, Angel still has nullification of techniques for her CT, and Megumi still has the potential to weaken Sukuna or be rescued, probably through Yuji’s soul shenanigans.
+</p>
+
+<p class="parent">
+ <a name="kbak9jv">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_mhwib" href="https://old.reddit.com/user/kidzrockboom">
+  kidzrockboom
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T18:18:31+00:00" title="Wed Nov 29 18:18:31 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ The issue isn't what they have though, almost all sukunas's fights (where he is fully in control of is CE output) except gojo and maho have ended with the opponent getting one shot by cleave or dismantle. Yuji doesn't have RCT as far as we know currently so any attack he takes is lethal. Same with any character that's not yuta. Their is no potential for growth or awakening if you die in one hit.
+</p>
+
+<p class="parent">
+ <a name="kbapte5">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_ihwnz" href="https://old.reddit.com/user/lverson">
+  lverson
  </a>
  <span class="userattrs">
  </span>
@@ -447,8 +373,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="1">
   1 point
  </span>
- <time class="live-timestamp" datetime="2023-11-16T22:26:51+00:00" title="Thu Nov 16 22:26:51 2023 UTC">
-  19 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T18:53:02+00:00" title="Wed Nov 29 18:53:02 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -456,11 +382,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- This Arc is peak :3
+ Well, yes. With Gojo dead, anyone who lasts more than 10 seconds against Sukuna is only for the amusement of Sukuna and the narrative convenience of Gege. He can send 50 cleaves in the time in takes p much everyone else to move.
 </p>
 
 <p class="parent">
- <a name="k9l0gv3">
+ <a name="kbb2le5">
  </a>
 </p>
 
@@ -468,8 +394,8 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_5jtamc8x" href="https://old.reddit.com/user/Shadow_Huntress12">
-  Shadow_Huntress12
+ <a class="author may-blank id-t2_99s16r6b" href="https://old.reddit.com/user/Muted_Lurker2383">
+  Muted_Lurker2383
  </a>
  <span class="userattrs">
  </span>
@@ -482,8 +408,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T01:45:54+00:00" title="Fri Nov 17 01:45:54 2023 UTC">
-  16 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T20:09:08+00:00" title="Wed Nov 29 20:09:08 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -491,11 +417,15 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Shibuya left me in tears🐍
+ True theres not been much set up, but there are a few x factors in play to change relative power
+</p>
+
+<p>
+ Each of those has unestablished potential to tip things back in our protags favour
 </p>
 
 <p class="parent">
- <a name="k9m3udy">
+ <a name="kbctc0j">
  </a>
 </p>
 
@@ -503,8 +433,8 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_1i5hkubl" href="https://old.reddit.com/user/GoldenGekko">
-  GoldenGekko
+ <a class="author may-blank id-t2_bj1564xc" href="https://old.reddit.com/user/autumaki">
+  autumaki
  </a>
  <span class="userattrs">
  </span>
@@ -517,8 +447,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T08:03:22+00:00" title="Fri Nov 17 08:03:22 2023 UTC">
-  10 hours ago
+ <time class="live-timestamp" datetime="2023-11-30T03:07:20+00:00" title="Thu Nov 30 03:07:20 2023 UTC">
+  1 day ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -526,15 +456,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- I respectfully disagree with using the opening song during Yuji's breakdown. It's like dance music.. and I don't really listen to the lyrics for symbolism since I'm trying to listen to the VA have a mental breakdown during an impactful moment.
-</p>
-
-<p>
- But that's like my opinion
+ I really like how you delved deeper into the concept of infinity and sukuna's space slash❤️
 </p>
 
 <p class="parent">
- <a name="k9l1ngi">
+ <a name="kb7vlkz">
  </a>
 </p>
 
@@ -542,197 +468,22 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_fq5y3b" href="https://old.reddit.com/user/Adm_Kunkka">
-  Adm_Kunkka
+ <a class="author may-blank id-t2_jxsty" href="https://old.reddit.com/user/TheBlackestIrelia">
+  TheBlackestIrelia
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="0">
-  0 points
+ <span class="score dislikes" title="12">
+  12 points
  </span>
- <span class="score unvoted" title="1">
-  1 point
+ <span class="score unvoted" title="13">
+  13 points
  </span>
- <span class="score likes" title="2">
-  2 points
+ <span class="score likes" title="14">
+  14 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T01:54:36+00:00" title="Fri Nov 17 01:54:36 2023 UTC">
-  16 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (8 children)
- </a>
-</p>
-
-<p>
- Fking Gojo's overconfidence led to all this shit. He should've just blitzed every cursed spirit without wasting time
-</p>
-
-<p class="parent">
- <a name="k9m7k8t">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_ajvzrbmo" href="https://old.reddit.com/user/Legitimate_Cow7198">
-  Legitimate_Cow7198
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T08:57:19+00:00" title="Fri Nov 17 08:57:19 2023 UTC">
-  9 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (7 children)
- </a>
-</p>
-
-<p>
- It wasn't his overconfidence it was his morals and obligations. He didn't want to kill the humans present, they explained how even a little fast movement from him would be like getting hit by a semi truck for a regular human. If Gojo gave no fucks, he would just kill everyone there with UV and call it a day.
-</p>
-
-<p class="parent">
- <a name="k9m9ihw">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_fq5y3b" href="https://old.reddit.com/user/Adm_Kunkka">
-  Adm_Kunkka
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T09:26:36+00:00" title="Fri Nov 17 09:26:36 2023 UTC">
-  8 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (6 children)
- </a>
-</p>
-
-<p>
- Hmm ok. Then I blame whoever let a finger be placed at a fking school and then sent a kid to retrieve it
-</p>
-
-<p class="parent">
- <a name="k9mbn6h">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_ajvzrbmo" href="https://old.reddit.com/user/Legitimate_Cow7198">
-  Legitimate_Cow7198
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T09:58:41+00:00" title="Fri Nov 17 09:58:41 2023 UTC">
-  8 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (5 children)
- </a>
-</p>
-
-<p>
- You act like a finger would not make its way down Yuji's throat eventually. You should blame the person who convinced Gojo to not let Yuji be killed.
-</p>
-
-<p class="parent">
- <a name="k9mjdw7">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_fq5y3b" href="https://old.reddit.com/user/Adm_Kunkka">
-  Adm_Kunkka
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T11:45:10+00:00" title="Fri Nov 17 11:45:10 2023 UTC">
-  6 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- I don't think Gojo would've let Yuji die even without Megumi. And why would a finger go down Yuji eventually? Noone knew he was a suitable vessel before right?
-</p>
-
-<p class="parent">
- <a name="k9mkvzc">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_ajvzrbmo" href="https://old.reddit.com/user/Legitimate_Cow7198">
-  Legitimate_Cow7198
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T12:02:22+00:00" title="Fri Nov 17 12:02:22 2023 UTC">
-  6 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T04:07:12+00:00" title="Wed Nov 29 04:07:12 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -740,11 +491,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Well it's definitely likely Gojo would try and save him either way, but at the same time he asked Megumi what he wants him to do with Yuji, giving him the choice.
+ Nah, i don't see how that would change anything
 </p>
 
 <p class="parent">
- <a name="k9mjgzb">
+ <a name="kb7y5du">
  </a>
 </p>
 
@@ -752,22 +503,22 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_fq5y3b" href="https://old.reddit.com/user/Adm_Kunkka">
-  Adm_Kunkka
+ <a class="author may-blank id-t2_esjygg5i" href="https://old.reddit.com/user/VoidMageZero">
+  VoidMageZero
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="0">
-  0 points
+ <span class="score dislikes" title="6">
+  6 points
  </span>
- <span class="score unvoted" title="1">
-  1 point
+ <span class="score unvoted" title="7">
+  7 points
  </span>
- <span class="score likes" title="2">
-  2 points
+ <span class="score likes" title="8">
+  8 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T11:46:11+00:00" title="Fri Nov 17 11:46:11 2023 UTC">
-  6 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T04:28:04+00:00" title="Wed Nov 29 04:28:04 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -775,11 +526,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- On that note, couldn't the trance granny used a finger to revive sukuna and basically own him? Could've tried that to fight Gojo
+ Not a dumb question, other people have asked it before too. My guess is Uro's technique would still be cut by Sukuna's upgraded cleave.
 </p>
 
 <p class="parent">
- <a name="k9mkggc">
+ <a name="kb985v5">
  </a>
 </p>
 
@@ -787,8 +538,43 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_ajvzrbmo" href="https://old.reddit.com/user/Legitimate_Cow7198">
-  Legitimate_Cow7198
+ <a class="author may-blank id-t2_dhxer1lk" href="https://old.reddit.com/user/Difficult_Guidance25">
+  Difficult_Guidance25
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T13:05:51+00:00" title="Wed Nov 29 13:05:51 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Basically a bootleg infinity
+</p>
+
+<p class="parent">
+ <a name="kbap1f3">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_esjygg5i" href="https://old.reddit.com/user/VoidMageZero">
+  VoidMageZero
  </a>
  <span class="userattrs">
  </span>
@@ -801,8 +587,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T11:57:29+00:00" title="Fri Nov 17 11:57:29 2023 UTC">
-  6 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T18:48:27+00:00" title="Wed Nov 29 18:48:27 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -810,11 +596,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Possibly, but maybe Sukuna technically not actually being dead might stop the technique from working on him.
+ Never thought of that but good way of putting it lol
 </p>
 
 <p class="parent">
- <a name="k9n2715">
+ <a name="kb7ykkl">
  </a>
 </p>
 
@@ -822,8 +608,301 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_57hndc7n" href="https://old.reddit.com/user/madgodcthulhu">
-  madgodcthulhu
+ <a class="author may-blank id-t2_20kgm7qa" href="https://old.reddit.com/user/UnholyShite">
+  UnholyShite
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="8">
+  8 points
+ </span>
+ <span class="score unvoted" title="9">
+  9 points
+ </span>
+ <span class="score likes" title="10">
+  10 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T04:31:41+00:00" title="Wed Nov 29 04:31:41 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Uro's sky manipulation works kinda like Limitless, so it will still cut. Then again, it depends on Gege.
+</p>
+
+<p class="parent">
+ <a name="kb7v6xp">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_q8vzgzj7" href="https://old.reddit.com/user/Kookie2023">
+  Kookie2023
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
+  7 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T04:04:01+00:00" title="Wed Nov 29 04:04:01 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ That is a very good question…we need a physicist to answer this…
+</p>
+
+<p>
+ But I believe the answer is “No”. Sukuna cut through space itself with Mahoraga. Uro controlled the sky which is a bit of a different concept.
+</p>
+
+<p class="parent">
+ <a name="kb81tr9">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_9hqm7bsj" href="https://old.reddit.com/user/Apprehensive-Tap9263">
+  Apprehensive-Tap9263
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T04:59:57+00:00" title="Wed Nov 29 04:59:57 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ Is manga on break this week?
+</p>
+
+<p class="parent">
+ <a name="kb84968">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author submitter may-blank id-t2_7ta7ixg3" href="https://old.reddit.com/user/Nathan_barrels">
+  Nathan_barrels
+ </a>
+ <span class="flairrichtext flaircolordark flair" style="background-color: transparent; border-color: transparent;" title=":boysenberry:">
+  <span class="flairemoji" style="background-image: url(https://emoji.redditmedia.com/fh666kz72vj81_t5_445fo9/boysenberry)" title=":boysenberry:">
+  </span>
+ </span>
+ <span class="userattrs">
+  [
+  <a class="submitter" href="/r/Jujutsushi/comments/186gc5e/stupid_question/" title="submitter">
+   S
+  </a>
+  ]
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T05:21:56+00:00" title="Wed Nov 29 05:21:56 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Nope
+</p>
+
+<p class="parent">
+ <a name="kb9bwtj">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_s2a9xrfu" href="https://old.reddit.com/user/floodedunit">
+  floodedunit
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T13:36:46+00:00" title="Wed Nov 29 13:36:46 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ It will be next week. No new chapter December 10th
+</p>
+
+<p class="parent">
+ <a name="kb8iyo2">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_7zk3sa" href="https://old.reddit.com/user/Magnus_Carter0">
+  Magnus_Carter0
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T08:03:55+00:00" title="Wed Nov 29 08:03:55 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ No, Sky Manipulation warps space, while Space Cleave essentially destroys space, so Uro's CT wouldn't help Yuta here unless there is something I'm missing
+</p>
+
+<p class="parent">
+ <a name="kb8lq8r">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_d2xupniu" href="https://old.reddit.com/user/J_the_Doofus">
+  J_the_Doofus
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T08:40:50+00:00" title="Wed Nov 29 08:40:50 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Maybe but he'd have to see the slash coming first.
+</p>
+
+<p class="parent">
+ <a name="kb91m3e">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_cf6rurx0" href="https://old.reddit.com/user/MIL_1999">
+  MIL_1999
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T12:04:19+00:00" title="Wed Nov 29 12:04:19 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ Perhaps he could parry it with the right timing, wrap the space in a moment before it reach Yuta. But i don't think he could parry the Mango Cutter attack that killed Kashimo.
+</p>
+
+<p class="parent">
+ <a name="kb98ie4">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_dhxer1lk" href="https://old.reddit.com/user/Difficult_Guidance25">
+  Difficult_Guidance25
  </a>
  <span class="userattrs">
  </span>
@@ -836,20 +915,20 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T14:35:21+00:00" title="Fri Nov 17 14:35:21 2023 UTC">
-  3 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T13:08:48+00:00" title="Wed Nov 29 13:08:48 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
+  (1 child)
  </a>
 </p>
 
 <p>
- I don’t think so mahito touching sukunas soul almost got him instakilled and granny doesn’t have near the power to get anywhere near that especially seeing as sukuna technically bound his soul to parts of his physical body so I don’t think she could do anything but get her self killed
+ I don’t think that he could react to something Gojo couldn’t and not just dodging but trying to parry it, but by the way we’re going it’s gonna turn out all of them where stronger than Gojo for some kind of reason
 </p>
 
 <p class="parent">
- <a name="k9mv28w">
+ <a name="kbd6lrx">
  </a>
 </p>
 
@@ -857,8 +936,8 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_n4leize7" href="https://old.reddit.com/user/FloatyLillypad">
-  FloatyLillypad
+ <a class="author may-blank id-t2_cf6rurx0" href="https://old.reddit.com/user/MIL_1999">
+  MIL_1999
  </a>
  <span class="userattrs">
  </span>
@@ -871,8 +950,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T13:39:19+00:00" title="Fri Nov 17 13:39:19 2023 UTC">
-  4 hours ago
+ <time class="live-timestamp" datetime="2023-11-30T04:55:34+00:00" title="Thu Nov 30 04:55:34 2023 UTC">
+  1 day ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -880,6 +959,583 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Have you seen hxh? They also use outro music a lil early. I'm under the impression they got their inspiration from them.
+ Imo it's not that Gojo couldn't react, sukuna made him think that he has no way to bypass infinity without domain or mahoraga so he didn't dodge it. He was coned by sukuna.
+</p>
+
+<p class="parent">
+ <a name="kb9dxmi">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_9mvyumc" href="https://old.reddit.com/user/Raymenx">
+  Raymenx
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T13:52:28+00:00" title="Wed Nov 29 13:52:28 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Its possible, but no real way to tell. Comes down to how Geges interpretation of the logic ends up
+</p>
+
+<p class="parent">
+ <a name="kb9elqx">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_dyjji0al" href="https://old.reddit.com/user/_S1syphus">
+  _S1syphus
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T13:57:35+00:00" title="Wed Nov 29 13:57:35 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ In theory, i dont see an issue. The universal slash targets the fabric of space itself and uro's technique distorts that same space, allowing free manipulation of it. I imagine sukuna would throw out the slash and instead of a perfect 180° imprint, it would look like he shaped the slash with drunk goggles. The counter would be the net technique he got kashimo with or MS if he wanted to instantly negate the technique
+</p>
+
+<p class="parent">
+ <a name="kbbhfdl">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_5aqcjijs" href="https://old.reddit.com/user/Fruit_Punch666">
+  Fruit_Punch666
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T21:39:17+00:00" title="Wed Nov 29 21:39:17 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ If Sukuna can slash the Limitless, then Uro's CT is nothing to be worried fo him.
+</p>
+
+<p class="parent">
+ <a name="kbcmf6q">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3pwloh42" href="https://old.reddit.com/user/Ok_Membership_6559">
+  Ok_Membership_6559
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T02:18:37+00:00" title="Thu Nov 30 02:18:37 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I'd say that before he adapted to Gojo's infinity, yes! They seem to actually be "invisible" but physical attacks that do travel through the air.
+</p>
+
+<p>
+ Now after he adapted I don't think so, Yuta would mold the space but Sukuna would just cut through it anyway, like a constant effect on reality.
+</p>
+
+<p class="parent">
+ <a name="kb7vigq">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3ql41xc7" href="https://old.reddit.com/user/Precinho7">
+  Precinho7
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
+  5 points
+ </span>
+ <span class="score likes" title="6">
+  6 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T04:06:32+00:00" title="Wed Nov 29 04:06:32 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Technically yes. He would bend the space around him to not be touched by Cleave.
+</p>
+
+<p class="parent">
+ <a name="kb80otg">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author submitter may-blank id-t2_7ta7ixg3" href="https://old.reddit.com/user/Nathan_barrels">
+  Nathan_barrels
+ </a>
+ <span class="flairrichtext flaircolordark flair" style="background-color: transparent; border-color: transparent;" title=":boysenberry:">
+  <span class="flairemoji" style="background-image: url(https://emoji.redditmedia.com/fh666kz72vj81_t5_445fo9/boysenberry)" title=":boysenberry:">
+  </span>
+ </span>
+ <span class="userattrs">
+  [
+  <a class="submitter" href="/r/Jujutsushi/comments/186gc5e/stupid_question/" title="submitter">
+   S
+  </a>
+  ]
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T04:49:59+00:00" title="Wed Nov 29 04:49:59 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ That's what I was thinking. Not like redirect it how he did with Ryu but just move himself out of the way or something
+</p>
+
+<p class="parent">
+ <a name="kb8d186">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_gcd7g" href="https://old.reddit.com/user/SoyMantequilla">
+  SoyMantequilla
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T06:50:54+00:00" title="Wed Nov 29 06:50:54 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Didn’t Uro fight Sukuna once already back in Heian era? Even if it works I don’t think it helps him much as a counter, maybe just buys a little time. But I doubt it matters at all against malevolent shrines spam of normal attacks
+</p>
+
+<p class="parent">
+ <a name="kb9g14q">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_s29ip" href="https://old.reddit.com/user/The_Stang">
+  The_Stang
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T14:08:17+00:00" title="Wed Nov 29 14:08:17 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I'd say yes, because you are bending space. So even if he is targeting "space" itself you are able to take that space and move it. But it is confusing because he still has to "send" the space cleave
+</p>
+
+<p class="parent">
+ <a name="kb9jbd1">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_dzrn8m4" href="https://old.reddit.com/user/TPJchief87">
+  TPJchief87
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T14:31:59+00:00" title="Wed Nov 29 14:31:59 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Seems like it’d be a better idea to just dodge it
+</p>
+
+<p class="parent">
+ <a name="kb9n6fo">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_1co0zxqg" href="https://old.reddit.com/user/DudeWhereAreWe1996">
+  DudeWhereAreWe1996
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T14:58:32+00:00" title="Wed Nov 29 14:58:32 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ The issue is it doesn't seem to shoot out. When you look at when he used it on Kashimo we see the cut instantly start where Kashimo was. That's the reason it was able to get Gojo I think. Since it didn't have to travel anywhere and instead went straight to Gojo. I think some more explaining from Gege would help but I guess that'll come later or in an author note.
+</p>
+
+<p class="parent">
+ <a name="kba06hv">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_62pmhw63" href="https://old.reddit.com/user/kiseobito021">
+  kiseobito021
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T16:20:33+00:00" title="Wed Nov 29 16:20:33 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Sukuna can now cut whatver the fk he wants to cut cuz Gege is a genius.
+</p>
+
+<p class="parent">
+ <a name="kba26bs">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_1i23jozr" href="https://old.reddit.com/user/BirdMBlack">
+  BirdMBlack
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T16:32:38+00:00" title="Wed Nov 29 16:32:38 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Depends on whichever Gege decides has higher priority. Either Sukuna's slash tears through its predetermined area of attack with extreme prejudice and ignores Uro's technique, or it's able to be bent away because it occupies the space being altered by her technique. We can't know for sure how it'll play out until it happens because it's highly dependent on how the author wants it to play.
+</p>
+
+<p class="parent">
+ <a name="kbae3pj">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_rvjxznka" href="https://old.reddit.com/user/Independent_Leek1751">
+  Independent_Leek1751
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T17:43:01+00:00" title="Wed Nov 29 17:43:01 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Not really. He controls space sure but sukuna can cut through that space and I will be honest with you. Sukuna with all the honesty in the world should mob the floor with everyone in the series right now. Except maybe kenjaku ( low diff ) the rest is low to no diff. But another Almighty in the way.
+</p>
+
+<p class="parent">
+ <a name="kbayov9">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_85otbbe1" href="https://old.reddit.com/user/saltedmints">
+  saltedmints
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T19:45:45+00:00" title="Wed Nov 29 19:45:45 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ It would depend on how cursed techniques worklike Kenjaku said if they are their own reality when being used or if there is a background system to everything that kinda determines it.When he talked with Mahito when Geto's body choked him.
+</p>
+
+<p>
+ As Gojo is creating space and Uro is manipulating space
+</p>
+
+<p class="parent">
+ <a name="kbbgorn">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_8wjr7k5j" href="https://old.reddit.com/user/Normal_Ad_2717">
+  Normal_Ad_2717
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T21:34:44+00:00" title="Wed Nov 29 21:34:44 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Nope I don’t think there’s anything that can repel that attack except maybe  hollow purple
+</p>
+
+<p class="parent">
+ <a name="kbht7y9">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3ps4jsvu" href="https://old.reddit.com/user/folgerscoffees">
+  folgerscoffees
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T02:35:10+00:00" title="Fri Dec 1 02:35:10 2023 UTC">
+  21 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ it depends on if Gege is having a bad day or not
 </p>
 

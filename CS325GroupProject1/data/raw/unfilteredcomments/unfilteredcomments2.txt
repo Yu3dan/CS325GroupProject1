@@ -1,5 +1,5 @@
 <p class="parent">
- <a name="k9kxoyk">
+ <a name="kbgto9m">
  </a>
 </p>
 
@@ -7,122 +7,22 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author moderator may-blank id-t2_6l4z3" href="https://old.reddit.com/user/AutoModerator">
-  AutoModerator
- </a>
- <span class="userattrs">
-  [
-  <a class="moderator" href="/r/JuJutsuKaisen/about/moderators" title="moderator of r/JuJutsuKaisen, speaking officially">
-   M
-  </a>
-  ]
- </span>
- <span class="score-hidden" title="scores for stickied comments are visible to mods only">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:25:10+00:00" title="Fri Nov 17 01:25:10 2023 UTC">
-  16 hours ago
- </time>
- <span class="stickied-tagline" title="selected by this subreddit's moderators">
-  stickied comment
- </span>
- <span class="locked-tagline" title="locked by this subreddit's moderators">
-  locked comment
- </span>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- <strong>
-  If this post does not have a spoiler tag, SPOILER TAG MANGA COMMENTS
- </strong>
- , or you risk a tempban. Keep it secret for the anime watchers.  Please remember that vague spoilers count as spoilers such as "do we tell them".
-If you're caught up on the manga, consider joining our sister sub
- <a href="/r/Jujutsushi" rel="nofollow">
-  r/Jujutsushi
- </a>
- for catered, in-depth manga discussion.
-</p>
-
-<p>
- <em>
-  I am a bot, and this action was performed automatically. Please
-  <a href="/message/compose/?to=/r/JuJutsuKaisen" rel="nofollow">
-   contact the moderators of this subreddit
-  </a>
-  if you have any questions or concerns.
- </em>
-</p>
-
-<p class="parent">
- <a name="k9l0qj8">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_3yq2wy23" href="https://old.reddit.com/user/CrowBright5352">
-  CrowBright5352
- </a>
- <span class="flair flair-3" title="">
- </span>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/JuJutsuKaisen/comments/17x3dap/kaiji_tang_gojos_english_va_has_spoken_about_jjk/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score dislikes" title="217">
-  217 points
- </span>
- <span class="score unvoted" title="218">
-  218 points
- </span>
- <span class="score likes" title="219">
-  219 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:47:54+00:00" title="Fri Nov 17 01:47:54 2023 UTC">
-  16 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (4 children)
- </a>
-</p>
-
-<p>
- If I were MAPPA's executives, I'll listen to Gojo fr. W take from Kaiji, too.
-</p>
-
-<p class="parent">
- <a name="k9lhnoh">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_dtw7z" href="https://old.reddit.com/user/UnadvisedGoose">
-  UnadvisedGoose
+ <a class="author may-blank id-t2_652jyizww" href="https://old.reddit.com/user/Front_Durian_4942">
+  Front_Durian_4942
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="71">
-  71 points
+ <span class="score dislikes" title="121">
+  121 points
  </span>
- <span class="score unvoted" title="72">
-  72 points
+ <span class="score unvoted" title="122">
+  122 points
  </span>
- <span class="score likes" title="73">
-  73 points
+ <span class="score likes" title="123">
+  123 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T03:58:37+00:00" title="Fri Nov 17 03:58:37 2023 UTC">
-  14 hours ago
+ <time class="live-timestamp" datetime="2023-11-30T22:32:02+00:00" title="Thu Nov 30 22:32:02 2023 UTC">
+  1 day ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -130,11 +30,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Not sure how many people actually partake in the English dub, but Kaiji’s performance is absolutely phenomenal throughout. Really really impressed by his talent, and now his character and passion for the franchise/industry, after this tweet
+ After the last few chapters Kuma has become much more terrifying than his initial introduction.  If he wasn't a pacifist, between his natural bulk and his DF, the dude could have taken down the world
 </p>
 
 <p class="parent">
- <a name="k9lo4cq">
+ <a name="kbj49tz">
  </a>
 </p>
 
@@ -142,21 +42,26 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_r3damr27" href="https://old.reddit.com/user/BirdCollections">
-  BirdCollections
+ <a class="author may-blank id-t2_nu1b4" href="https://old.reddit.com/user/CRtwenty">
+  CRtwenty
  </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #7193ff; border-color: #7193ff;" title="Marine">
+  <span>
+   Marine
+  </span>
+ </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="27">
-  27 points
+ <span class="score dislikes" title="18">
+  18 points
  </span>
- <span class="score unvoted" title="28">
-  28 points
+ <span class="score unvoted" title="19">
+  19 points
  </span>
- <span class="score likes" title="29">
-  29 points
+ <span class="score likes" title="20">
+  20 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T04:57:00+00:00" title="Fri Nov 17 04:57:00 2023 UTC">
+ <time class="live-timestamp" datetime="2023-12-01T10:26:36+00:00" title="Fri Dec 1 10:26:36 2023 UTC">
   13 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -165,15 +70,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- He's really a standout performer!
-</p>
-
-<p>
- You can ten he really cares about Gojo as a character too
+ Yeah the guy is a monster. A cute cuddly teddy bear of a monster but a monster nonetheless.
 </p>
 
 <p class="parent">
- <a name="k9nt8rb">
+ <a name="kbjpt3u">
  </a>
 </p>
 
@@ -181,22 +82,27 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_113rx4" href="https://old.reddit.com/user/FearfulDreamz">
-  FearfulDreamz
+ <a class="author may-blank id-t2_fr2k7" href="https://old.reddit.com/user/nagifero">
+  nagifero
  </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ea0027; border-color: #ea0027;" title="Void Month Survivor">
+  <span>
+   Void Month Survivor
+  </span>
+ </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
+ <span class="score dislikes" title="3">
   3 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T17:39:15+00:00" title="Fri Nov 17 17:39:15 2023 UTC">
-  26 minutes ago
+ <span class="score unvoted" title="4">
+  4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:01:18+00:00" title="Fri Dec 1 14:01:18 2023 UTC">
+  9 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -204,11 +110,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- I just watched the dub episodes and was thinking the same thing he is so awesome.
+ That is exactly what popped in my mind when i saw the pic. It is incredible to see how Oda is able to alter our views of a single character and how we feel about them.
 </p>
 
 <p class="parent">
- <a name="k9luh80">
+ <a name="kbh9sdr">
  </a>
 </p>
 
@@ -216,61 +122,22 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_co9j6oby" href="https://old.reddit.com/user/Hype_Saw_Paing">
-  Hype_Saw_Paing
+ <a class="author may-blank id-t2_8ga7fhej" href="https://old.reddit.com/user/GuardianGero">
+  GuardianGero
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="11">
-  11 points
+ <span class="score dislikes" title="82">
+  82 points
  </span>
- <span class="score unvoted" title="12">
-  12 points
+ <span class="score unvoted" title="83">
+  83 points
  </span>
- <span class="score likes" title="13">
-  13 points
+ <span class="score likes" title="84">
+  84 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T06:03:47+00:00" title="Fri Nov 17 06:03:47 2023 UTC">
-  12 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Yeah this definitely adds power to people calling mappa out for their outrageous practices.
-</p>
-
-<p>
- Imagine mapping being petty as hell and just firing him though I'll actually awake my CT and fight the ceo of it
-</p>
-
-<p class="parent">
- <a name="k9l069x">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_5jtamc8x" href="https://old.reddit.com/user/Shadow_Huntress12">
-  Shadow_Huntress12
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="158">
-  158 points
- </span>
- <span class="score unvoted" title="159">
-  159 points
- </span>
- <span class="score likes" title="160">
-  160 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:43:42+00:00" title="Fri Nov 17 01:43:42 2023 UTC">
-  16 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T00:21:37+00:00" title="Fri Dec 1 00:21:37 2023 UTC">
+  23 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -278,11 +145,15 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Even the VA’s acknowledge them. MAPPA give them a break or a raise 🐍
+ Kuma the
+ <del>
+  Tyrant
+ </del>
+ Extremely Good Dad.
 </p>
 
 <p class="parent">
- <a name="k9lfp5n">
+ <a name="kbl05ss">
  </a>
 </p>
 
@@ -290,22 +161,16 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_2noyr7gh" href="https://old.reddit.com/user/LeafyMeap">
-  LeafyMeap
+ <a class="author may-blank id-t2_5awxegtr" href="https://old.reddit.com/user/SuperKami-Nappa">
+  SuperKami-Nappa
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="37">
-  37 points
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
  </span>
- <span class="score unvoted" title="38">
-  38 points
- </span>
- <span class="score likes" title="39">
-  39 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T03:42:22+00:00" title="Fri Nov 17 03:42:22 2023 UTC">
-  14 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T18:56:32+00:00" title="Fri Dec 1 18:56:32 2023 UTC">
+  4 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -313,11 +178,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- well ideally both lol
+ The Chad Dad
 </p>
 
 <p class="parent">
- <a name="k9l15mc">
+ <a name="kbh3wuk">
  </a>
 </p>
 
@@ -325,22 +190,22 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_4na7jnb4" href="https://old.reddit.com/user/phanpyy">
-  phanpyy
+ <a class="author may-blank id-t2_7xsssui3" href="https://old.reddit.com/user/Rafoudrsbois">
+  Rafoudrsbois
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="38">
-  38 points
+ <span class="score dislikes" title="48">
+  48 points
  </span>
- <span class="score unvoted" title="39">
-  39 points
+ <span class="score unvoted" title="49">
+  49 points
  </span>
- <span class="score likes" title="40">
-  40 points
+ <span class="score likes" title="50">
+  50 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T01:51:03+00:00" title="Fri Nov 17 01:51:03 2023 UTC">
-  16 hours ago
+ <time class="live-timestamp" datetime="2023-11-30T23:40:41+00:00" title="Thu Nov 30 23:40:41 2023 UTC">
+  23 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -348,11 +213,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- So heartwarming to see Kaiji’s support for the team - just a shame it had to come to this in the first place
+ Don’t call him that 😭
 </p>
 
 <p class="parent">
- <a name="k9lof58">
+ <a name="kbh9mau">
  </a>
 </p>
 
@@ -360,22 +225,22 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_13rkqd" href="https://old.reddit.com/user/whyykai">
-  whyykai
+ <a class="author may-blank id-t2_ue7pr" href="https://old.reddit.com/user/DontToewsM3Bro">
+  DontToewsM3Bro
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="16">
-  16 points
- </span>
- <span class="score unvoted" title="17">
+ <span class="score dislikes" title="17">
   17 points
  </span>
- <span class="score likes" title="18">
+ <span class="score unvoted" title="18">
   18 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T04:59:54+00:00" title="Fri Nov 17 04:59:54 2023 UTC">
-  13 hours ago
+ <span class="score likes" title="19">
+  19 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T00:20:27+00:00" title="Fri Dec 1 00:20:27 2023 UTC">
+  23 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -383,11 +248,15 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Kaiji is an outstanding VA and he's so passionate about bringing Gojo to life. He keeps coming in with the hit tweets.
+ Dang, how much was that?
+</p>
+
+<p>
+ That shit 🔥🔥🔥
 </p>
 
 <p class="parent">
- <a name="k9me0gu">
+ <a name="kbh46j1">
  </a>
 </p>
 
@@ -395,22 +264,27 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_kpsyy" href="https://old.reddit.com/user/GoneRampant1">
-  GoneRampant1
+ <a class="author may-blank id-t2_hfycwxvl" href="https://old.reddit.com/user/Soft_House7669">
+  Soft_House7669
  </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #eb79ac; border-color: #eb79ac;" title="Chopper the Cotton Candy Lover">
+  <span>
+   Chopper the Cotton Candy Lover
+  </span>
+ </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="7">
-  7 points
- </span>
- <span class="score unvoted" title="8">
+ <span class="score dislikes" title="8">
   8 points
  </span>
- <span class="score likes" title="9">
+ <span class="score unvoted" title="9">
   9 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T10:32:45+00:00" title="Fri Nov 17 10:32:45 2023 UTC">
-  7 hours ago
+ <span class="score likes" title="10">
+  10 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T23:42:31+00:00" title="Thu Nov 30 23:42:31 2023 UTC">
+  23 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -418,11 +292,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Kaiji is a gem and I'm glad he's willing to openly speak out about stuff like this. I know he was one of the VAs willing to put his neck on the line and condemn Crunchyroll for their poor pay over the JJK0 dub so stuff like this shows he's a legitimate upstanding fellow.
+ I don't collect any figures, but this one has me thinking about it.
 </p>
 
 <p class="parent">
- <a name="k9l445x">
+ <a name="kbhkx9a">
  </a>
 </p>
 
@@ -430,43 +304,8 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_1xxlwxst" href="https://old.reddit.com/user/TheLordOfAllClappys">
-  TheLordOfAllClappys
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="26">
-  26 points
- </span>
- <span class="score unvoted" title="27">
-  27 points
- </span>
- <span class="score likes" title="28">
-  28 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T02:13:10+00:00" title="Fri Nov 17 02:13:10 2023 UTC">
-  15 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Kaiji Tang has probably become my favourite English VA. Gojo, Ichiban, even his role as Guts wasn't even that bad. This just solidifies his placement in the goat tier 🐐
-</p>
-
-<p class="parent">
- <a name="k9m7kwv">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_jv6xihv" href="https://old.reddit.com/user/superking22">
-  superking22
+ <a class="author may-blank id-t2_nwke7k5k0" href="https://old.reddit.com/user/West-Girl828">
+  West-Girl828
  </a>
  <span class="userattrs">
  </span>
@@ -479,8 +318,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="7">
   7 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T08:57:36+00:00" title="Fri Nov 17 08:57:36 2023 UTC">
-  9 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T01:38:38+00:00" title="Fri Dec 1 01:38:38 2023 UTC">
+  22 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -488,11 +327,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- They need a hiatus until next year. Then air the rest of the episodes.
+ That looks great I need it in my room Kuma is one of my favorite characters in all of One Pice
 </p>
 
 <p class="parent">
- <a name="k9n9awv">
+ <a name="kbi5o0q">
  </a>
 </p>
 
@@ -500,8 +339,171 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_4fn80z0" href="https://old.reddit.com/user/FAS-ACA3">
-  FAS-ACA3
+ <a class="author may-blank id-t2_9mlln" href="https://old.reddit.com/user/fork_yuu">
+  fork_yuu
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
+  5 points
+ </span>
+ <span class="score likes" title="6">
+  6 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T04:01:33+00:00" title="Fri Dec 1 04:01:33 2023 UTC">
+  19 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ Got curious and it was about 100-300$ when it was first available, all sold out of course or sketchy as hell sites since these figures always just sold for a limited time
+</p>
+
+<p>
+ <a href="https://www.mozfigure.com/products/pre-order-lx-studio-one-piece-bartholemew-kuma-statuegk?variant=efa9132a-780b-4b86-ac53-9bde96c0e0cf">
+  https://www.mozfigure.com/products/pre-order-lx-studio-one-piece-bartholemew-kuma-statuegk?variant=efa9132a-780b-4b86-ac53-9bde96c0e0cf
+ </a>
+</p>
+
+<p>
+ <a href="https://devilnesstoys.com/product/shop-all/lx-studio-b-color-one-piece-bartholemew-kuma-resin-statue/">
+  https://devilnesstoys.com/product/shop-all/lx-studio-b-color-one-piece-bartholemew-kuma-resin-statue/
+ </a>
+</p>
+
+<p>
+ <a href="https://devilnesstoys.com/product/shop-all/lx-studio-one-piece-bartholemew-kuma-resin-statue/">
+  https://devilnesstoys.com/product/shop-all/lx-studio-one-piece-bartholemew-kuma-resin-statue/
+ </a>
+</p>
+
+<p>
+ <a href="https://yesgk.com/products/one-piece-bartholemew-kuma-resin-statue-lx-studio-pre-order">
+  https://yesgk.com/products/one-piece-bartholemew-kuma-resin-statue-lx-studio-pre-order
+ </a>
+</p>
+
+<p class="parent">
+ <a name="kbj5k85">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_9b4xo" href="https://old.reddit.com/user/PoorLittleGoat">
+  PoorLittleGoat
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T10:43:29+00:00" title="Fri Dec 1 10:43:29 2023 UTC">
+  12 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ $100 was just for the deposit. There’s still one in stock on Kaioland, €295 shipped.
+</p>
+
+<p class="parent">
+ <a name="kbm3gne">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_cem3l" href="https://old.reddit.com/user/ElevateTheMind">
+  ElevateTheMind
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T23:11:29+00:00" title="Fri Dec 1 23:11:29 2023 UTC">
+  29 minutes ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Are all these legit sites to order from?
+</p>
+
+<p class="parent">
+ <a name="kbgsqz9">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_56drh3mp" href="https://old.reddit.com/user/dinerojunkie">
+  dinerojunkie
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ea0027; border-color: #ea0027;" title="Pirate">
+  <span>
+   Pirate
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T22:26:07+00:00" title="Thu Nov 30 22:26:07 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ So fire!
+</p>
+
+<p class="parent">
+ <a name="kbiyl3u">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_5hw9brxy" href="https://old.reddit.com/user/monotone-">
+  monotone-
  </a>
  <span class="userattrs">
  </span>
@@ -514,50 +516,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="4">
   4 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T15:26:54+00:00" title="Fri Nov 17 15:26:54 2023 UTC">
-  2 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- Calling these episodes masterpieces will just make things worse
-</p>
-
-<p>
- Why would Mappa change anything when they can just rush episodes and people will still like them.
-</p>
-
-<p class="parent">
- <a name="k9nf9u8">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_5sxj9aoq" href="https://old.reddit.com/user/South25">
-  South25
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T16:07:53+00:00" title="Fri Nov 17 16:07:53 2023 UTC">
-  1 hour ago
- </time>
- <time class="edited-timestamp" datetime="2023-11-17T16:25:31+00:00" title="last edited 1 hour ago">
-  *
+ <time class="live-timestamp" datetime="2023-12-01T09:07:51+00:00" title="Fri Dec 1 09:07:51 2023 UTC">
+  14 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -565,15 +525,15 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- The way someone put it in another thread is that it´s better to praise the team while on the same breath denouncing what Mappa is doing or criticize specifically Mappa s CEO and the production team for it when pointing out the flaws so that the team doesn´t think they re the ones being blamed.
+ Paw paw fruit gives the user pawpads that can repel anything... but nobody asked the real question...
 </p>
 
 <p>
- We know these people have constantly delivered thought an awful schedule since 0, so it needs to be spelled out who s getting the praise and who s getting the middle finger for how things are turning out.
+ What about his feet?
 </p>
 
 <p class="parent">
- <a name="k9llv3d">
+ <a name="kbhr529">
  </a>
 </p>
 
@@ -581,21 +541,56 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_5ti5vpmc2" href="https://old.reddit.com/user/aot-and-yakuzafan_88">
-  aot-and-yakuzafan_88
+ <a class="author may-blank id-t2_2h50yhz5" href="https://old.reddit.com/user/Silver-Fang-Bang">
+  Silver-Fang-Bang
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="3">
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
   3 points
  </span>
- <span class="score unvoted" title="4">
+ <time class="live-timestamp" datetime="2023-12-01T02:20:50+00:00" title="Fri Dec 1 02:20:50 2023 UTC">
+  21 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Who makes this one ? The detail is insane so much texture, I’m guessing at least $350 usd
+</p>
+
+<p class="parent">
+ <a name="kbj3m2c">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_6mavq860" href="https://old.reddit.com/user/Nesseya">
+  Nesseya
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
   4 points
  </span>
- <span class="score likes" title="5">
-  5 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T04:35:48+00:00" title="Fri Nov 17 04:35:48 2023 UTC">
+ <time class="live-timestamp" datetime="2023-12-01T10:17:50+00:00" title="Fri Dec 1 10:17:50 2023 UTC">
   13 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -604,11 +599,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Man I love this guy. One of my favorite dub actors.
+ this one is by lx studio
 </p>
 
 <p class="parent">
- <a name="k9m8anq">
+ <a name="kbi3izu">
  </a>
 </p>
 
@@ -616,22 +611,22 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_87dy62u2" href="https://old.reddit.com/user/Cat_Astrof">
-  Cat_Astrof
+ <a class="author may-blank id-t2_ono1w12qp" href="https://old.reddit.com/user/Drizzbot2">
+  Drizzbot2
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
+ <span class="score dislikes" title="1">
   1 point
  </span>
- <span class="score likes" title="2">
+ <span class="score unvoted" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T09:08:22+00:00" title="Fri Nov 17 09:08:22 2023 UTC">
-  8 hours ago
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T03:46:22+00:00" title="Fri Dec 1 03:46:22 2023 UTC">
+  19 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -639,11 +634,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- I am so mad towards people in Reddit that DARE complain about some parts that were not perfect in this episode. The animator had ONE week to this but they these people dare complain while wishfully forgetting all the great scenes they did right in the episode.
+ Bro that's sick where did u find it
 </p>
 
 <p class="parent">
- <a name="k9l70hn">
+ <a name="kbiw7xp">
  </a>
 </p>
 
@@ -651,21 +646,21 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_kfznjwv6" href="https://old.reddit.com/user/Much-Cold2288">
-  Much-Cold2288
+ <a class="author may-blank id-t2_8uxxrfot" href="https://old.reddit.com/user/tangledcpp">
+  tangledcpp
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="3">
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
   3 points
  </span>
- <span class="score unvoted" title="4">
-  4 points
- </span>
- <span class="score likes" title="5">
-  5 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T02:34:32+00:00" title="Fri Nov 17 02:34:32 2023 UTC">
+ <time class="live-timestamp" datetime="2023-12-01T08:35:01+00:00" title="Fri Dec 1 08:35:01 2023 UTC">
   15 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -674,11 +669,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- The King has spoken
+ He is NOT a tyrant
 </p>
 
 <p class="parent">
- <a name="k9lmn0i">
+ <a name="kbixi7g">
  </a>
 </p>
 
@@ -686,133 +681,22 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_5gozbhnr" href="https://old.reddit.com/user/lozzy1400">
-  lozzy1400
+ <a class="author may-blank id-t2_71cztc1m" href="https://old.reddit.com/user/ZookeepergameOk2150">
+  ZookeepergameOk2150
  </a>
- <span class="flair flair-Gojou" title=" .">
-  .
- </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
+ <span class="score dislikes" title="1">
   1 point
  </span>
- <span class="score likes" title="2">
+ <span class="score unvoted" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T04:43:00+00:00" title="Fri Nov 17 04:43:00 2023 UTC">
-  13 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Kaiji Tang the GOAT. He’s my favourite English VA! I’m glad he’s using his platform for this
-</p>
-
-<p class="parent">
- <a name="k9mchxq">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_8jrhy64r" href="https://old.reddit.com/user/ApplePitou">
-  ApplePitou
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="-1">
-  -1 points
- </span>
- <span class="score unvoted" title="0">
-  0 points
- </span>
- <span class="score likes" title="1">
-  1 point
- </span>
- <time class="live-timestamp" datetime="2023-11-17T10:11:10+00:00" title="Fri Nov 17 10:11:10 2023 UTC">
-  7 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Rest is very important and these people deserve it :3
-</p>
-
-<p class="parent">
- <a name="k9lsxv0">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [+]
- </a>
- <a class="author may-blank id-t2_7c51ysq2" href="https://old.reddit.com/user/Artyom_9">
-  Artyom_9
- </a>
- <span class="userattrs">
- </span>
- <span class="collapsed-reason">
-  comment score below threshold
- </span>
- <span class="score dislikes" title="-13">
-  -13 points
- </span>
- <span class="score unvoted" title="-12">
-  -12 points
- </span>
- <span class="score likes" title="-11">
-  -11 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T05:46:36+00:00" title="Fri Nov 17 05:46:36 2023 UTC">
-  12 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- A masterpiece ?! damn that episode looked fanmade at best
-</p>
-
-<p class="parent">
- <a name="k9mkzs6">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_9zb90693" href="https://old.reddit.com/user/DependentFearless162">
-  DependentFearless162
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
+ <span class="score likes" title="3">
   3 points
  </span>
- <span class="score likes" title="4">
-  4 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T12:03:32+00:00" title="Fri Nov 17 12:03:32 2023 UTC">
-  6 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T08:52:49+00:00" title="Fri Dec 1 08:52:49 2023 UTC">
+  14 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -820,11 +704,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- I know you're downvoted but that episode was only 30% of what actual final cut.
+ Bartholomew Kuma *the Father
 </p>
 
 <p class="parent">
- <a name="k9m7ybs">
+ <a name="kbiuj91">
  </a>
 </p>
 
@@ -832,9 +716,14 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_uoao8jfx" href="https://old.reddit.com/user/Gothicrealm">
-  Gothicrealm
+ <a class="author may-blank id-t2_8s42dlrl" href="https://old.reddit.com/user/pro_charlatan">
+  pro_charlatan
  </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ca0065; border-color: #ca0065;" title="Thriller Bark Victim's Association">
+  <span>
+   Thriller Bark Victim's Association
+  </span>
+ </span>
  <span class="userattrs">
  </span>
  <span class="score dislikes" title="-5">
@@ -846,7 +735,84 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="-3">
   -3 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T09:03:12+00:00" title="Fri Nov 17 09:03:12 2023 UTC">
+ <time class="live-timestamp" datetime="2023-12-01T08:12:21+00:00" title="Fri Dec 1 08:12:21 2023 UTC">
+  15 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ What tyrant? I only see a weak willed pacifist.
+</p>
+
+<p class="parent">
+ <a name="kbiyn83">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_vfcgih2s" href="https://old.reddit.com/user/antari--">
+  antari--
+ </a>
+ <span class="flair flair-ivankov" title="">
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T09:08:41+00:00" title="Fri Dec 1 09:08:41 2023 UTC">
+  14 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ weak willed your ass
+</p>
+
+<p class="parent">
+ <a name="kbju2aq">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_8s42dlrl" href="https://old.reddit.com/user/pro_charlatan">
+  pro_charlatan
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ca0065; border-color: #ca0065;" title="Thriller Bark Victim's Association">
+  <span>
+   Thriller Bark Victim's Association
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:32:13+00:00" title="Fri Dec 1 14:32:13 2023 UTC">
   9 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -855,11 +821,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- I pray season 3 comes 2024. I don't wanna wait 2 years
+ It was a reference to chapter 1100....
 </p>
 
 <p class="parent">
- <a name="k9mhlnv">
+ <a name="kbj9b2d">
  </a>
 </p>
 
@@ -867,8 +833,8 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_1rqsd08t" href="https://old.reddit.com/user/AMMVReddit">
-  AMMVReddit
+ <a class="author may-blank id-t2_i8xz6559" href="https://old.reddit.com/user/Overall-Shine-8610">
+  Overall-Shine-8610
  </a>
  <span class="userattrs">
  </span>
@@ -881,8 +847,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T11:23:01+00:00" title="Fri Nov 17 11:23:01 2023 UTC">
-  6 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T11:29:46+00:00" title="Fri Dec 1 11:29:46 2023 UTC">
+  12 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -890,11 +856,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- He about to domain expansion all over the mappa higher ups
+ Dayuuuum
 </p>
 
 <p class="parent">
- <a name="k9ml34j">
+ <a name="kbjizkh">
  </a>
 </p>
 
@@ -902,10 +868,83 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_u70ev1c4" href="https://old.reddit.com/user/MasteROogwayY2">
-  MasteROogwayY2
+ <a class="author may-blank id-t2_io4t15vi" href="https://old.reddit.com/user/Strange-Action639">
+  Strange-Action639
  </a>
- <span class="flair flair-3" title="">
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T13:06:16+00:00" title="Fri Dec 1 13:06:16 2023 UTC">
+  10 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ This is a lot sadder to look at now after the recent chapters
+</p>
+
+<p class="parent">
+ <a name="kbjletv">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_9rwq228k" href="https://old.reddit.com/user/KingFKong">
+  KingFKong
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T13:26:43+00:00" title="Fri Dec 1 13:26:43 2023 UTC">
+  10 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Steven sea-gal..undersiege
+</p>
+
+<p class="parent">
+ <a name="kbjmsjx">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_4nty25cp" href="https://old.reddit.com/user/Roronoa_Zoro8615">
+  Roronoa_Zoro8615
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #373c3f; border-color: #373c3f;" title="The Revolutionary Army">
+  <span>
+   The Revolutionary Army
+  </span>
  </span>
  <span class="userattrs">
  </span>
@@ -918,8 +957,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T12:04:35+00:00" title="Fri Nov 17 12:04:35 2023 UTC">
-  6 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T13:37:55+00:00" title="Fri Dec 1 13:37:55 2023 UTC">
+  10 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -927,6 +966,128 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Thats why he's the goat, the goat
+ Best dad in the world
+</p>
+
+<p class="parent">
+ <a name="kbk57z8">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_1so2sp13" href="https://old.reddit.com/user/Master3530">
+  Master3530
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T15:46:38+00:00" title="Fri Dec 1 15:46:38 2023 UTC">
+  7 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Batholomew Kuma the saint
+</p>
+
+<p class="parent">
+ <a name="kbkz51w">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_4fur9z1v" href="https://old.reddit.com/user/rrrrjrm">
+  rrrrjrm
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T18:50:13+00:00" title="Fri Dec 1 18:50:13 2023 UTC">
+  4 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I wanna see all of them omgg 😍
+</p>
+
+<p class="parent">
+ <a name="kbkz5nb">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_4fur9z1v" href="https://old.reddit.com/user/rrrrjrm">
+  rrrrjrm
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T18:50:19+00:00" title="Fri Dec 1 18:50:19 2023 UTC">
+  4 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I wanna see all of them omgg 😍
+</p>
+
+<p class="parent">
+ <a name="kbm64ou">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_61rpy73y" href="https://old.reddit.com/user/automatic_dope">
+  automatic_dope
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T23:30:54+00:00" title="Fri Dec 1 23:30:54 2023 UTC">
+  9 minutes ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I never fully appreciated these models until I saw this one
 </p>
 

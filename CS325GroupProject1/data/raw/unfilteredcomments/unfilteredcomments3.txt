@@ -1,5 +1,5 @@
 <p class="parent">
- <a name="k9ieq5c">
+ <a name="kbj57th">
  </a>
 </p>
 
@@ -7,57 +7,84 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author moderator may-blank id-t2_6l4z3" href="https://old.reddit.com/user/AutoModerator">
-  AutoModerator
+ <a class="author cakeday may-blank id-t2_il7f5ku8" href="https://old.reddit.com/user/BaronMerc">
+  BaronMerc
  </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #7193ff; border-color: #7193ff;" title="Marine">
+  <span>
+   Marine
+  </span>
+ </span>
  <span class="userattrs">
   [
-  <a class="moderator" href="/r/JuJutsuKaisen/about/moderators" title="moderator of r/JuJutsuKaisen, speaking officially">
-   M
+  <a class="cakeday" href="/user/BaronMerc" title="BaronMerc just celebrated a reddit birthday!">
+   🍰
   </a>
   ]
  </span>
- <span class="score-hidden" title="scores for stickied comments are visible to mods only">
-  [score hidden]
+ <span class="score dislikes" title="46">
+  46 points
  </span>
- <time class="live-timestamp" datetime="2023-11-16T15:26:48+00:00" title="Thu Nov 16 15:26:48 2023 UTC">
-  1 day ago
+ <span class="score unvoted" title="47">
+  47 points
+ </span>
+ <span class="score likes" title="48">
+  48 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T10:38:58+00:00" title="Fri Dec 1 10:38:58 2023 UTC">
+  13 hours ago
  </time>
- <span class="stickied-tagline" title="selected by this subreddit's moderators">
-  stickied comment
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Probably normal pirate treasure
+</p>
+
+<p class="parent">
+ <a name="kbjy5tq">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_fnnre" href="https://old.reddit.com/user/sameljota">
+  sameljota
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #6b6031; border-color: #6b6031;" title="Kaidon't">
+  <span>
+   Kaidon't
+  </span>
  </span>
- <span class="locked-tagline" title="locked by this subreddit's moderators">
-  locked comment
+ <span class="userattrs">
  </span>
+ <span class="score dislikes" title="8">
+  8 points
+ </span>
+ <span class="score unvoted" title="9">
+  9 points
+ </span>
+ <span class="score likes" title="10">
+  10 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T15:00:32+00:00" title="Fri Dec 1 15:00:32 2023 UTC">
+  8 hours ago
+ </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
  </a>
 </p>
 
 <p>
- <strong>
-  If this post does not have a spoiler tag, SPOILER TAG MANGA COMMENTS
- </strong>
- , or you risk a tempban. Keep it secret for the anime watchers.  Please remember that vague spoilers count as spoilers such as "do we tell them".
-If you're caught up on the manga, consider joining our sister sub
- <a href="/r/Jujutsushi" rel="nofollow">
-  r/Jujutsushi
- </a>
- for catered, in-depth manga discussion.
-</p>
-
-<p>
- <em>
-  I am a bot, and this action was performed automatically. Please
-  <a href="/message/compose/?to=/r/JuJutsuKaisen" rel="nofollow">
-   contact the moderators of this subreddit
-  </a>
-  if you have any questions or concerns.
- </em>
+ I hope it is. I want the One Piece to be something else, but this one should be just regular treasure.
 </p>
 
 <p class="parent">
- <a name="k9iiy4b">
+ <a name="kbjcz63">
  </a>
 </p>
 
@@ -65,22 +92,59 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_licsl" href="https://old.reddit.com/user/awesomehuder">
-  awesomehuder
+ <a class="author may-blank id-t2_4fb2a" href="https://old.reddit.com/user/Backupusername">
+  Backupusername
+ </a>
+ <span class="flair flair-sun" title="">
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="23">
+  23 points
+ </span>
+ <span class="score unvoted" title="24">
+  24 points
+ </span>
+ <span class="score likes" title="25">
+  25 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T12:10:00+00:00" title="Fri Dec 1 12:10:00 2023 UTC">
+  11 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ A huge fucking pile of money. Why would it be anything else?
+</p>
+
+<p class="parent">
+ <a name="kbigbw0">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_tfl4te67" href="https://old.reddit.com/user/Stopar-D-Coyoney">
+  Stopar-D-Coyoney
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="27">
-  27 points
+ <span class="score dislikes" title="32">
+  32 points
  </span>
- <span class="score unvoted" title="28">
-  28 points
+ <span class="score unvoted" title="33">
+  33 points
  </span>
- <span class="score likes" title="29">
-  29 points
+ <span class="score likes" title="34">
+  34 points
  </span>
- <time class="live-timestamp" datetime="2023-11-16T15:53:20+00:00" title="Thu Nov 16 15:53:20 2023 UTC">
-  1 day ago
+ <time class="live-timestamp" datetime="2023-12-01T05:30:12+00:00" title="Fri Dec 1 05:30:12 2023 UTC">
+  18 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -88,11 +152,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- when i scrolled down i expected something entierly different based on the upper half of the pic
+ The friends he made along the way.
 </p>
 
 <p class="parent">
- <a name="k9kmjlm">
+ <a name="kbj40ec">
  </a>
 </p>
 
@@ -100,8 +164,585 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_h3qd7" href="https://old.reddit.com/user/JCK07115">
-  JCK07115
+ <a class="author may-blank id-t2_13jyg9" href="https://old.reddit.com/user/wispymatrias">
+  wispymatrias
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ea0027; border-color: #ea0027;" title="Pirate">
+  <span>
+   Pirate
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="7">
+  7 points
+ </span>
+ <span class="score unvoted" title="8">
+  8 points
+ </span>
+ <span class="score likes" title="9">
+  9 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T10:23:04+00:00" title="Fri Dec 1 10:23:04 2023 UTC">
+  13 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I posted the same thing blind just now without looking at the other replies and I hate both you and myself now
+</p>
+
+<p class="parent">
+ <a name="kbik1tr">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_bzqtadgf" href="https://old.reddit.com/user/AranzabaI">
+  AranzabaI
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="6">
+  6 points
+ </span>
+ <span class="score unvoted" title="7">
+  7 points
+ </span>
+ <span class="score likes" title="8">
+  8 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T06:07:13+00:00" title="Fri Dec 1 06:07:13 2023 UTC">
+  17 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I would actually like if this is the john's treasure
+</p>
+
+<p class="parent">
+ <a name="kbj9ccq">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3xgxe" href="https://old.reddit.com/user/Gorlonsins">
+  Gorlonsins
+ </a>
+ <span class="flair flair-ivankov" title="">
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="16">
+  16 points
+ </span>
+ <span class="score unvoted" title="17">
+  17 points
+ </span>
+ <span class="score likes" title="18">
+  18 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T11:30:10+00:00" title="Fri Dec 1 11:30:10 2023 UTC">
+  12 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (5 children)
+ </a>
+</p>
+
+<p>
+ Actual treasure that has been used to fund the Cross Guild.
+</p>
+
+<p class="parent">
+ <a name="kbjlbta">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author submitter may-blank id-t2_gqbqzr1d" href="https://old.reddit.com/user/JoyBoy24">
+  JoyBoy24
+ </a>
+ <span class="userattrs">
+  [
+  <a class="submitter" href="/r/OnePiece/comments/1883jn1/what_do_you_guys_think_captains_johns_treasure_is/" title="submitter">
+   S
+  </a>
+  ]
+ </span>
+ <span class="score dislikes" title="7">
+  7 points
+ </span>
+ <span class="score unvoted" title="8">
+  8 points
+ </span>
+ <span class="score likes" title="9">
+  9 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T13:26:01+00:00" title="Fri Dec 1 13:26:01 2023 UTC">
+  10 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (4 children)
+ </a>
+</p>
+
+<p>
+ It was already established Cross Guild is being funded by Underworld figures
+</p>
+
+<p class="parent">
+ <a name="kbjxd50">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3xgxe" href="https://old.reddit.com/user/Gorlonsins">
+  Gorlonsins
+ </a>
+ <span class="flair flair-ivankov" title="">
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
+  4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:55:09+00:00" title="Fri Dec 1 14:55:09 2023 UTC">
+  8 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (3 children)
+ </a>
+</p>
+
+<p>
+ Financial backing isn't entirely funding something. 
+You think Crocodile and Mihawk haven't milked Buggy to fund his own dumb idea at least partially?
+My guess is it's a lot of treasure, and he has most of it hidden.
+</p>
+
+<p class="parent">
+ <a name="kbl8z3t">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author submitter may-blank id-t2_gqbqzr1d" href="https://old.reddit.com/user/JoyBoy24">
+  JoyBoy24
+ </a>
+ <span class="userattrs">
+  [
+  <a class="submitter" href="/r/OnePiece/comments/1883jn1/what_do_you_guys_think_captains_johns_treasure_is/" title="submitter">
+   S
+  </a>
+  ]
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T19:52:04+00:00" title="Fri Dec 1 19:52:04 2023 UTC">
+  3 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ Crocodile and Mihawk probably never even mentioned Captain's John's treasure to Buggy, the only character we see Oda have ever talk about it/be in search of it is Buggy....we've never seen anyother character besides him show interest in it.
+</p>
+
+<p>
+ Plus if Buggy did find Captain John's Treasure treasure I'm pretty sure Oda would've explicitly shown that and Buggy himself wouldn't have been worried about having to pay back the money he owes Crocodile if Captain John's Treasure was a bunch of money Buggy found.
+</p>
+
+<p>
+ So based on all this it's very very unlikely that Buggy has already found Captain John's Treasure and the Underworld figures mentioned by Brannew are the ones granting money to Cross Guild to put bounties on the heads of marine soldiers.
+</p>
+
+<p class="parent">
+ <a name="kbm2i81">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3xgxe" href="https://old.reddit.com/user/Gorlonsins">
+  Gorlonsins
+ </a>
+ <span class="flair flair-ivankov" title="">
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T23:04:44+00:00" title="Fri Dec 1 23:04:44 2023 UTC">
+  35 minutes ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Super weird to ask a question and then write paragraphs saying "NO."
+</p>
+
+<p class="parent">
+ <a name="kbm2xu7">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author submitter may-blank id-t2_gqbqzr1d" href="https://old.reddit.com/user/JoyBoy24">
+  JoyBoy24
+ </a>
+ <span class="userattrs">
+  [
+  <a class="submitter" href="/r/OnePiece/comments/1883jn1/what_do_you_guys_think_captains_johns_treasure_is/" title="submitter">
+   S
+  </a>
+  ]
+ </span>
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T23:07:46+00:00" title="Fri Dec 1 23:07:46 2023 UTC">
+  32 minutes ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ If your answer contradicts an already established point in the story people are free to call it out, also people are free to challenge your opinions even if they're the ones who originally asked for it....in fact that is what makes engagements so fun
+</p>
+
+<p class="parent">
+ <a name="kbjc9oj">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_1ooersc" href="https://old.reddit.com/user/ARussianSheep">
+  ARussianSheep
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #00a6a5; border-color: #00a6a5;" title="Explorer">
+  <span>
+   Explorer
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
+  7 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T12:02:40+00:00" title="Fri Dec 1 12:02:40 2023 UTC">
+  11 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ A really reeeeally good bottle of booze.
+</p>
+
+<p class="parent">
+ <a name="kbjqgcj">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_7cljrumm" href="https://old.reddit.com/user/Xyaibai">
+  Xyaibai
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ea0027; border-color: #ea0027;" title="Void Month Survivor">
+  <span>
+   Void Month Survivor
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:06:08+00:00" title="Fri Dec 1 14:06:08 2023 UTC">
+  9 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ A big red nose
+</p>
+
+<p class="parent">
+ <a name="kbjvi7x">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_6cvqbgbt" href="https://old.reddit.com/user/PoyStudios-6270">
+  PoyStudios-6270
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T14:42:19+00:00" title="Fri Dec 1 14:42:19 2023 UTC">
+  8 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ That would be funny if it was buggy’s devil fruit this entire time
+</p>
+
+<p class="parent">
+ <a name="kbkeyyt">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_ad0oe5ha" href="https://old.reddit.com/user/Flimsy-Ad-7392">
+  Flimsy-Ad-7392
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:47:25+00:00" title="Fri Dec 1 16:47:25 2023 UTC">
+  6 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Makes a lot of sense tbh
+</p>
+
+<p class="parent">
+ <a name="kbk57tb">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_119eqg" href="https://old.reddit.com/user/Givemeurhats">
+  Givemeurhats
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T15:46:36+00:00" title="Fri Dec 1 15:46:36 2023 UTC">
+  7 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Mohji and Kabaji's faces in that last panel is just one reason why I love one piece
+</p>
+
+<p class="parent">
+ <a name="kbkcu51">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_16n2xo" href="https://old.reddit.com/user/asillydaydreamer">
+  asillydaydreamer
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ea0027; border-color: #ea0027;" title="Void Month Survivor">
+  <span>
+   Void Month Survivor
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:34:16+00:00" title="Fri Dec 1 16:34:16 2023 UTC">
+  7 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Wait u remember their name???
+</p>
+
+<p class="parent">
+ <a name="kbjfuk9">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_nho8f" href="https://old.reddit.com/user/GioRgSaVv">
+  GioRgSaVv
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #349e48; border-color: #349e48;" title="Bounty Hunter">
+  <span>
+   Bounty Hunter
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
+  7 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T12:38:00+00:00" title="Fri Dec 1 12:38:00 2023 UTC">
+  11 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ its Greenbull's fruit.
+</p>
+
+<p>
+ the dude who guided buggy in this chapter is greenbull, the chapter's name (233) is "worlds greatest power"
+</p>
+
+<p>
+ it is supposed to be a reference for gorosei but gorosei are the five elder moons, they have nothing to do with earth, instead greenbulls fruit is the growth of plants, its earth itself, after the great flood and after noah will help to keep everyone above the sea levels greenbull will help with his fruit to restore the earth with plants and stuff. First time we see him his left eye is covered on this chapter 233 and first time we see him in wano his left eye is also covered.
+ <br/>
+ He wasn't in the paramount war because he was still ranking up to admiral level.
+</p>
+
+<p>
+ Greenbull said he hasn't eaten anything in the last 3 years, this scene is 2 years ago, I don't know
+</p>
+
+<p class="parent">
+ <a name="kbklswl">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_m1861g9c1" href="https://old.reddit.com/user/Hot_Raccoon_565">
+  Hot_Raccoon_565
  </a>
  <span class="userattrs">
  </span>
@@ -114,8 +755,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="3">
   3 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T00:00:21+00:00" title="Fri Nov 17 00:00:21 2023 UTC">
-  18 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T17:29:02+00:00" title="Fri Dec 1 17:29:02 2023 UTC">
+  6 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -123,15 +764,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- 🗿💀
-</p>
-
-<p>
- 👉👌
+ I was under the impression he and fujitora were recruited through the draft at the same time.
 </p>
 
 <p class="parent">
- <a name="k9l1vqv">
+ <a name="kbj3y7r">
  </a>
 </p>
 
@@ -139,8 +776,88 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_a04w7tnj" href="https://old.reddit.com/user/Noomagenial">
-  Noomagenial
+ <a class="author may-blank id-t2_13jyg9" href="https://old.reddit.com/user/wispymatrias">
+  wispymatrias
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ea0027; border-color: #ea0027;" title="Pirate">
+  <span>
+   Pirate
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
+  4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T10:22:15+00:00" title="Fri Dec 1 10:22:15 2023 UTC">
+  13 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ The friends we made along the way.
+</p>
+
+<p class="parent">
+ <a name="kbj5xqn">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_iz0p8" href="https://old.reddit.com/user/pikachu_ON_acid">
+  pikachu_ON_acid
+ </a>
+ <span class="flairrichtext flaircolorlight flair" style="background-color: #ca0065; border-color: #ca0065;" title="Thriller Bark Victim's Association">
+  <span>
+   Thriller Bark Victim's Association
+  </span>
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
+  4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T10:48:24+00:00" title="Fri Dec 1 10:48:24 2023 UTC">
+  12 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ His crew killed him because he wouldn't introduce them to his friends?
+</p>
+
+<p class="parent">
+ <a name="kbko133">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_5vqw9bbj" href="https://old.reddit.com/user/kentacles8">
+  kentacles8
  </a>
  <span class="userattrs">
  </span>
@@ -153,8 +870,8 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T01:56:18+00:00" title="Fri Nov 17 01:56:18 2023 UTC">
-  16 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T17:42:30+00:00" title="Fri Dec 1 17:42:30 2023 UTC">
+  5 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -162,11 +879,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- I thought it was a butt cheek
+ It's a treasure chest full of body parts of former friends.  John's crew killed him so he'd stop filling it.
 </p>
 
 <p class="parent">
- <a name="k9im5fk">
+ <a name="kbj2mxi">
  </a>
 </p>
 
@@ -174,186 +891,8 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_8jrhy64r" href="https://old.reddit.com/user/ApplePitou">
-  ApplePitou
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="12">
-  12 points
- </span>
- <span class="score unvoted" title="13">
-  13 points
- </span>
- <span class="score likes" title="14">
-  14 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T16:14:00+00:00" title="Thu Nov 16 16:14:00 2023 UTC">
-  1 day ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Lovely tattoos :3
-</p>
-
-<p class="parent">
- <a name="k9isn3k">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_54tbrh4o" href="https://old.reddit.com/user/bxntou">
-  bxntou
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
-  7 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T16:53:30+00:00" title="Thu Nov 16 16:53:30 2023 UTC">
-  1 day ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (8 children)
- </a>
-</p>
-
-<p>
- Reminds me of this game I used to play as a child where we held each other's chin and the first one to laugh got slapped
-</p>
-
-<p class="parent">
- <a name="k9iuxpg">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [+]
- </a>
- <a class="author may-blank id-t2_3x6cdly9" href="https://old.reddit.com/user/Tschaenick">
-  Tschaenick
- </a>
- <span class="userattrs">
- </span>
- <span class="collapsed-reason">
-  comment score below threshold
- </span>
- <span class="score dislikes" title="-8">
-  -8 points
- </span>
- <span class="score unvoted" title="-7">
-  -7 points
- </span>
- <span class="score likes" title="-6">
-  -6 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T17:07:26+00:00" title="Thu Nov 16 17:07:26 2023 UTC">
-  1 day ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (7 children)
- </a>
-</p>
-
-<p>
- seems kinda gay to me ngl
-</p>
-
-<p class="parent">
- <a name="k9ivfoh">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_54tbrh4o" href="https://old.reddit.com/user/bxntou">
-  bxntou
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="11">
-  11 points
- </span>
- <span class="score unvoted" title="12">
-  12 points
- </span>
- <span class="score likes" title="13">
-  13 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T17:10:31+00:00" title="Thu Nov 16 17:10:31 2023 UTC">
-  1 day ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (6 children)
- </a>
-</p>
-
-<p>
- I mean I am gay but I usually played it with my siblings lmao
-</p>
-
-<p class="parent">
- <a name="k9jajqp">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_9clecn7p" href="https://old.reddit.com/user/Blankaa01">
-  Blankaa01
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T18:41:00+00:00" title="Thu Nov 16 18:41:00 2023 UTC">
-  23 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (5 children)
- </a>
-</p>
-
-<p>
- I used to play it too always trying to make funny faces to win
-</p>
-
-<p class="parent">
- <a name="k9jq43r">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_1261yt" href="https://old.reddit.com/user/pablitosocool">
-  pablitosocool
+ <a class="author may-blank id-t2_72ko8wpp" href="https://old.reddit.com/user/IntoTheMurkyWaters">
+  IntoTheMurkyWaters
  </a>
  <span class="userattrs">
  </span>
@@ -366,431 +905,7 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="6">
   6 points
  </span>
- <time class="live-timestamp" datetime="2023-11-16T20:19:18+00:00" title="Thu Nov 16 20:19:18 2023 UTC">
-  21 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (4 children)
- </a>
-</p>
-
-<p>
- are you also gay too?
-</p>
-
-<p class="parent">
- <a name="k9jsv9n">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_9clecn7p" href="https://old.reddit.com/user/Blankaa01">
-  Blankaa01
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T20:37:13+00:00" title="Thu Nov 16 20:37:13 2023 UTC">
-  21 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
- </a>
-</p>
-
-<p>
- No I am not
-</p>
-
-<p class="parent">
- <a name="k9juhkr">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_1261yt" href="https://old.reddit.com/user/pablitosocool">
-  pablitosocool
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T20:47:42+00:00" title="Thu Nov 16 20:47:42 2023 UTC">
-  21 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
- </a>
-</p>
-
-<p>
- oh
-</p>
-
-<p class="parent">
- <a name="k9junor">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_9clecn7p" href="https://old.reddit.com/user/Blankaa01">
-  Blankaa01
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T20:48:47+00:00" title="Thu Nov 16 20:48:47 2023 UTC">
-  21 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- Your theory falls apart
-</p>
-
-<p class="parent">
- <a name="k9kmmxw">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_h3qd7" href="https://old.reddit.com/user/JCK07115">
-  JCK07115
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T00:01:02+00:00" title="Fri Nov 17 00:01:02 2023 UTC">
-  18 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- We got em, folks. Wrap it up.
-</p>
-
-<p class="parent">
- <a name="k9ivd4c">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_5jtamc8x" href="https://old.reddit.com/user/Shadow_Huntress12">
-  Shadow_Huntress12
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T17:10:03+00:00" title="Thu Nov 16 17:10:03 2023 UTC">
-  1 day ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Average sibling fight tattoo🐍
-</p>
-
-<p class="parent">
- <a name="k9ki9pr">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_8nbbcu0k" href="https://old.reddit.com/user/Jcspider939">
-  Jcspider939
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="-1">
-  -1 points
- </span>
- <span class="score unvoted" title="0">
-  0 points
- </span>
- <span class="score likes" title="1">
-  1 point
- </span>
- <time class="live-timestamp" datetime="2023-11-16T23:29:07+00:00" title="Thu Nov 16 23:29:07 2023 UTC">
-  18 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- No it doesn’t
-</p>
-
-<p class="parent">
- <a name="k9kxww4">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_7xb6k115t" href="https://old.reddit.com/user/BossButterBoobs">
-  BossButterBoobs
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="-4">
-  -4 points
- </span>
- <span class="score unvoted" title="-3">
-  -3 points
- </span>
- <span class="score likes" title="-2">
-  -2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:26:49+00:00" title="Fri Nov 17 01:26:49 2023 UTC">
-  16 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (5 children)
- </a>
-</p>
-
-<p>
- These types of tats where you need to position them to "complete" the tat, are always stupid asf in real life.  And it looks like the dude doesn't have many more so that just makes it look worse.
-</p>
-
-<p class="parent">
- <a name="k9kzd32">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_7ciyxry7" href="https://old.reddit.com/user/greenvented">
-  greenvented
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
-  7 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:37:44+00:00" title="Fri Nov 17 01:37:44 2023 UTC">
-  16 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (4 children)
- </a>
-</p>
-
-<p>
- why cant you just appreciate the tat instead of looking for negatives
-</p>
-
-<p class="parent">
- <a name="k9kzmzy">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_7xb6k115t" href="https://old.reddit.com/user/BossButterBoobs">
-  BossButterBoobs
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:39:46+00:00" title="Fri Nov 17 01:39:46 2023 UTC">
-  16 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
- </a>
-</p>
-
-<p>
- Not like I had to look hard lol
-</p>
-
-<p>
- Also don't have to appreciate anything if I don't like it.
-</p>
-
-<p class="parent">
- <a name="k9kzunl">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_7ciyxry7" href="https://old.reddit.com/user/greenvented">
-  greenvented
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:41:20+00:00" title="Fri Nov 17 01:41:20 2023 UTC">
-  16 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
- </a>
-</p>
-
-<p>
- fair enough but the art is nice you cant deny that
-</p>
-
-<p class="parent">
- <a name="k9l0nhi">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_7xb6k115t" href="https://old.reddit.com/user/BossButterBoobs">
-  BossButterBoobs
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T01:47:16+00:00" title="Fri Nov 17 01:47:16 2023 UTC">
-  16 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Yeah, the art is nice, I just think the tat is poorly conceived. It's a gimmick tattoo. Also, lines look kind of thin tbh
-</p>
-
-<p class="parent">
- <a name="k9lou5n">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_vrt7m" href="https://old.reddit.com/user/dusttailed86">
-  dusttailed86
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T05:04:00+00:00" title="Fri Nov 17 05:04:00 2023 UTC">
+ <time class="live-timestamp" datetime="2023-12-01T10:04:26+00:00" title="Fri Dec 1 10:04:26 2023 UTC">
   13 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -799,11 +914,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- True, but in two years those super crisp lines will blur our to dark grey, and not only will it look blurred, the guy will be over putting his arms together to show people it. Guy has a valid point.
+ Oda probably forgot about it
 </p>
 
 <p class="parent">
- <a name="k9j3vq8">
+ <a name="kbj5dh3">
  </a>
 </p>
 
@@ -811,120 +926,10 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_jkn5rpuzw" href="https://old.reddit.com/user/Beginning_Shake_3937">
-  Beginning_Shake_3937
+ <a class="author may-blank id-t2_3pcnyk98" href="https://old.reddit.com/user/goatpenis11">
+  goatpenis11
  </a>
  <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T18:01:10+00:00" title="Thu Nov 16 18:01:10 2023 UTC">
-  1 day ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Love it, in a not-so-obvious area
-</p>
-
-<p class="parent">
- <a name="k9jd2bv">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_mdynlmo16" href="https://old.reddit.com/user/Excellent_Grab_2139">
-  Excellent_Grab_2139
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="-1">
-  -1 points
- </span>
- <span class="score unvoted" title="0">
-  0 points
- </span>
- <span class="score likes" title="1">
-  1 point
- </span>
- <time class="live-timestamp" datetime="2023-11-16T18:56:25+00:00" title="Thu Nov 16 18:56:25 2023 UTC">
-  23 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- really?
-</p>
-
-<p class="parent">
- <a name="k9jqgpr">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_co05mw4v" href="https://old.reddit.com/user/LudvigTheWise">
-  LudvigTheWise
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T20:21:35+00:00" title="Thu Nov 16 20:21:35 2023 UTC">
-  21 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- I love how Yuji isn’t even phased by the choking great tattoo in general
-</p>
-
-<p class="parent">
- <a name="k9l86gv">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_d1t03gy8d" href="https://old.reddit.com/user/sassysusguy">
-  sassysusguy
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/JuJutsuKaisen/comments/17wpjn7/this_tat_looks_awesome/" title="submitter">
-   S
-  </a>
-  ]
  </span>
  <span class="score dislikes" title="1">
   1 point
@@ -935,222 +940,7 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="3">
   3 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T02:43:15+00:00" title="Fri Nov 17 02:43:15 2023 UTC">
-  15 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Yeah man. It seems like a accurate representation of how he his.
-</p>
-
-<p class="parent">
- <a name="k9k2zof">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_dejihk3f" href="https://old.reddit.com/user/Such_Watch6002">
-  Such_Watch6002
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T21:43:17+00:00" title="Thu Nov 16 21:43:17 2023 UTC">
-  20 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- How long did it take?
-</p>
-
-<p class="parent">
- <a name="k9k8n8m">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_i35panin" href="https://old.reddit.com/user/BeetingOff">
-  BeetingOff
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T22:20:59+00:00" title="Thu Nov 16 22:20:59 2023 UTC">
-  19 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- The possible theories make me believe this tatoo will age like wine
-</p>
-
-<p class="parent">
- <a name="k9k9pfv">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_741dj" href="https://old.reddit.com/user/BostonSamurai">
-  BostonSamurai
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T22:28:12+00:00" title="Thu Nov 16 22:28:12 2023 UTC">
-  19 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Now kiss
-</p>
-
-<p class="parent">
- <a name="k9ke7cf">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_2zv889fp" href="https://old.reddit.com/user/MeticulousMitch">
-  MeticulousMitch
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T22:59:50+00:00" title="Thu Nov 16 22:59:50 2023 UTC">
-  19 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Oh that's sick. Jealous
-</p>
-
-<p class="parent">
- <a name="k9kjiuv">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_jb8zp5lbf" href="https://old.reddit.com/user/EfficientBody2822">
-  EfficientBody2822
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-16T23:38:10+00:00" title="Thu Nov 16 23:38:10 2023 UTC">
-  18 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- W tattoo
-</p>
-
-<p class="parent">
- <a name="k9lr1ty">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author cakeday may-blank id-t2_fidfsyyt" href="https://old.reddit.com/user/ApprehensiveChain793">
-  ApprehensiveChain793
- </a>
- <span class="userattrs">
-  [
-  <a class="cakeday" href="/user/ApprehensiveChain793" title="ApprehensiveChain793 just celebrated a reddit birthday!">
-   🍰
-  </a>
-  ]
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T05:26:26+00:00" title="Fri Nov 17 05:26:26 2023 UTC">
+ <time class="live-timestamp" datetime="2023-12-01T10:41:01+00:00" title="Fri Dec 1 10:41:01 2023 UTC">
   12 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
@@ -1159,11 +949,11 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Gege could very possibly crash this plane 🤦🏻‍♂️ would’ve waited for the manga to wrap…
+ Alcohol
 </p>
 
 <p class="parent">
- <a name="k9luqck">
+ <a name="kbkc78g">
  </a>
 </p>
 
@@ -1171,8 +961,43 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_4fg8gec3" href="https://old.reddit.com/user/yeahBradley">
-  yeahBradley
+ <a class="author may-blank id-t2_6xi5e6c0h" href="https://old.reddit.com/user/bigspud42">
+  bigspud42
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:30:16+00:00" title="Fri Dec 1 16:30:16 2023 UTC">
+  7 hours ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ its the same treasure that they find in the Goonies
+</p>
+
+<p class="parent">
+ <a name="kbjwfbu">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_7zm8i" href="https://old.reddit.com/user/jdnewland">
+  jdnewland
  </a>
  <span class="userattrs">
  </span>
@@ -1185,20 +1010,20 @@ If you're caught up on the manga, consider joining our sister sub
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T06:06:39+00:00" title="Fri Nov 17 06:06:39 2023 UTC">
-  11 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T14:48:47+00:00" title="Fri Dec 1 14:48:47 2023 UTC">
+  8 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
+  (1 child)
  </a>
 </p>
 
 <p>
- I don't have the flexibility to make both my elbows touch comfortably.
+ i figure it’s the way Buggy is paying crossguild.
 </p>
 
 <p class="parent">
- <a name="k9mi8la">
+ <a name="kbl9jff">
  </a>
 </p>
 
@@ -1206,22 +1031,21 @@ If you're caught up on the manga, consider joining our sister sub
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_994wqy8p" href="https://old.reddit.com/user/Otherwise_Month_2788">
-  Otherwise_Month_2788
+ <a class="author submitter may-blank id-t2_gqbqzr1d" href="https://old.reddit.com/user/JoyBoy24">
+  JoyBoy24
  </a>
  <span class="userattrs">
+  [
+  <a class="submitter" href="/r/OnePiece/comments/1883jn1/what_do_you_guys_think_captains_johns_treasure_is/" title="submitter">
+   S
+  </a>
+  ]
  </span>
- <span class="score dislikes" title="0">
-  0 points
+ <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
+  [score hidden]
  </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T11:31:10+00:00" title="Fri Nov 17 11:31:10 2023 UTC">
-  6 hours ago
+ <time class="live-timestamp" datetime="2023-12-01T19:55:34+00:00" title="Fri Dec 1 19:55:34 2023 UTC">
+  3 hours ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1229,41 +1053,6 @@ If you're caught up on the manga, consider joining our sister sub
 </p>
 
 <p>
- Damn i want one
-</p>
-
-<p class="parent">
- <a name="k9nu47h">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_12prqk" href="https://old.reddit.com/user/adsq93">
-  adsq93
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:45:00+00:00" title="Fri Nov 17 17:45:00 2023 UTC">
-  21 minutes ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- The hand placing is throwing me off tho
+ Brannew already stated Underworld figures are funding Cross Guild
 </p>
 

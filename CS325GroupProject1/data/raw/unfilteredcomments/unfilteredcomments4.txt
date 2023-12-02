@@ -1,5 +1,5 @@
 <p class="parent">
- <a name="k9ldp7a">
+ <a name="kbbs3y8">
  </a>
 </p>
 
@@ -7,22 +7,78 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_bpbu8qer" href="https://old.reddit.com/user/singh853">
-  singh853
+ <a class="author moderator may-blank id-t2_6l4z3" href="https://old.reddit.com/user/AutoModerator">
+  AutoModerator
+ </a>
+ <span class="userattrs">
+  [
+  <a class="moderator" href="/r/Jujutsushi/about/moderators" title="moderator of r/Jujutsushi, speaking officially">
+   M
+  </a>
+  ]
+ </span>
+ <span class="score-hidden" title="scores for stickied comments are visible to mods only">
+  [score hidden]
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T22:46:41+00:00" title="Wed Nov 29 22:46:41 2023 UTC">
+  2 days ago
+ </time>
+ <span class="stickied-tagline" title="selected by this subreddit's moderators">
+  stickied comment
+ </span>
+ <span class="locked-tagline" title="locked by this subreddit's moderators">
+  locked comment
+ </span>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Reminder:
+</p>
+
+<p>
+ <a href="https://www.reddit.com/r/Jujutsushi/wiki/canon" rel="nofollow">
+  Fanbook &amp; Other Canon Material
+ </a>
+</p>
+
+<p>
+ <em>
+  I am a bot, and this action was performed automatically. Please
+  <a href="/message/compose/?to=/r/Jujutsushi" rel="nofollow">
+   contact the moderators of this subreddit
+  </a>
+  if you have any questions or concerns.
+ </em>
+</p>
+
+<p class="parent">
+ <a name="kbbu7l3">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_7h2r6ly8" href="https://old.reddit.com/user/zer0_summed">
+  zer0_summed
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="29">
-  29 points
+ <span class="score dislikes" title="46">
+  46 points
  </span>
- <span class="score unvoted" title="30">
-  30 points
+ <span class="score unvoted" title="47">
+  47 points
  </span>
- <span class="score likes" title="31">
-  31 points
+ <span class="score likes" title="48">
+  48 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T03:26:03+00:00" title="Fri Nov 17 03:26:03 2023 UTC">
-  14 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T23:00:26+00:00" title="Wed Nov 29 23:00:26 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -30,19 +86,15 @@
 </p>
 
 <p>
- This is common sense for most people. The only ones who are unaware are those at the top, who only view their staff as tools to meet their corporate goals.
+ He has some sort of binding vow with Sukuna that preparations were made for before he fought Gojo. I would say it’s likely he has some sort of contingency. For starters he is a brain and that’s still alive right now. And we don’t know the mechanism of his CT, but say he physically has to put his brain into a new body - it would mean he can survive and have some mobility while he’s a brain.
 </p>
 
 <p>
- MAPPA got too greedy. They acquired all these big name IPs (AOT final season, CSM, and JJK) and thought they were invincible. Now everyone is losing, thanks to their arrogance.
-</p>
-
-<p>
- I just hope the outcome of all this attention is the workers finally getting some rest and better conditions, and I hope it comes sooner than later. Literally put the season on hold ASAP, if things have gotten this bad. We fans can wait.
+ The fact that we quickly swapped back to Sukuna and we are told Yuta will jump Sukuna asap, I would say Kenjaku is up to something and it will be revealed at some point later on during this fight with Sukuna.
 </p>
 
 <p class="parent">
- <a name="k9lic2z">
+ <a name="kbc6is9">
  </a>
 </p>
 
@@ -50,728 +102,8 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_oi2aj" href="https://old.reddit.com/user/vgiannell5">
-  vgiannell5
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T04:04:23+00:00" title="Fri Nov 17 04:04:23 2023 UTC">
-  14 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- "I just hope the outcome of all this attention is the workers finally getting some rest and better conditions, and I hope it comes sooner than later."
-</p>
-
-<p>
- Don't get your hopes up. All you'll get is disappointment. Plus I doubt the guys at MAPPA will let the workers rest.
-</p>
-
-<p class="parent">
- <a name="k9lyr7f">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_1cfmepem" href="https://old.reddit.com/user/Bladings">
-  Bladings
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="28">
-  28 points
- </span>
- <span class="score unvoted" title="29">
-  29 points
- </span>
- <span class="score likes" title="30">
-  30 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T06:55:00+00:00" title="Fri Nov 17 06:55:00 2023 UTC">
-  11 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- It's crazy that even though its unfinished, this is the single best episode I've seen this year. These are literally *the* best animators in the world. I am stunned by their talent.
-</p>
-
-<p class="parent">
- <a name="k9m33nh">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_ob7o5l4n" href="https://old.reddit.com/user/ancapwr">
-  ancapwr
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/JuJutsuKaisen/comments/17x5irq/this_weeks_episode_is_the_ultimate_proof_that/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score dislikes" title="12">
-  12 points
- </span>
- <span class="score unvoted" title="13">
-  13 points
- </span>
- <span class="score likes" title="14">
-  14 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T07:53:00+00:00" title="Fri Nov 17 07:53:00 2023 UTC">
-  10 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Now imagine if they had time
-</p>
-
-<p class="parent">
- <a name="k9mcm9f">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_8jrhy64r" href="https://old.reddit.com/user/ApplePitou">
-  ApplePitou
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
-  5 points
- </span>
- <span class="score likes" title="6">
-  6 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T10:12:54+00:00" title="Fri Nov 17 10:12:54 2023 UTC">
-  7 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- It is so sad that such talented people don't even got something that simple as rest for their peak work :3
-</p>
-
-<p class="parent">
- <a name="k9lrs0m">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_lm4k9ddw" href="https://old.reddit.com/user/hastakhilta">
-  hastakhilta
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="6">
-  6 points
- </span>
- <span class="score unvoted" title="7">
-  7 points
- </span>
- <span class="score likes" title="8">
-  8 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T05:34:05+00:00" title="Fri Nov 17 05:34:05 2023 UTC">
-  12 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- People are still gonna watch it anyways lol,they can always throw another bone like Hidden Inventory which had pretty good animation quality.
-</p>
-
-<p class="parent">
- <a name="k9lmauk">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_5gozbhnr" href="https://old.reddit.com/user/lozzy1400">
-  lozzy1400
- </a>
- <span class="flair flair-Gojou" title=" .">
-  .
- </span>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="4">
-  4 points
- </span>
- <span class="score unvoted" title="5">
-  5 points
- </span>
- <span class="score likes" title="6">
-  6 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T04:39:50+00:00" title="Fri Nov 17 04:39:50 2023 UTC">
-  13 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Like Nobara, you hit the nail on the head.
-</p>
-
-<p>
- JJK definitely has the potential to make history here however if the episodes decline in quality, well that’s how the series will appear to viewers forever, tarnishing the incredible work we’ve already seen. I’m so worried about it and ofc I put the welfare of MAPPA workers first, I wish they had just delayed releasing it. They probably would have made even more money from the series if each episode was the same level of quality and they had happy animators.
-</p>
-
-<p class="parent">
- <a name="k9lzrt0">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_5t5c88yfn" href="https://old.reddit.com/user/Faiyaz_Blixks">
-  Faiyaz_Blixks
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="-4">
-  -4 points
- </span>
- <span class="score unvoted" title="-3">
-  -3 points
- </span>
- <span class="score likes" title="-2">
-  -2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T07:08:13+00:00" title="Fri Nov 17 07:08:13 2023 UTC">
-  10 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
- </a>
-</p>
-
-<p>
- Y’all are dragging it only some scenes looked unfinished and thats understandable due to the rest of the fight being so well animated and work conditions
-</p>
-
-<p class="parent">
- <a name="k9m310r">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_ob7o5l4n" href="https://old.reddit.com/user/ancapwr">
-  ancapwr
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/JuJutsuKaisen/comments/17x5irq/this_weeks_episode_is_the_ultimate_proof_that/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T07:51:58+00:00" title="Fri Nov 17 07:51:58 2023 UTC">
-  10 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
- </a>
-</p>
-
-<p>
- No. It’s gotten worse and worse since the fight with Choso.
-</p>
-
-<p class="parent">
- <a name="k9m6fvu">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_pqihe" href="https://old.reddit.com/user/delerio2">
-  delerio2
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
-  7 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T08:40:39+00:00" title="Fri Nov 17 08:40:39 2023 UTC">
-  9 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- well no cause the fight vs Jogo was well done. In the last episode most of it was well done but then some incomplete moments appeared (like the shrine not being fully shown)
-</p>
-
-<p class="parent">
- <a name="k9ni5sg">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_8dvg0vu2" href="https://old.reddit.com/user/IndividualAd5795">
-  IndividualAd5795
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T16:26:57+00:00" title="Fri Nov 17 16:26:57 2023 UTC">
-  1 hour ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Sukuna vs Jogo is an exception because it’s production was somewhat isolated from the rest of the episodes.
-</p>
-
-<p class="parent">
- <a name="k9mf9ys">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_gyclu056p" href="https://old.reddit.com/user/TpuGfakuta300">
-  TpuGfakuta300
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="-1">
-  -1 points
- </span>
- <span class="score unvoted" title="0">
-  0 points
- </span>
- <span class="score likes" title="1">
-  1 point
- </span>
- <time class="live-timestamp" datetime="2023-11-17T10:50:35+00:00" title="Fri Nov 17 10:50:35 2023 UTC">
-  7 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (7 children)
- </a>
-</p>
-
-<p>
- That's what I have been saying since Shibuya started. People are now only starting to speak.
-</p>
-
-<p class="parent">
- <a name="k9mfgzj">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_ob7o5l4n" href="https://old.reddit.com/user/ancapwr">
-  ancapwr
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/JuJutsuKaisen/comments/17x5irq/this_weeks_episode_is_the_ultimate_proof_that/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T10:53:14+00:00" title="Fri Nov 17 10:53:14 2023 UTC">
-  7 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (6 children)
- </a>
-</p>
-
-<p>
- At the beginning it was very good. But this week is where mappa really disrespected everyone.
-</p>
-
-<p class="parent">
- <a name="k9mfzew">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_gyclu056p" href="https://old.reddit.com/user/TpuGfakuta300">
-  TpuGfakuta300
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="-1">
-  -1 points
- </span>
- <span class="score unvoted" title="0">
-  0 points
- </span>
- <span class="score likes" title="1">
-  1 point
- </span>
- <time class="live-timestamp" datetime="2023-11-17T11:00:16+00:00" title="Fri Nov 17 11:00:16 2023 UTC">
-  7 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (5 children)
- </a>
-</p>
-
-<p>
- I kinda seen it coming since the start of the current Arc, and I have made some comments on this very sub. What pains me is that JJK fans seemed to be not very demanding and were to attached to the anime that they overlooked the real issues with it. Now this happened.
-</p>
-
-<p>
- I still find the episode a masterpiece in a lot of regards, but it's not at part with expectations, especially in contrast with S1 consistancy.
-</p>
-
-<p class="parent">
- <a name="k9mgqn4">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_ob7o5l4n" href="https://old.reddit.com/user/ancapwr">
-  ancapwr
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/JuJutsuKaisen/comments/17x5irq/this_weeks_episode_is_the_ultimate_proof_that/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T11:10:58+00:00" title="Fri Nov 17 11:10:58 2023 UTC">
-  6 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (4 children)
- </a>
-</p>
-
-<p>
- I am also very attached and tbh it’s okay, it doesn’t have to be perfect, but decency has a limit. I accepted that the episode inside Dagon’s domain was off because they had to make it sunny, the color palette was different and stuff but now… Mahoraga is so iconic and I really looked forward to this fight… I felt like crying
-</p>
-
-<p class="parent">
- <a name="k9mhqdk">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_gyclu056p" href="https://old.reddit.com/user/TpuGfakuta300">
-  TpuGfakuta300
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T11:24:46+00:00" title="Fri Nov 17 11:24:46 2023 UTC">
-  6 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
- </a>
-</p>
-
-<p>
- I guess a lot of people do too. JJK fans were done dirty.
-</p>
-
-<p>
- For me I kinda found the first 10 minutes better than I expected. Maybe because I got used to this quality now and I know we won't see something as consistent as in S1 looks.
-</p>
-
-<p class="parent">
- <a name="k9mhz8a">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author submitter may-blank id-t2_ob7o5l4n" href="https://old.reddit.com/user/ancapwr">
-  ancapwr
- </a>
- <span class="userattrs">
-  [
-  <a class="submitter" href="/r/JuJutsuKaisen/comments/17x5irq/this_weeks_episode_is_the_ultimate_proof_that/" title="submitter">
-   S
-  </a>
-  ]
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T11:27:56+00:00" title="Fri Nov 17 11:27:56 2023 UTC">
-  6 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
- </a>
-</p>
-
-<p>
- I also felt like the first minutes were ok. S1 and Hidden Inventory were amazing. With Shibuya arc, in my opinion, only the Choso episode and the one with Nanami-Haruta were good.
-</p>
-
-<p class="parent">
- <a name="k9mi4zx">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_gyclu056p" href="https://old.reddit.com/user/TpuGfakuta300">
-  TpuGfakuta300
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T11:29:55+00:00" title="Fri Nov 17 11:29:55 2023 UTC">
-  6 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Exactly!
-</p>
-
-<p class="parent">
- <a name="k9nsajs">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_bkf7t5zg" href="https://old.reddit.com/user/Alarming_Industry_14">
-  Alarming_Industry_14
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:32:58+00:00" title="Fri Nov 17 17:32:58 2023 UTC">
-  33 minutes ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Eh this is wrong. Mechamaru vs Mahito, Gojos sealing, Toji vs Dagon, Toji vs Megumi, Sukuna vs Jogo and despite the unfinished product, the Mahoraga episode, are just great episodes on par if not better than anything in S1.
-</p>
-
-<p>
- I know is more inconsistent than S1 overall, but is so FAR AWAY from being a case like One Punch Man season 2 or the tragedy that was Seven Deadly Sins season 3
-</p>
-
-<p class="parent">
- <a name="k9lu0ih">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [+]
- </a>
- <a class="author may-blank id-t2_1cpag1j1" href="https://old.reddit.com/user/HuCat21">
-  HuCat21
- </a>
- <span class="userattrs">
- </span>
- <span class="collapsed-reason">
-  comment score below threshold
- </span>
- <span class="score dislikes" title="-13">
-  -13 points
- </span>
- <span class="score unvoted" title="-12">
-  -12 points
- </span>
- <span class="score likes" title="-11">
-  -11 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T05:58:32+00:00" title="Fri Nov 17 05:58:32 2023 UTC">
-  12 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
- </a>
-</p>
-
-<p>
- U say the animators work is being trashed...but it's not by shueisha or toho or mappa that's trashing the animation. It's the fans that have gotten to spoiled on great animation over the last few yrs. I'm starting to think the animators r preemptively saying that they could've done better if given better working conditions to make sure the Fandom dnt target them with their unwarranted complaints. If it was me as long as my actual boss ain't coming to me like "yo u need to tighten up ur shit looking unfinished and choppy and sloppy!" Then I wouldn't care about the anonymous animation expert fans on the internet lol.
-</p>
-
-<p>
- Edit: I feel like I need to add that I dnt look into what studio is animating stuff. Summer time rendering had absolutely gorgeous animation and I didn't even kno OLM did It until today when I googled it. So I dnt really care for mappa or any other studio.
-</p>
-
-<p class="parent">
- <a name="k9lzfmx">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_8l96vfn6" href="https://old.reddit.com/user/Lgbr167">
-  Lgbr167
+ <a class="author may-blank id-t2_ollhodfo" href="https://old.reddit.com/user/NigeriaScan">
+  NigeriaScan
  </a>
  <span class="userattrs">
  </span>
@@ -784,8 +116,8 @@
  <span class="score likes" title="9">
   9 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T07:03:49+00:00" title="Fri Nov 17 07:03:49 2023 UTC">
-  11 hours ago
+ <time class="live-timestamp" datetime="2023-11-30T00:26:16+00:00" title="Thu Nov 30 00:26:16 2023 UTC">
+  1 day ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -793,15 +125,11 @@
 </p>
 
 <p>
- Dude this episode had one of the most stacked animator lists ever, we literally know for a fact that it could have been better if they had more time.
-</p>
-
-<p>
- These animators got to where they are by holding themselves to a high standard, that’s why the studio can give them unreasonable timeframes knowing they’ll destroy their bodies in order to meet them.
+ Maybe Sukuna will be the one the inherit his "will" and that was their binding vow, Kenjaku turned himself into a cursed object and Sukuna ate it(not with the objective to take Sukuna's body but in case Kenjaku dies Sukuna would be able to use the merger).
 </p>
 
 <p class="parent">
- <a name="k9mkhge">
+ <a name="kbby2ef">
  </a>
 </p>
 
@@ -809,22 +137,22 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_5jtamc8x" href="https://old.reddit.com/user/Shadow_Huntress12">
-  Shadow_Huntress12
+ <a class="author may-blank id-t2_dqdtubk1t" href="https://old.reddit.com/user/Own-Psychology-5327">
+  Own-Psychology-5327
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="0">
-  0 points
+ <span class="score dislikes" title="18">
+  18 points
  </span>
- <span class="score unvoted" title="1">
-  1 point
+ <span class="score unvoted" title="19">
+  19 points
  </span>
- <span class="score likes" title="2">
-  2 points
+ <span class="score likes" title="20">
+  20 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T11:57:48+00:00" title="Fri Nov 17 11:57:48 2023 UTC">
-  6 hours ago
+ <time class="live-timestamp" datetime="2023-11-29T23:26:57+00:00" title="Wed Nov 29 23:26:57 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -832,11 +160,11 @@
 </p>
 
 <p>
- Yet still they are producing top quality episodes🐍
+ He has to imo, you don't live to over 1000 being that much of a crafty prick without having contingencies on top of your contingencies. At the very least he will have a plan to ensures his scheme goes ahead without him
 </p>
 
 <p class="parent">
- <a name="k9nfsgg">
+ <a name="kbbw37c">
  </a>
 </p>
 
@@ -844,57 +172,22 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_dclsaam1t" href="https://old.reddit.com/user/LastNap">
-  LastNap
+ <a class="author may-blank id-t2_15po3quv" href="https://old.reddit.com/user/5meothrowaway">
+  5meothrowaway
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="0">
-  0 points
+ <span class="score dislikes" title="8">
+  8 points
  </span>
- <span class="score unvoted" title="1">
-  1 point
+ <span class="score unvoted" title="9">
+  9 points
  </span>
- <span class="score likes" title="2">
-  2 points
+ <span class="score likes" title="10">
+  10 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T16:11:19+00:00" title="Fri Nov 17 16:11:19 2023 UTC">
-  1 hour ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
- </a>
-</p>
-
-<p>
- Wait this episode was unfinished? I didn’t even notice there was anything missing
-</p>
-
-<p class="parent">
- <a name="k9no1tk">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_io2ujp9og" href="https://old.reddit.com/user/LePersianPrince">
-  LePersianPrince
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
-  1 point
- </span>
- <span class="score likes" title="2">
-  2 points
- </span>
- <time class="live-timestamp" datetime="2023-11-17T17:05:14+00:00" title="Fri Nov 17 17:05:14 2023 UTC">
-  1 hour ago
+ <time class="live-timestamp" datetime="2023-11-29T23:13:12+00:00" title="Wed Nov 29 23:13:12 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -902,11 +195,11 @@
 </p>
 
 <p>
- It was obviously missing a lot of post-production. It literally looked fan animated in some parts, other parts looked like production teaser quality rather than a finished product. It's obvious to me at least that they barely finished animation and coloring and didn't have time for any corrections, CG, lighting, detailing, etc.
+ Of course he does he’s been around for 1000+ years, not having a plan would be braindead
 </p>
 
 <p class="parent">
- <a name="k9nomfu">
+ <a name="kbdqcq4">
  </a>
 </p>
 
@@ -914,8 +207,8 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author may-blank id-t2_dclsaam1t" href="https://old.reddit.com/user/LastNap">
-  LastNap
+ <a class="author may-blank id-t2_axi7h70v" href="https://old.reddit.com/user/Wisniaksiadz">
+  Wisniaksiadz
  </a>
  <span class="userattrs">
  </span>
@@ -928,8 +221,8 @@
  <span class="score likes" title="2">
   2 points
  </span>
- <time class="live-timestamp" datetime="2023-11-17T17:08:56+00:00" title="Fri Nov 17 17:08:56 2023 UTC">
-  57 minutes ago
+ <time class="live-timestamp" datetime="2023-11-30T08:39:13+00:00" title="Thu Nov 30 08:39:13 2023 UTC">
+  1 day ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -937,6 +230,998 @@
 </p>
 
 <p>
- That makes sense, I read so I really just watch to see the fights animated and stuff so I didn’t even pick up on that. Sucks they treat their employees like shit when they clearly make enough to pay and treat them well
+ :
+ <sup>
+  )
+ </sup>
+</p>
+
+<p class="parent">
+ <a name="kbc3sx8">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_99s16r6b" href="https://old.reddit.com/user/Muted_Lurker2383">
+  Muted_Lurker2383
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="6">
+  6 points
+ </span>
+ <span class="score unvoted" title="7">
+  7 points
+ </span>
+ <span class="score likes" title="8">
+  8 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T00:07:01+00:00" title="Thu Nov 30 00:07:01 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ In a manner of speaking yes
+</p>
+
+<p>
+ Iirc he set the culling games such that it doesnt depend on him living or not which means his death doesnt stop the merger. In other words, his goal was essentially complete as soon as the games started
+</p>
+
+<p>
+ Regarding any other back ups, i think the fact that he has cursed spirit manipulation should let him control Tengen to ensure his plan succeeds. Further, Sukuna's last finger is currently missing - he
+ <em>
+  might
+ </em>
+ have something involving it still.
+</p>
+
+<p>
+ Finally, he technically accomplished both his stated goals just not in the way he thought. Kenjaku wanted to experience something new, something he hasnt experienced before and he wanted to complete the merger. The culling games will complete the merger bar something unexpected and his fight against Takaba let him experience something completely new
+</p>
+
+<p class="parent">
+ <a name="kbc2d8h">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_63th5qsky" href="https://old.reddit.com/user/SolidOk5838">
+  SolidOk5838
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="6">
+  6 points
+ </span>
+ <span class="score unvoted" title="7">
+  7 points
+ </span>
+ <span class="score likes" title="8">
+  8 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T23:56:59+00:00" title="Wed Nov 29 23:56:59 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (3 children)
+ </a>
+</p>
+
+<p>
+ This might be a horrible idea. But I think sukuna, in his infinite boredom/thirst for entertainment will carry on his idea. For the simple fact that he might want to see what kind of a challenge this creature might present for him to overcome. And he doesn’t strike me as some one who’s afraid to die. He just wants to die to someone (or something) that is actually stronger than him. This could be that something. The last few chapters could just be him and the creature duking it out.
+</p>
+
+<p class="parent">
+ <a name="kbdehpo">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_rvjxznka" href="https://old.reddit.com/user/Independent_Leek1751">
+  Independent_Leek1751
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:14:06+00:00" title="Thu Nov 30 06:14:06 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ Solid. But would be bad writing considering sukuna doesn't get ordered around even if he wants that fight. I believe kenjaku will take someone else's body and complete the work.
+</p>
+
+<p class="parent">
+ <a name="kbdenoo">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_63th5qsky" href="https://old.reddit.com/user/SolidOk5838">
+  SolidOk5838
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:15:56+00:00" title="Thu Nov 30 06:15:56 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ You’re probably right. I would just like to see sukuna say “fuck it I’m bored, let’s see what this plan is all about.” After all even kenjaku doesn’t know what’s really going to happen, it’s just an experiment for him. But then again I’m sure sukuna has his own plans
+</p>
+
+<p class="parent">
+ <a name="kbdf077">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_rvjxznka" href="https://old.reddit.com/user/Independent_Leek1751">
+  Independent_Leek1751
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:19:46+00:00" title="Thu Nov 30 06:19:46 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Again very solid. Sukuna would probably feel bad if he gets killed by a cursed spirit. He wants a jujutsu sorcerer to kill him not a spirit. Kenjaku is playing with fire literally. I personally believe it's yuta who is going to die
+</p>
+
+<p class="parent">
+ <a name="kbc8le7">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_nkcwfhcl" href="https://old.reddit.com/user/Ashamed_Anywhere_930">
+  Ashamed_Anywhere_930
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="5">
+  5 points
+ </span>
+ <span class="score unvoted" title="6">
+  6 points
+ </span>
+ <span class="score likes" title="7">
+  7 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T00:40:56+00:00" title="Thu Nov 30 00:40:56 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ its kenjaku bruh, of course he thought "what if gojo caught me lacking?".
+</p>
+
+<p class="parent">
+ <a name="kbbyvj0">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_ajvzrbmo" href="https://old.reddit.com/user/Legitimate_Cow7198">
+  Legitimate_Cow7198
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="3">
+  3 points
+ </span>
+ <span class="score unvoted" title="4">
+  4 points
+ </span>
+ <span class="score likes" title="5">
+  5 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T23:32:39+00:00" title="Wed Nov 29 23:32:39 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ He literally tells Yuta that his plan will be inherited, unless Kenjaku just wanted to do one last troll before he died, he definitely has a contingency plan
+</p>
+
+<p class="parent">
+ <a name="kbcjgnh">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3wjq75w" href="https://old.reddit.com/user/worldsdankestmeme">
+  worldsdankestmeme
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
+  5 points
+ </span>
+ <span class="score likes" title="6">
+  6 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T01:57:54+00:00" title="Thu Nov 30 01:57:54 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ My theory (under the assumption that Toji was right about the death of a CSM user) is that he will give one final command to all the curses in his inventory, which is to inherit his will (or each of them take a piece of his soul). Once they all get released at them moment of his death, the result would be Kenjaku becoming a hive mind within his Cursed Spirit Army, which includes Tengen. If it works, then that means he still has Tengen under his control, can continue the merger, and becomes much more of a problem for the final battle.
+</p>
+
+<p class="parent">
+ <a name="kbco5ne">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_iua72ig4s" href="https://old.reddit.com/user/Public_Database2182">
+  Public_Database2182
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T02:30:47+00:00" title="Thu Nov 30 02:30:47 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ I personally think 1,000 curses are going to erupt out of Kenny and even though yuta is a beast, 1 of those 1,000 is gunna grab the head and make a run for it
+</p>
+
+<p class="parent">
+ <a name="kbdepph">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_rvjxznka" href="https://old.reddit.com/user/Independent_Leek1751">
+  Independent_Leek1751
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:16:33+00:00" title="Thu Nov 30 06:16:33 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Absolutely glorious. Now that's is a peak fiction
+</p>
+
+<p class="parent">
+ <a name="kbc913l">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_q8vzgzj7" href="https://old.reddit.com/user/Kookie2023">
+  Kookie2023
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T00:44:03+00:00" title="Thu Nov 30 00:44:03 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Of course he does. Guy has been alive for 1000 years with ppl constantly willing to kill him. You think he doesn’t have a contingency plan?
+</p>
+
+<p class="parent">
+ <a name="kbdh5zu">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_9tod3yn5" href="https://old.reddit.com/user/luceafaruI">
+  luceafaruI
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:44:06+00:00" title="Thu Nov 30 06:44:06 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ He has been defeated before by six eyes users. I'm pretty sure they didn't just beat him and then let him leave, so even if he seems dead he has a way to keep going.
+</p>
+
+<p class="parent">
+ <a name="kbdx9py">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_8u72abl5" href="https://old.reddit.com/user/EinkeksigeEule">
+  EinkeksigeEule
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T10:15:39+00:00" title="Thu Nov 30 10:15:39 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Does yuta even know about him being just the brain? I mean Gojo seems to not have asked anyone about what abilities sukuna showed, so i wouldnt be surprised if he said nothing about kenjaku being just the brain.
+</p>
+
+<p>
+ Other question: Can he use CSM as just the Brain? In this case, he could just let out all cursed spirits as distraction. Maybe he has a spare body in an inventory curse? Or he really just takes takaba. It would be dumb to think that a guy, who made a plan over 1000 years, doesnt have a plan b for his body getting destroyed..
+</p>
+
+<p class="parent">
+ <a name="kbbyshu">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_ssoc7qat" href="https://old.reddit.com/user/CuzzyPopper">
+  CuzzyPopper
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T23:32:03+00:00" title="Wed Nov 29 23:32:03 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ He would’ve survived if he didn’t reveal his real identity to gojo
+</p>
+
+<p class="parent">
+ <a name="kbbtd2x">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_lq326t13" href="https://old.reddit.com/user/Hour_Tomatillo_2365">
+  Hour_Tomatillo_2365
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T22:54:48+00:00" title="Wed Nov 29 22:54:48 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ No he had no back up plan.
+</p>
+
+<p class="parent">
+ <a name="kbdel25">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_rvjxznka" href="https://old.reddit.com/user/Independent_Leek1751">
+  Independent_Leek1751
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:15:08+00:00" title="Thu Nov 30 06:15:08 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ He has to. He survived 1300+ years around jujutsu users in constant war. He had to have a back up plan in case he gets caught in a battle
+</p>
+
+<p class="parent">
+ <a name="kbc4rm2">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_acza6wt5" href="https://old.reddit.com/user/nerussita-8787">
+  nerussita-8787
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T00:13:51+00:00" title="Thu Nov 30 00:13:51 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ maybe he can still reincarnate into Yuta (if it works things gotta be very bad, like if he manage to keep Cursed Spirit Manipulation, Antigravity, his ability to change the background, RCT, the ability of Yuta to copy techniques and Rika that means he could become stronger than Sukuna) or Takaba.
+</p>
+
+<p>
+ Another possibility that some peoples over that sub shared is that maybe he can force the merge if he die since he can't complete one of the condition for the merge to happens
+</p>
+
+<p class="parent">
+ <a name="kbdenpi">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_rvjxznka" href="https://old.reddit.com/user/Independent_Leek1751">
+  Independent_Leek1751
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:15:56+00:00" title="Thu Nov 30 06:15:56 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Yuta for me.
+</p>
+
+<p class="parent">
+ <a name="kbbzgbp">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3jkhgbdp" href="https://old.reddit.com/user/carl-the-lama">
+  carl-the-lama
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-29T23:36:42+00:00" title="Wed Nov 29 23:36:42 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (2 children)
+ </a>
+</p>
+
+<p>
+ I don’t think kenjaku ever planned on living
+</p>
+
+<p>
+ Dying is likely something that happens at some point in the plan
+</p>
+
+<p class="parent">
+ <a name="kbddfv7">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_8gaxrj3w" href="https://old.reddit.com/user/PhreeKarebu">
+  PhreeKarebu
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:02:47+00:00" title="Thu Nov 30 06:02:47 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Wanting a chaos out of his control, definitely implies that he could die in the process. He just doesn’t want to die so early in his plan.
+</p>
+
+<p class="parent">
+ <a name="kbdi4fh">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3jkhgbdp" href="https://old.reddit.com/user/carl-the-lama">
+  carl-the-lama
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:55:09+00:00" title="Thu Nov 30 06:55:09 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I feel like kenjaku has some method to “watch” even if he dies
+</p>
+
+<p>
+ Bro is gonna bust out that afterlife popcorn
+</p>
+
+<p>
+ Wait…. If kenjaku dies what happens to tengen?
+</p>
+
+<p class="parent">
+ <a name="kbcig4o">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_esjygg5i" href="https://old.reddit.com/user/VoidMageZero">
+  VoidMageZero
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T01:50:56+00:00" title="Thu Nov 30 01:50:56 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ 100% has a backup plan.
+</p>
+
+<p class="parent">
+ <a name="kbdderq">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_mo4mkp" href="https://old.reddit.com/user/FireZord25">
+  FireZord25
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T06:02:27+00:00" title="Thu Nov 30 06:02:27 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ The question isn't if, but what. He spelt it out he has a backup plan that chapter.
+</p>
+
+<p class="parent">
+ <a name="kbdijxj">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_cf6rurx0" href="https://old.reddit.com/user/MIL_1999">
+  MIL_1999
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T07:00:17+00:00" title="Thu Nov 30 07:00:17 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ He died for now, then Tengen proceed with the plan to merge humanity and S̶t̶a̶r̶t̶ t̶h̶e̶ s̶e̶c̶o̶n̶d̶ i̶m̶p̶a̶c̶t̶ create the Kaijuu cursed spirit.
+</p>
+
+<p>
+ Then P̶a̶l̶p̶a̶t̶i̶n̶e̶ Kenjaku somehow returned and take control of the kaijuu.
+</p>
+
+<p class="parent">
+ <a name="kbdm9y4">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_albc5drw" href="https://old.reddit.com/user/BotherResponsible378">
+  BotherResponsible378
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T07:46:00+00:00" title="Thu Nov 30 07:46:00 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ I cannot imagine what his last line could possibly mean otherwise. So yes.
+</p>
+
+<p class="parent">
+ <a name="kbdqbm2">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_axi7h70v" href="https://old.reddit.com/user/Wisniaksiadz">
+  Wisniaksiadz
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T08:38:47+00:00" title="Thu Nov 30 08:38:47 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Considering he is ,,the master" of binding vows, he probably have a binding vow that goes like ,,if I Die, then dont" or something simmiliar
+</p>
+
+<p class="parent">
+ <a name="kbfaupw">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_4ut4mhu1" href="https://old.reddit.com/user/Snips_Tano">
+  Snips_Tano
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-11-30T16:58:36+00:00" title="Thu Nov 30 16:58:36 2023 UTC">
+  1 day ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Since he thrives on seeing new experiences, it does indeed make zero sense for his plan to still go off if he's not there to experience it.
+</p>
+
+<p>
+ He's not there to overturn the world order out of any grand vision - he just wants to see what happens himself.
 </p>
 

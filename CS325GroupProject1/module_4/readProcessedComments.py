@@ -1,7 +1,7 @@
 import os
 import regex, re
 # from module_4 import sentiment_analysis
-files = os.scandir("./data/processed/")
+files = os.scandir("../CS325GroupProject1/data/processed/comments/")
 fileDataRaw = []
 for filePath in files:
     # print(filePath)
@@ -94,7 +94,7 @@ for val in commentVals:
     currentVals = ""
     responses = ""
     i += 1
-    fa = open(f"./data/processed/sentiments{i}.csv", "w")
+    fa = open(f"./data/processed/csv/sentiments{i}.csv", "w")
     itemsPerBatch = 7
     for j in range(len(splitVals)):
         print(len(currentVals))
