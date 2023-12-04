@@ -5,30 +5,29 @@
 
 import pandas
 import matplotlib.pyplot as plt
-import os
+import matplotlib.colors as col
+import os, re
 
 counter = 0
 files = os.scandir("../CS325GroupProject1/data/processed/csv/")
 
 for file in files:
     counter = counter+1                                 #updating counter
-    df = pandas.read_csv(file, sep=", ", engine= "python",)
-    positive = df.filter(regex='positive')
-    positivecount = (len(positive.columns))
-
-    negative = df.filter(regex='negative')
-    negativecount = (len(negative.columns))
-
-    neutral = df.filter(regex='neutral')
-    neutralcount = (len(negative.columns))
-
-    sentiments = ["Positive", "Negative", "Neutral"]
-    values = [positivecount, negativecount, neutralcount]
-    colors = ['blue', 'red', 'gray']
+    df = pandas.read_csv(file, sep=",", engine= "python",)
+    itemsList = [re.sub(".[0-9]+", "", str(val).strip()) for val in df]
+    uniqueItems = set(itemsList)
+    sentiments = []
+    values = []
+    bar_labels = []
+    for item in uniqueItems:
+        sentiments.append(item.title())
+        values.append(itemsList.count(item))
+        bar_labels.append(item.title())
+        
+    # colors = ['blue', 'red', 'gray']
     labelfont = {'color':'black','size':15}
-    bar_labels = ["Positive", "Negative", "Neutral"]
 
-    plt.bar(sentiments, values, color = colors, label=bar_labels)
+    plt.bar(sentiments, values, color = col.TABLEAU_COLORS, label=bar_labels)
     plt.xlabel("Sentiments", fontdict=labelfont)
     plt.ylabel("Count", fontdict=labelfont)
     plt.title("URL" + str(counter) +  " Sentiments")

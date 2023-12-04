@@ -12,17 +12,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="121">
-  121 points
+ <span class="score dislikes" title="128">
+  128 points
  </span>
- <span class="score unvoted" title="122">
-  122 points
+ <span class="score unvoted" title="129">
+  129 points
  </span>
- <span class="score likes" title="123">
-  123 points
+ <span class="score likes" title="130">
+  130 points
  </span>
  <time class="live-timestamp" datetime="2023-11-30T22:32:02+00:00" title="Thu Nov 30 22:32:02 2023 UTC">
-  1 day ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -52,17 +52,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="18">
-  18 points
- </span>
- <span class="score unvoted" title="19">
-  19 points
- </span>
- <span class="score likes" title="20">
+ <span class="score dislikes" title="20">
   20 points
  </span>
+ <span class="score unvoted" title="21">
+  21 points
+ </span>
+ <span class="score likes" title="22">
+  22 points
+ </span>
  <time class="live-timestamp" datetime="2023-12-01T10:26:36+00:00" title="Fri Dec 1 10:26:36 2023 UTC">
-  13 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -102,7 +102,7 @@
   5 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T14:01:18+00:00" title="Fri Dec 1 14:01:18 2023 UTC">
-  9 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -127,17 +127,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="82">
-  82 points
+ <span class="score dislikes" title="87">
+  87 points
  </span>
- <span class="score unvoted" title="83">
-  83 points
+ <span class="score unvoted" title="88">
+  88 points
  </span>
- <span class="score likes" title="84">
-  84 points
+ <span class="score likes" title="89">
+  89 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T00:21:37+00:00" title="Fri Dec 1 00:21:37 2023 UTC">
-  23 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -166,11 +166,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
+  3 points
+ </span>
+ <span class="score likes" title="4">
+  4 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T18:56:32+00:00" title="Fri Dec 1 18:56:32 2023 UTC">
-  4 hours ago
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -205,7 +211,7 @@
   50 points
  </span>
  <time class="live-timestamp" datetime="2023-11-30T23:40:41+00:00" title="Thu Nov 30 23:40:41 2023 UTC">
-  23 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -240,7 +246,7 @@
   19 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T00:20:27+00:00" title="Fri Dec 1 00:20:27 2023 UTC">
-  23 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -274,17 +280,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="8">
+ <span class="score dislikes" title="7">
+  7 points
+ </span>
+ <span class="score unvoted" title="8">
   8 points
  </span>
- <span class="score unvoted" title="9">
+ <span class="score likes" title="9">
   9 points
  </span>
- <span class="score likes" title="10">
-  10 points
- </span>
  <time class="live-timestamp" datetime="2023-11-30T23:42:31+00:00" title="Thu Nov 30 23:42:31 2023 UTC">
-  23 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -293,41 +299,6 @@
 
 <p>
  I don't collect any figures, but this one has me thinking about it.
-</p>
-
-<p class="parent">
- <a name="kbhkx9a">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_nwke7k5k0" href="https://old.reddit.com/user/West-Girl828">
-  West-Girl828
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
-  6 points
- </span>
- <span class="score likes" title="7">
-  7 points
- </span>
- <time class="live-timestamp" datetime="2023-12-01T01:38:38+00:00" title="Fri Dec 1 01:38:38 2023 UTC">
-  22 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- That looks great I need it in my room Kuma is one of my favorite characters in all of One Pice
 </p>
 
 <p class="parent">
@@ -354,10 +325,10 @@
   6 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T04:01:33+00:00" title="Fri Dec 1 04:01:33 2023 UTC">
-  19 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
+  (3 children)
  </a>
 </p>
 
@@ -413,7 +384,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T10:43:29+00:00" title="Fri Dec 1 10:43:29 2023 UTC">
-  12 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -438,11 +409,52 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T23:11:29+00:00" title="Fri Dec 1 23:11:29 2023 UTC">
-  29 minutes ago
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Are all these legit sites to order from?
+</p>
+
+<p class="parent">
+ <a name="kbmcyg7">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_9mlln" href="https://old.reddit.com/user/fork_yuu">
+  fork_yuu
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-02T00:21:20+00:00" title="Sat Dec 2 00:21:20 2023 UTC">
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -450,7 +462,85 @@
 </p>
 
 <p>
- Are all these legit sites to order from?
+ Hell naw, looked sketchy as hell but they have prices. It's all sold out on those too.
+</p>
+
+<p>
+ Most sites for figures are sketchy as hell anyways, even the big ones like amiami you will have no support if anything happens
+</p>
+
+<p class="parent">
+ <a name="kbiyl3u">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_5hw9brxy" href="https://old.reddit.com/user/monotone-">
+  monotone-
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="4">
+  4 points
+ </span>
+ <span class="score unvoted" title="5">
+  5 points
+ </span>
+ <span class="score likes" title="6">
+  6 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T09:07:51+00:00" title="Fri Dec 1 09:07:51 2023 UTC">
+  3 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (1 child)
+ </a>
+</p>
+
+<p>
+ Paw paw fruit gives the user pawpads that can repel anything... but nobody asked the real question...
+</p>
+
+<p>
+ What about his feet?
+</p>
+
+<p class="parent">
+ <a name="kbmv3fm">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_bkd7xv0a" href="https://old.reddit.com/user/mmbmckeg">
+  mmbmckeg
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-02T02:39:59+00:00" title="Sat Dec 2 02:39:59 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ Ah Hell imagine how high he can jump
 </p>
 
 <p class="parent">
@@ -482,7 +572,7 @@
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-11-30T22:26:07+00:00" title="Thu Nov 30 22:26:07 2023 UTC">
-  1 day ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -491,45 +581,6 @@
 
 <p>
  So fire!
-</p>
-
-<p class="parent">
- <a name="kbiyl3u">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_5hw9brxy" href="https://old.reddit.com/user/monotone-">
-  monotone-
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="2">
-  2 points
- </span>
- <span class="score unvoted" title="3">
-  3 points
- </span>
- <span class="score likes" title="4">
-  4 points
- </span>
- <time class="live-timestamp" datetime="2023-12-01T09:07:51+00:00" title="Fri Dec 1 09:07:51 2023 UTC">
-  14 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- Paw paw fruit gives the user pawpads that can repel anything... but nobody asked the real question...
-</p>
-
-<p>
- What about his feet?
 </p>
 
 <p class="parent">
@@ -556,7 +607,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T02:20:50+00:00" title="Fri Dec 1 02:20:50 2023 UTC">
-  21 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -591,7 +642,7 @@
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T10:17:50+00:00" title="Fri Dec 1 10:17:50 2023 UTC">
-  13 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -626,7 +677,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T03:46:22+00:00" title="Fri Dec 1 03:46:22 2023 UTC">
-  19 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -661,7 +712,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T08:35:01+00:00" title="Fri Dec 1 08:35:01 2023 UTC">
-  15 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -696,7 +747,7 @@
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T08:52:49+00:00" title="Fri Dec 1 08:52:49 2023 UTC">
-  14 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -726,17 +777,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="-5">
-  -5 points
+ <span class="score dislikes" title="-2">
+  -2 points
  </span>
- <span class="score unvoted" title="-4">
-  -4 points
+ <span class="score unvoted" title="-1">
+  -1 points
  </span>
- <span class="score likes" title="-3">
-  -3 points
+ <span class="score likes" title="0">
+  0 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T08:12:21+00:00" title="Fri Dec 1 08:12:21 2023 UTC">
-  15 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -763,17 +814,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
+ <span class="score dislikes" title="2">
   2 points
  </span>
- <span class="score likes" title="3">
+ <span class="score unvoted" title="3">
   3 points
  </span>
+ <span class="score likes" title="4">
+  4 points
+ </span>
  <time class="live-timestamp" datetime="2023-12-01T09:08:41+00:00" title="Fri Dec 1 09:08:41 2023 UTC">
-  14 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -803,17 +854,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
+ <span class="score dislikes" title="1">
   1 point
  </span>
- <span class="score likes" title="2">
+ <span class="score unvoted" title="2">
   2 points
  </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
  <time class="live-timestamp" datetime="2023-12-01T14:32:13+00:00" title="Fri Dec 1 14:32:13 2023 UTC">
-  9 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -848,7 +899,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T11:29:46+00:00" title="Fri Dec 1 11:29:46 2023 UTC">
-  12 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -883,7 +934,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T13:06:16+00:00" title="Fri Dec 1 13:06:16 2023 UTC">
-  10 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -918,7 +969,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T13:26:43+00:00" title="Fri Dec 1 13:26:43 2023 UTC">
-  10 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -958,7 +1009,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T13:37:55+00:00" title="Fri Dec 1 13:37:55 2023 UTC">
-  10 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -993,7 +1044,7 @@
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T15:46:38+00:00" title="Fri Dec 1 15:46:38 2023 UTC">
-  7 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1002,64 +1053,6 @@
 
 <p>
  Batholomew Kuma the saint
-</p>
-
-<p class="parent">
- <a name="kbkz51w">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_4fur9z1v" href="https://old.reddit.com/user/rrrrjrm">
-  rrrrjrm
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-12-01T18:50:13+00:00" title="Fri Dec 1 18:50:13 2023 UTC">
-  4 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I wanna see all of them omgg 😍
-</p>
-
-<p class="parent">
- <a name="kbkz5nb">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_4fur9z1v" href="https://old.reddit.com/user/rrrrjrm">
-  rrrrjrm
- </a>
- <span class="userattrs">
- </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
- </span>
- <time class="live-timestamp" datetime="2023-12-01T18:50:19+00:00" title="Fri Dec 1 18:50:19 2023 UTC">
-  4 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- I wanna see all of them omgg 😍
 </p>
 
 <p class="parent">
@@ -1076,11 +1069,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T23:30:54+00:00" title="Fri Dec 1 23:30:54 2023 UTC">
-  9 minutes ago
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)

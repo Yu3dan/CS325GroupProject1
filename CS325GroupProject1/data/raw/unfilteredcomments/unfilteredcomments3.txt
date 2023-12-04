@@ -7,7 +7,7 @@
  <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
   [–]
  </a>
- <a class="author cakeday may-blank id-t2_il7f5ku8" href="https://old.reddit.com/user/BaronMerc">
+ <a class="author may-blank id-t2_il7f5ku8" href="https://old.reddit.com/user/BaronMerc">
   BaronMerc
  </a>
  <span class="flairrichtext flaircolorlight flair" style="background-color: #7193ff; border-color: #7193ff;" title="Marine">
@@ -16,23 +16,18 @@
   </span>
  </span>
  <span class="userattrs">
-  [
-  <a class="cakeday" href="/user/BaronMerc" title="BaronMerc just celebrated a reddit birthday!">
-   🍰
-  </a>
-  ]
  </span>
- <span class="score dislikes" title="46">
-  46 points
+ <span class="score dislikes" title="51">
+  51 points
  </span>
- <span class="score unvoted" title="47">
-  47 points
+ <span class="score unvoted" title="52">
+  52 points
  </span>
- <span class="score likes" title="48">
-  48 points
+ <span class="score likes" title="53">
+  53 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T10:38:58+00:00" title="Fri Dec 1 10:38:58 2023 UTC">
-  13 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -72,7 +67,7 @@
   10 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T15:00:32+00:00" title="Fri Dec 1 15:00:32 2023 UTC">
-  8 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -99,17 +94,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="23">
-  23 points
- </span>
- <span class="score unvoted" title="24">
-  24 points
- </span>
- <span class="score likes" title="25">
+ <span class="score dislikes" title="25">
   25 points
  </span>
+ <span class="score unvoted" title="26">
+  26 points
+ </span>
+ <span class="score likes" title="27">
+  27 points
+ </span>
  <time class="live-timestamp" datetime="2023-12-01T12:10:00+00:00" title="Fri Dec 1 12:10:00 2023 UTC">
-  11 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -134,17 +129,17 @@
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="32">
-  32 points
+ <span class="score dislikes" title="37">
+  37 points
  </span>
- <span class="score unvoted" title="33">
-  33 points
+ <span class="score unvoted" title="38">
+  38 points
  </span>
- <span class="score likes" title="34">
-  34 points
+ <span class="score likes" title="39">
+  39 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T05:30:12+00:00" title="Fri Dec 1 05:30:12 2023 UTC">
-  18 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -174,17 +169,17 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="7">
+ <span class="score dislikes" title="6">
+  6 points
+ </span>
+ <span class="score unvoted" title="7">
   7 points
  </span>
- <span class="score unvoted" title="8">
+ <span class="score likes" title="8">
   8 points
  </span>
- <span class="score likes" title="9">
-  9 points
- </span>
  <time class="live-timestamp" datetime="2023-12-01T10:23:04+00:00" title="Fri Dec 1 10:23:04 2023 UTC">
-  13 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -219,7 +214,7 @@
   8 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T06:07:13+00:00" title="Fri Dec 1 06:07:13 2023 UTC">
-  17 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -246,20 +241,20 @@
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="16">
-  16 points
+ <span class="score dislikes" title="23">
+  23 points
  </span>
- <span class="score unvoted" title="17">
-  17 points
+ <span class="score unvoted" title="24">
+  24 points
  </span>
- <span class="score likes" title="18">
-  18 points
+ <span class="score likes" title="25">
+  25 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T11:30:10+00:00" title="Fri Dec 1 11:30:10 2023 UTC">
-  12 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (5 children)
+  (14 children)
  </a>
 </p>
 
@@ -296,10 +291,10 @@
   9 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T13:26:01+00:00" title="Fri Dec 1 13:26:01 2023 UTC">
-  10 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (4 children)
+  (13 children)
  </a>
 </p>
 
@@ -333,10 +328,10 @@
   5 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T14:55:09+00:00" title="Fri Dec 1 14:55:09 2023 UTC">
-  8 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (3 children)
+  (12 children)
  </a>
 </p>
 
@@ -365,14 +360,20 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   </a>
   ]
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T19:52:04+00:00" title="Fri Dec 1 19:52:04 2023 UTC">
-  3 hours ago
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (2 children)
+  (11 children)
  </a>
 </p>
 
@@ -404,14 +405,20 @@ My guess is it's a lot of treasure, and he has most of it hidden.
  </span>
  <span class="userattrs">
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T23:04:44+00:00" title="Fri Dec 1 23:04:44 2023 UTC">
-  35 minutes ago
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (1 child)
+  (10 children)
  </a>
 </p>
 
@@ -438,19 +445,190 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   </a>
   ]
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
  </span>
  <time class="live-timestamp" datetime="2023-12-01T23:07:46+00:00" title="Fri Dec 1 23:07:46 2023 UTC">
-  32 minutes ago
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
+  (9 children)
  </a>
 </p>
 
 <p>
  If your answer contradicts an already established point in the story people are free to call it out, also people are free to challenge your opinions even if they're the ones who originally asked for it....in fact that is what makes engagements so fun
+</p>
+
+<p class="parent">
+ <a name="kbm9j0r">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3xgxe" href="https://old.reddit.com/user/Gorlonsins">
+  Gorlonsins
+ </a>
+ <span class="flair flair-ivankov" title="">
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T23:55:50+00:00" title="Fri Dec 1 23:55:50 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (8 children)
+ </a>
+</p>
+
+<p>
+ Your "established points" are your assumption that Oda would have absolutely shown him finding the treasure....
+Okay
+</p>
+
+<p class="parent">
+ <a name="kbmay90">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author submitter may-blank id-t2_gqbqzr1d" href="https://old.reddit.com/user/JoyBoy24">
+  JoyBoy24
+ </a>
+ <span class="userattrs">
+  [
+  <a class="submitter" href="/r/OnePiece/comments/1883jn1/what_do_you_guys_think_captains_johns_treasure_is/" title="submitter">
+   S
+  </a>
+  ]
+ </span>
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
+ </span>
+ <time class="live-timestamp" datetime="2023-12-02T00:06:25+00:00" title="Sat Dec 2 00:06:25 2023 UTC">
+  2 days ago
+ </time>
+ <time class="edited-timestamp" datetime="2023-12-02T00:15:00+00:00" title="last edited 2 days ago">
+  *
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (7 children)
+ </a>
+</p>
+
+<p>
+ My established point was that it was already stated that fugures from the Underworld are giving them the finances to put bounties on the Marines then there's the fact that Buggy flat out states he doesn't have any money to pay back Crocodile, the "not showing the treasure" thing was more so a supplementary argument
+</p>
+
+<p class="parent">
+ <a name="kbmdapo">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_3xgxe" href="https://old.reddit.com/user/Gorlonsins">
+  Gorlonsins
+ </a>
+ <span class="flair flair-ivankov" title="">
+ </span>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-02T00:23:51+00:00" title="Sat Dec 2 00:23:51 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (6 children)
+ </a>
+</p>
+
+<p>
+ Good thing Buggy is known for his honesty....
+ <img height="20" src="https://www.redditstatic.com/marketplace-assets/v1/core/emotes/snoomoji_emotes/free_emotes_pack/facepalm.gif" style="vertical-align:middle" width="20"/>
+</p>
+
+<p class="parent">
+ <a name="kbmja3q">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author submitter may-blank id-t2_gqbqzr1d" href="https://old.reddit.com/user/JoyBoy24">
+  JoyBoy24
+ </a>
+ <span class="userattrs">
+  [
+  <a class="submitter" href="/r/OnePiece/comments/1883jn1/what_do_you_guys_think_captains_johns_treasure_is/" title="submitter">
+   S
+  </a>
+  ]
+ </span>
+ <span class="score dislikes" title="0">
+  0 points
+ </span>
+ <span class="score unvoted" title="1">
+  1 point
+ </span>
+ <span class="score likes" title="2">
+  2 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-02T01:09:04+00:00" title="Sat Dec 2 01:09:04 2023 UTC">
+  2 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (5 children)
+ </a>
+</p>
+
+<p>
+ Buggy's life was literally at risk, in those types of circumstances he WOULD be honest....he's not gonna risk getting killed for a petty lie by Crocodile for a petty lie, Buggy lies to get himself out of danger not to put himself in even more danger, so if he had Captain John's Treasure he wouldn't simply used it to pay off the debt his owes Crocodile when his life was being threatened
+</p>
+
+<p class="parent">
+</p>
+
+<p class="tagline">
 </p>
 
 <p class="parent">
@@ -482,7 +660,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   7 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T12:02:40+00:00" title="Fri Dec 1 12:02:40 2023 UTC">
-  11 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -522,7 +700,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T14:06:08+00:00" title="Fri Dec 1 14:06:08 2023 UTC">
-  9 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -557,7 +735,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T14:42:19+00:00" title="Fri Dec 1 14:42:19 2023 UTC">
-  8 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -592,7 +770,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T16:47:25+00:00" title="Fri Dec 1 16:47:25 2023 UTC">
-  6 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -627,7 +805,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   4 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T15:46:36+00:00" title="Fri Dec 1 15:46:36 2023 UTC">
-  7 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -667,7 +845,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T16:34:16+00:00" title="Fri Dec 1 16:34:16 2023 UTC">
-  7 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -697,17 +875,17 @@ My guess is it's a lot of treasure, and he has most of it hidden.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="5">
-  5 points
- </span>
- <span class="score unvoted" title="6">
+ <span class="score dislikes" title="6">
   6 points
  </span>
- <span class="score likes" title="7">
+ <span class="score unvoted" title="7">
   7 points
  </span>
+ <span class="score likes" title="8">
+  8 points
+ </span>
  <time class="live-timestamp" datetime="2023-12-01T12:38:00+00:00" title="Fri Dec 1 12:38:00 2023 UTC">
-  11 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -756,7 +934,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T17:29:02+00:00" title="Fri Dec 1 17:29:02 2023 UTC">
-  6 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -786,17 +964,17 @@ My guess is it's a lot of treasure, and he has most of it hidden.
  </span>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="3">
+ <span class="score dislikes" title="2">
+  2 points
+ </span>
+ <span class="score unvoted" title="3">
   3 points
  </span>
- <span class="score unvoted" title="4">
+ <span class="score likes" title="4">
   4 points
  </span>
- <span class="score likes" title="5">
-  5 points
- </span>
  <time class="live-timestamp" datetime="2023-12-01T10:22:15+00:00" title="Fri Dec 1 10:22:15 2023 UTC">
-  13 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (2 children)
@@ -836,7 +1014,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   5 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T10:48:24+00:00" title="Fri Dec 1 10:48:24 2023 UTC">
-  12 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -871,7 +1049,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   2 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T17:42:30+00:00" title="Fri Dec 1 17:42:30 2023 UTC">
-  5 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -906,7 +1084,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   6 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T10:04:26+00:00" title="Fri Dec 1 10:04:26 2023 UTC">
-  13 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -941,7 +1119,7 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   3 points
  </span>
  <time class="live-timestamp" datetime="2023-12-01T10:41:01+00:00" title="Fri Dec 1 10:41:01 2023 UTC">
-  12 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -950,41 +1128,6 @@ My guess is it's a lot of treasure, and he has most of it hidden.
 
 <p>
  Alcohol
-</p>
-
-<p class="parent">
- <a name="kbkc78g">
- </a>
-</p>
-
-<p class="tagline">
- <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
-  [–]
- </a>
- <a class="author may-blank id-t2_6xi5e6c0h" href="https://old.reddit.com/user/bigspud42">
-  bigspud42
- </a>
- <span class="userattrs">
- </span>
- <span class="score dislikes" title="1">
-  1 point
- </span>
- <span class="score unvoted" title="2">
-  2 points
- </span>
- <span class="score likes" title="3">
-  3 points
- </span>
- <time class="live-timestamp" datetime="2023-12-01T16:30:16+00:00" title="Fri Dec 1 16:30:16 2023 UTC">
-  7 hours ago
- </time>
- <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
-  (0 children)
- </a>
-</p>
-
-<p>
- its the same treasure that they find in the Goonies
 </p>
 
 <p class="parent">
@@ -1001,17 +1144,17 @@ My guess is it's a lot of treasure, and he has most of it hidden.
  </a>
  <span class="userattrs">
  </span>
- <span class="score dislikes" title="0">
-  0 points
- </span>
- <span class="score unvoted" title="1">
+ <span class="score dislikes" title="1">
   1 point
  </span>
- <span class="score likes" title="2">
+ <span class="score unvoted" title="2">
   2 points
  </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
  <time class="live-timestamp" datetime="2023-12-01T14:48:47+00:00" title="Fri Dec 1 14:48:47 2023 UTC">
-  8 hours ago
+  3 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (1 child)
@@ -1041,11 +1184,17 @@ My guess is it's a lot of treasure, and he has most of it hidden.
   </a>
   ]
  </span>
- <span class="score-hidden" title="this subreddit hides comment scores for 300 minutes">
-  [score hidden]
+ <span class="score dislikes" title="-1">
+  -1 points
+ </span>
+ <span class="score unvoted" title="0">
+  0 points
+ </span>
+ <span class="score likes" title="1">
+  1 point
  </span>
  <time class="live-timestamp" datetime="2023-12-01T19:55:34+00:00" title="Fri Dec 1 19:55:34 2023 UTC">
-  3 hours ago
+  2 days ago
  </time>
  <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
   (0 children)
@@ -1054,5 +1203,40 @@ My guess is it's a lot of treasure, and he has most of it hidden.
 
 <p>
  Brannew already stated Underworld figures are funding Cross Guild
+</p>
+
+<p class="parent">
+ <a name="kbkc78g">
+ </a>
+</p>
+
+<p class="tagline">
+ <a class="expand" href="javascript:void(0)" onclick="return togglecomment(this)">
+  [–]
+ </a>
+ <a class="author may-blank id-t2_6xi5e6c0h" href="https://old.reddit.com/user/bigspud42">
+  bigspud42
+ </a>
+ <span class="userattrs">
+ </span>
+ <span class="score dislikes" title="1">
+  1 point
+ </span>
+ <span class="score unvoted" title="2">
+  2 points
+ </span>
+ <span class="score likes" title="3">
+  3 points
+ </span>
+ <time class="live-timestamp" datetime="2023-12-01T16:30:16+00:00" title="Fri Dec 1 16:30:16 2023 UTC">
+  3 days ago
+ </time>
+ <a class="numchildren" href="javascript:void(0)" onclick="return togglecomment(this)">
+  (0 children)
+ </a>
+</p>
+
+<p>
+ its the same treasure that they find in the Goonies
 </p>
 
