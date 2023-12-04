@@ -94,6 +94,7 @@ for val in commentVals:
     currentVals = ""
     responses = ""
     i += 1
+    
     fa = open(f"./data/processed/csv/sentiments{i}.csv", "w")
     itemsPerBatch = 7
     for j in range(len(splitVals)):
@@ -115,7 +116,8 @@ for val in commentVals:
                 continue
             responses += batch + ", "
             print("Sentiment batch received")
-            
+            if (j > 100):
+                break #Just to make sure this doesn't continue through all comments
             currentVals = ""
             # Needed to slow down the receiving otherwise google would get mad for sending too many
             sleep(10)
