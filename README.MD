@@ -56,7 +56,16 @@ python run.py listOfURLs.txt
 ```
 
 The output of this part of the project should be text files where all comments of each post are filtered is under the folder Data and subfolder processed. 
-If ran correctly, you should multiple text files named numerically according to what order you had the links in the text file. Along with this there will be a Sentiments subfolder under the data folder that contains .csv files with all of the sentiment analysis of each adjusted post in order. You will be able to see any sentiment of each comment in order whether it is a 'Positive', 'Negaitve', or 'Neutral' comment.
+If ran correctly, you should multiple text files named numerically according to what order you had the links in the text file. Along with this there will be a Sentiments subfolder under the data folder that contains .csv files with all of the sentiment analysis of each adjusted post in order. You will be able to see any sentiment of each comment in order whether it is a 'Positive', 'Negaitve', or 'Neutral' comment.  
+Sometimes there will be errors that crop up because of Google Bard's API being not fully implemented, if the program exits with a "Read timed out" error, that means one of your PSID, PSIDCC, and/or PSIDTS have expired and need to be gotten again. If it continues to happen, try changing the value of BATCH_SIZE in module_4/readProcessedComments.py to something higher. If the csv files have fail as an item, that means your batch size is too large. If errors persist between batch sizes, try lowering the batch size and increasing SLEEP_TIME in that same file.
+
+You can run readProcessedComments.py on its own with the following syntax:
+
+```
+python ./module_4/readProcessedComments.py
+```
+
+I wish the Google Bard API was more consistent so these weird steps would not be required, but ChatGPT did not give Jayden any credits, and we had to work with what we had.
 
 The last part of this project is to be able to graphically see the difference in each sentiment for each URL provided. In order to do this, you must run the command:
 
