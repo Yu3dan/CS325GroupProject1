@@ -4,7 +4,7 @@
 # Purpose: The purpose of this module is to take a text file full of old.reddit URLs given by the user and download the HTML of each website using a for loop. It then creates seperate text files for each URL in the list under the folder Data and subfolder raw.
 # These files should be named html#.txt, EX: html1.txt html2.txt etc.
 
-import sys
+import sys, re
 import urllib.request
 
 file = sys.argv[1]                  #saving argument given by user
@@ -16,4 +16,6 @@ with open(file) as f:               #reading file and seperating each line(URL),
 counter = 0                         #counter for how many URLs given in the list
 for urls in all_links:              #for loop cycling through each link
     counter = counter+1                                                                                     #updating counter
-    urllib.request.urlretrieve(urls, '../CS325GroupProject1/data/raw/html/'+f'html{counter}.txt',)          #sending each links source code to data/raw/html and naming it html#.txt
+    m = ".*?comments\/.*?\/(.*)\/"                                                                          #Regex matcher for getting title
+    title = re.match(m, urls).groups()[0].title()                                                           #Updating the title
+    urllib.request.urlretrieve(urls, '../CS325GroupProject1/data/raw/html/'+f'{title}.txt',)                #sending each links source code to data/raw/html and naming it html#.txt

@@ -1,13 +1,23 @@
 import os
 import regex, re
 # from module_4 import sentiment_analysis
+BATCH_SIZE = 2300
+SLEEP_TIME = 15
+
+#Changing the value of either of these if statement changes the length of the batch. If you get fails adjust this
+#Bigger values for BATCH_SIZE mean the program runs faster but is more prone to errors coming from google API
+#Lower values also tend to have issues from Google API because you send too many API requests too quicly
+#Longer SLEEP_TIME means the program will take longer to run but will be more consistent
+
 files = os.scandir("../CS325GroupProject1/data/processed/comments/")
 fileDataRaw = []
+fileNames = []
 for filePath in files:
     # print(filePath)
     fa = open(filePath, "r", encoding="utf8")
     # for line in fa:
     #     print(line)
+    fileNames.append(filePath.name)
     fileDataRaw.append(fa.readlines())
 # We now have all the files read
 fileData = []
@@ -79,7 +89,7 @@ client = Bard(token=PSID, session=session)
 
 
 def getSentiment(val : str) -> str:
-    prompt = "I am going to send you a series of comments, only give me the sentiment analysis for each of the following comments in order. Do not explain the sentiment, do not add any extra information. Only separate the sentiments by a comma..\n"
+    prompt = "I am going to send you a series of comments, only give me the sentiment analysis for each of the following comments in order. Do not explain the sentiment, do not add any extra information. Only separate the sentiments by a comma. Do not say which comment the sentiment belongs to.\n"
     global client
     response = client.get_answer(prompt + val)
     # print(prompt + val)
@@ -93,13 +103,14 @@ for val in commentVals:
     splitVals = val.split("\n")
     currentVals = ""
     responses = ""
+    fa = open(f"./data/processed/csv/{fileNames[i][:-4]}.csv", "w")
+
     i += 1
     
-    fa = open(f"./data/processed/csv/sentiments{i}.csv", "w")
     itemsPerBatch = 7
     for j in range(len(splitVals)):
         # print(len(currentVals))
-        if len(currentVals) > 2500:
+        if len(currentVals) > BATCH_SIZE: 
             # On every fifth value send it to the ai
             print("Getting sentiment batch")
             batch = getSentiment(currentVals)
@@ -120,7 +131,7 @@ for val in commentVals:
                 break #Just to make sure this doesn't continue through all comments
             currentVals = ""
             # Needed to slow down the receiving otherwise google would get mad for sending too many
-            sleep(10)
+            sleep(SLEEP_TIME)
         # Sleep between files to give extra safety
         currentVals += splitVals[j].strip()
     responses += getSentiment(currentVals)
@@ -129,4 +140,4 @@ for val in commentVals:
     cleanedResponsesStep1 = responses.replace(".", "").replace("\n", "").replace(",,", ",").lower() #So many things that can go wrong with the data it outputs
     cleanedResponsesStep2 = re.sub("\[.*?\]", "", cleanedResponsesStep1) #Google bard added image outputs, this removes the information from those.
     fa.writelines(cleanedResponsesStep2) #Make sure there are no formatting issues. AI isn't very consistent with this stuff
-    sleep(20) #Extra slowdown to be more sure we wont have any issues
+    sleep(SLEEP_TIME * 2) #Extra slowdown to be more sure we wont have any issues between files

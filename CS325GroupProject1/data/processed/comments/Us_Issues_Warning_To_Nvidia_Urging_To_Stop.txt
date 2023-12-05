@@ -1,0 +1,1007 @@
+
+[â€“] Hug_The_NSA 2560 points 2561 points 2562 points 6 hours ago (508 children)
+Almost nobody here read the article and it shows. The US government isn't saying "stop doing that or we will be upset." They are fully telling Nvidia they HAVE to stop doing this.
+â€œIf you redesign a chip around a particular cut line that enables them to do AI, Iâ€™m going to control it the very next dayâ€�
+â€” US Commerce Secretary Gina Raimondo
+
+[â€“] FrogsEverywhere 904 points 905 points 906 points 5 hours ago (164 children)
+Remember when the head of these committees knew the internet was a series of tubes?  At least she seems to know what she's talking about.
+
+[â€“] Every_Vermicelli4177 410 points 411 points 412 points 4 hours ago (54 children)
+The internet kind of is a load of wires at the bottom of the sea tbf
+
+[â€“] Holoholokid 136 points 137 points 138 points 4 hours ago (46 children)
+Yes, but the point is, the Internet is not something that you just dump something on. It's not a big truck.
+:D
+
+[â€“] Beznia 141 points 142 points 143 points 3 hours ago (18 children)
+I had to explain the cloud to an executive at my company last Friday. She was genuinely curious how they get the data to just float in the sky and I had to explain that the cloud just means the data is being stored on someone else's computer. She initially was asking about this Western Digital "Cloud" hard drive she bought for her home to keep her data safe in case something happened to her house and I had to explain that what she bought is basically a standalone computer with a hard drive in it that her home computer can connect to for storage, and the "cloud" part of it is just because it doesn't have to be plugged directly into her computer or phone. It isn't magically transferring her photos into the sky for safe keeping.
+
+[â€“] _000001_ 78 points 79 points 80 points 3 hours ago (4 children)
+Ah stop lying! We all know that lightning is caused by people downloading too much data from the cloud too quickly.
+
+[â€“] Nericu9 28 points 29 points 30 points 3 hours ago (0 children)
+I've never heard this but its hilarious and I am going to use it from now on.
+
+
+
+[â€“] Holoholokid 19 points 20 points 21 points 3 hours ago (0 children)
+OMG! That's amazing and hilarious!
+
+[â€“] DinobotsGacha 7 points 8 points 9 points 3 hours ago (3 children)
+Haha so common. Also fun explaining bandwidth isn't a consumable item that resets monthly lol
+
+[â€“] Beznia 8 points 9 points 10 points 2 hours ago (2 children)
+Ugh I hate explaining bandwidth. "I thought our switches were good for 10Gbps??? Why am I not getting those speeds???" Well for 1, our servers don't read or write that fast. 2, that 10Gbps is being shared amongst everyone on the switch. 10Gbps switches don't mean that you have 48 ports all capable of 10Gbps. That would be a 480Gbps switch.
+
+
+
+[â€“] greatwood 4 points 5 points 6 points 3 hours ago (0 children)
+I hope you get paid better
+
+
+
+[â€“] AutoWallet 32 points 33 points 34 points 4 hours ago (22 children)
+Itâ€™s not a container like a truckbed, itâ€™s a series of tubes filled with cats.
+No, but seriously, Nividia can get fucked on this issue and need to pick a side before America forces them. Our government has been tip toeing around regulatory lanes which has just allowed everything to slip through to literally the people we are fearing will capture control of the technology.
+Why feed the enemy when they are breeding future â€œsoldiersâ€� for the AI war? We should put the boot on the neck of any support of enemies be it North Korea, China, Nividia or TSMC.
+
+[â€“] DutchieTalking 16 points 17 points 18 points 3 hours ago (8 children)
+Just like every mega company, they choose the side of money.
+
+
+
+[â€“] red286 15 points 16 points 17 points 3 hours ago (5 children)
+No, but seriously, Nividia can get fucked on this issue and need to pick a side before America forces them. Our government has been tip toeing around regulatory lanes which has just allowed everything to slip through to literally the people we are fearing will capture control of the technology.
+They're not going to stop until the government passes a law that compels them to.  I'm not sure why people don't understand this.  Nvidia is a for-profit corporation, they will work inside the confines of the law to maximize profits.  If the law doesn't explicitly prohibit them from creating cut-down versions of these cards that can still be used for AI, they will continue doing that.  It's the responsibility of the government to enact legislation that accomplishes the goals of the administration, not to just suggest them and hope that for-profit corporations are going to forgo profits in the name of making the government happy.
+
+
+
+
+
+
+
+
+
+[â€“] silver-orange 76 points 77 points 78 points 4 hours ago (14 children)
+Ted Stephens was an elected senator (for 40 years!).   The commerce secretary is appointed.
+Our process for electing senators isn't good at selecting technically competent people.
+
+[â€“] chilidreams 25 points 26 points 27 points 3 hours ago (6 children)
+I hate voting for this reason.
+You would never hire someone for a job if they provided no background, resume, or interviewâ€¦ yet I have several candidates on my ballot that did nothing other than fill out the application to be listed. They donâ€™t respond to questionnaires, do interviews, give speeches, etc., etc, and sometimes I have to choose between candidates with zero information available.
+It drives me mad. I hate that we allow this to happen. Questionnaire responses and any kind of resume/qualifications statement should be a required minimum to be on the ballot.
+
+[â€“] KontraEpsilon 15 points 16 points 17 points 2 hours ago (2 children)
+In theory, thatâ€™s what the primary and any debates should be for.
+In practice, obviously yeah that isnâ€™t working super well.
+
+
+
+
+
+
+
+[â€“] StillBurningInside 57 points 58 points 59 points 4 hours ago (17 children)
+Oh, she knows exactly what sheâ€™s talking about and sheâ€™s dead serious.
+I listened to her interview on NPR this past week. And sheâ€™s just the head of the commerce department She made it very plain. We are not going to give China the technological advantage in the area of artificial intelligence.
+.Full stop .
+
+
+
+[â€“] Hnnnnnn 11 points 12 points 13 points 4 hours ago (6 children)
+how is it not a series of tubes?
+
+[â€“] carbonx 14 points 15 points 16 points 2 hours ago (3 children)
+The unfortunate thing is that it was actually a good analogy for someone that didn't "get" it.
+
+[â€“] gfen5446 7 points 8 points 9 points 2 hours ago (0 children)
+Truth. When I was working as tech support for an ISP water pipes was the most commonw ay to explain bandwidth.
+But, y'know, gotta fight fight fight.
+
+[â€“] davidsredditaccount 4 points 5 points 6 points 1 hour ago (0 children)
+It was a bit of a stopped clock situation, it wasn't a bad analogy but it was completely wrong in how he was applying it.
+He didn't get an email delayed overnight because of people streaming Netflix, which is what he was saying. What he was saying was more like saying his toilet took 8 hours to flush because too many people were washing their hands and it filled up the sewer. Yeah it's kinda how it works but it also absolutely didn't happen and there are a dozen more likely scenarios that explain your problem (staffer didn't actually send the email last night and sent it in the morning and lied about it to cover his ass, water supply shut almost completely off) and to make matters worse he was arguing against net neutrality which would have helped his problem.
+
+
+
+
+
+[â€“] Rhamni 8 points 9 points 10 points 5 hours ago (1 child)
+You telling me it's not a big truck?
+
+
+
+
+
+[â€“] enderpanda 21 points 22 points 23 points 4 hours ago (0 children)
+As a child of the 80's obsessed with the future, that is such a crazy statement to read, like a line from the Ghost in the Shell.
+
+[â€“] ManicChad 325 points 326 points 327 points 5 hours ago (201 children)
+Nvidiaâ€™s continued efforts to bypass restrictions should be cause for concern. Is money motivated or is there something more nefarious going on.
+
+[â€“] Beastw1ck 353 points 354 points 355 points 5 hours ago (127 children)
+This is the problem with trans-national corporations. They only care about profits and aren't loyal to any particular country, ideology or value system. They'll sell guns to both sides of a war if it benefits them (Which basically IS what NVIDIA is doing).
+
+[â€“] BenAdaephonDelat 11 points 12 points 13 points 3 hours ago (1 child)
+They only care about profits and aren't loyal to any particular country, ideology or value system.
+This is the problem with every publicly traded company. If we had any sense at all as a species, we'd stop allowing companies to be publicly traded and force them to have a 1:1 relationship between themselves and their customer. We're only in the shape we're in because the people running these companies literally only have to care about their stock value because that's where all their money is. It's lunacy.
+
+
+
+[â€“] Dr-McLuvin 171 points 172 points 173 points 5 hours ago (93 children)
+Itâ€™s not basically what they are doing. Itâ€™s exactly what they are doing.
+Itâ€™s like selling oil to Germany during WWII. Or selling nuclear submarines to Soviet Union during the Cold War.
+
+[â€“] DeepDreamIt 138 points 139 points 140 points 5 hours ago * (50 children)
+Or IBM providing the infrastructure system to make it possible to identify and extinguish the Jewish population in Europe during WWII.
+Black outlined the key role of IBM's technology in The Holocaust genocide committed by the German Nazi regime, by facilitating the regime's generation and tabulation of punch cards for national census data, military logistics, ghetto statistics, train traffic management, and concentration camp capacity.
+It wasn't like they weren't aware of how it was being used either. If I recall correctly from the book, they leased the machines to the Nazis and IBM had to send technicians in the field to do maintenance, repairs, etc. I doubt none of them noticed what was going on around them when doing this 'fieldwork' for the Nazi regime.
+Also, the piece of shit Allen Dulles (first CIA director) and his brother (John Foster Dulles, Secretary of State at the same time his brother Allen was CIA director) helped countless Nazis escape after WWII, despite their positions in the US government. Recently read a book about him, " The Devil's Chessboard " that dives into all his fuckery.
+They both worked at a white shoe law firm prior to their government careers, Sullivan and Cromwell (an insanely important and influential behind-the-scenes law firm to this day), and just kept helping all their major, transnational companies and friends from Sullivan and Cromwell when they got into office and had the power of the US government behind them.
+
+[â€“] Kwpolska 7 points 8 points 9 points 3 hours ago (2 children)
+If I recall correctly from the book, they leased the machines to the Nazis and IBM had to send technicians in the field to do maintenance, repairs, etc. I doubt none of them noticed what was going on around them when doing this 'fieldwork' for the Nazi regime.
+I believe that was the standard model of mainframe ownership back then.
+
+
+
+[â€“] Protect-Their-Smiles 8 points 9 points 10 points 4 hours ago (4 children)
+I also recommend:
+Carroll Quigley's - The Anglo-American Establishment (British Empire - US establishment link)
+Anthony Sutton's - Wall Street and the Rise of Hitler
+Anthony Sutton's - Wall Street and the Bolshevik Revolution
+and if you really want the raw numbers;
+Anthony Sutton's - Western Technology And Soviet Economic Development
+It is eye opening stuff. We are being lied to.
+
+[â€“] Aggressive_Milk7545 10 points 11 points 12 points 2 hours ago (2 children)
+Most of Anthony Sutton's research is completely baseless, and basically amounts to conspiratorial thinking. Not a lot of scientific rigor.
+That said, definitely some connections that he was probably one of first to write about.
+We are being lied to.
+Ahem, by whom ?
+
+
+
+[â€“] Michelanvalo 4 points 5 points 6 points 2 hours ago (0 children)
+Anthony Sutton was a crack pot. No one should read his books. They are full of misinformation.
+
+
+
+[â€“] Vo_Mimbre 55 points 56 points 57 points 4 hours ago (13 children)
+Not really. Maybe a closer analogy is selling oil to Japan before we cut them off before WW2.
+China makes a lot of our stuff, we are not at war with them, and theyâ€™re not megalomaniacs out revenge-killing colonialist idiocy from the prior world war.
+Theyâ€™re a concern , not a threat , the difference because our capitalists like their manufacturing and assembly. Our government would like to not have China be as good at AI as we are. But we would have preferred them not being as good or better now at most of the things we outsourced to them over the last 40 years.
+Iâ€™m much more concerned about how our megalomaniacal profit seekers will abuse nvidia enabled AI.
+
+[â€“] PrimeIntellect 22 points 23 points 24 points 4 hours ago (3 children)
+They are also our biggest economic competitor and are more than happy to fully steal, reverse engineer, copy, and reproduce any US intellectual property, and then sell it back to us at a steep discount to put our companies out of business after putting in the time and money for R&D. It happens constantly.
+
+[â€“] madcap462 4 points 5 points 6 points 21 minutes ago (0 children)
+Then maybe we shouldn't have let the capitalists export manufacturing to China. The US made this bed to exploit workers. Let them lay in it.
+
+
+
+[â€“] Significant-Host3229 12 points 13 points 14 points 3 hours ago (4 children)
+Yeah, preventing AI tech from entering China seems to have more more to do with the US attempting to dominate generative AI, than with preventing some skynet shit. But fearmongering is how the US likes to glorify their shit.
+
+[â€“] Lutra_Lovegood 7 points 8 points 9 points 2 hours ago (3 children)
+Fun fact, both the USA and China have a surveillance program named Skynet (or Operation Sky Net in the case of China), and the UK has a satellite communication system called Skynet.
+If anything, the US is more likely to develop terminators than not. They already have dog robocops, it's only a matter of time before the military employs full on bipedal robots, and from there it will trickle down to robot cops.
+
+[â€“] Alternative_Let_1989 4 points 5 points 6 points 54 minutes ago (1 child)
+DoD is plowing forward to authorize AI systems to independently decide to have drones kill humans so...
+
+
+
+
+
+
+
+[â€“] blackbauer222 9 points 10 points 11 points 1 hour ago (3 children)
+what is this bullshit? selling oil to germany during WW2? THATS your comparison?
+you people are flat out NUTS.
+
+[â€“] Alternative_Let_1989 3 points 4 points 5 points 52 minutes ago (1 child)
+That's because half of Americans couldn't point at China on a map and maybe 10% of those know anything meaningful about it's history, society, or politics except Communism Bad
+
+
+
+
+
+[â€“] Unlucky-Housing-737 20 points 21 points 22 points 4 hours ago (12 children)
+Well, Germany during WWII was a country we were at war with that was actively doing genocide.
+The Soviets were threatening us with nukes (even though that's just because we threatened them with nukes first)
+China is just doing well as a country and we don't like that
+These are 3 very different things
+
+
+
+[â€“] popeirl 3 points 4 points 5 points 1 hour ago * (0 children)
+Yup, the USA is the biggest warmonger in the world, currently fighting 3 illegal attack wars at the same time.
+
+
+
+[â€“] Kanthardlywait 72 points 73 points 74 points 4 hours ago (9 children)
+So they're doing a capitalism and the US is mad about it.
+Ironic, isn't it?
+
+[â€“] zer1223 30 points 31 points 32 points 4 hours ago (2 children)
+It's almost as if unfettered capitalism is bad. Perhaps we should try fettering it heavily and as quickly as possible.
+Nah, that's unamerican /s
+
+[â€“] ohnoitsthefuzz 7 points 8 points 9 points 3 hours ago (1 child)
+Don't say the other C-word, all our healthful American food will disappear and the KGB will show up to drag us out of bed at night and lick our balls!
+
+
+
+
+
+[â€“] SeasonNo5038 21 points 22 points 23 points 5 hours ago (5 children)
+Unlike the US Government which has never done that.
+
+
+
+
+
+[â€“] No_Series8277 45 points 46 points 47 points 5 hours ago (4 children)
+Itâ€™s obviously money motivated.
+
+[â€“] nevek 37 points 38 points 39 points 5 hours ago (3 children)
+People are still learning about capitalism it seems.
+
+[â€“] ClicksAndASmell 21 points 22 points 23 points 5 hours ago (0 children)
+It's like asking "Does this tiger kill for food or for fun?"
+The answer is that it thinks it's fun to kill for food. The tigers that didn't went extinct.
+
+
+
+[â€“] StyrofoamExplodes 52 points 53 points 54 points 5 hours ago (30 children)
+Money. The Chinese are the biggest market in the world for this stuff. They jump on every tech boom that they can find.
+
+[â€“] Mezziah187 14 points 15 points 16 points 4 hours ago * (23 children)
+Edit: Didn't realize/remember the 2020 sanctions had affected TSMC/China already. So what we're seeing here is a result of China getting cut off, and the US trying to ensure it stays that way. Bloody complex game being played.
+They're trying to become less reliant on Taiwan for their chips. Becoming independent from TSMC means they can invade, bomb, do whatever the hell they want without a large hit to their economy. Turns out being less concerned with collateral damage makes launching missiles easier.
+
+[â€“] malusfacticius 19 points 20 points 21 points 4 hours ago (14 children)
+Cutting TSMC off from them has already made it MANDATORY for them to become independent from Taiwanese fabs in order just to SURVIVE anyway. FFS, the mental gymnastics here is insane and itâ€™s shocking people can go along with that.
+
+
+
+
+
+
+
+[â€“] sleepytipi 11 points 12 points 13 points 5 hours ago (2 children)
+Money is the reason for 99.9% of nefarious activity.
+
+
+
+[â€“] Fit-Dentist6093 14 points 15 points 16 points 4 hours ago (7 children)
+Do you think the U.S. government restricting AI for China is not money motivated? Genuine question here because for me it obviously is and I don't see then what's the conundrum with Nvidia also being money motivated then.
+
+
+
+
+
+[â€“] ChemEBrew 149 points 150 points 151 points 5 hours ago (48 children)
+I doubt almost anyone here knows ITAR.
+
+[â€“] anaxamandrus 120 points 121 points 122 points 5 hours ago (21 children)
+AI chips are EAR not ITAR.
+
+[â€“] guacamully 63 points 64 points 65 points 5 hours ago * (18 children)
+This. EAR is dual-use.
+I really don't see how this could play out in her favor. If every RTX has Tensor cores, Raimondo would have to butcher NVIDIA in order to stop them "enabling" AI acceleration. China is a huge market for gaming.
+
+[â€“] Opening-Lead-6008 18 points 19 points 20 points 3 hours ago (5 children)
+I mean if you were to limit exports to cards with a certain limited vram and no memory pooling support youâ€™d pretty much kill high end ai development without harming gaming demand
+
+[â€“] fractalfocuser 5 points 6 points 7 points 3 hours ago (2 children)
+What are those limits though? Games are demanding increasing VRAM these days.
+I think that's a really fine line to walk and seems like a weak control IMO but I don't know a lot about minimum spec for training high end ML models
+
+
+
+
+
+[â€“] sniper1rfa 8 points 9 points 10 points 4 hours ago (7 children)
+Yeah, this would be pretty straightforward if it was ITAR, because NVIDIA would basically just stop shipping product to chinese markets.
+Allowing "some but not all" means they're going to design products to pass the "allowed" test, and you can't get upset by that in retrospect.
+
+[â€“] dmills_00 8 points 9 points 10 points 4 hours ago (4 children)
+they're going to design products to pass the "allowed" test, and you can't get upset by that in retrospect.
+Distinct shades of 'We are going to test the emissions in exactly this way and you are required to pass these specific tests?'
+Didn't work out so well for VW, for all that dirty little secret they were all playing the game.
+
+[â€“] red286 4 points 5 points 6 points 3 hours ago (0 children)
+Didn't work out so well for VW, for all that dirty little secret they were all playing the game.
+What VW was doing was intentionally cheating the system.  What Nvidia is doing is more like if Ford were to make a car that just barely hit the EPA's fuel economy requirements, and didn't exceed it by a fraction of a MPG, despite being capable of doing so.  Should that be considered a crime?
+
+
+
+
+
+
+
+
+
+[â€“] No-Tap-3089 10 points 11 points 12 points 5 hours ago (0 children)
+A cursory glance at the comment section shows that ITAR is one thing, most appear to not even know about the most basic concepts of contemporary geopolitical power dynamics.
+
+[â€“] Prcrstntr 57 points 58 points 59 points 5 hours ago (16 children)
+A few months back when the 'TOP NVIDIA Chips are now Export Controlled' news broke, I had some weird messages from a chinese guy asking about what I knew. I had made a comment about the topic and must of been interested from my knowledge of what countries have decent cyberwar programs. I sent him an article about the new export restrictions and then he asked me my age, and I stopped responding then.
+The account is now suspended.
+
+[â€“] MagusUnion 39 points 40 points 41 points 4 hours ago (11 children)
+Yeah. I hate to even say this, but it's not the 90's anymore. A politically neutral and silent China doesn't exist.
+
+[â€“] ThankYouForCallingVP 25 points 26 points 27 points 4 hours ago (8 children)
+It never existed. The only difference is now the silent part is being said out loud.
+
+
+
+[â€“] Halaku 18 points 19 points 20 points 4 hours ago (0 children)
+In before r/sino floods the zone with bullshit.
+
+
+
+
+
+[â€“] Guac_in_my_rarri 3 points 4 points 5 points 4 hours ago (0 children)
+ITAR
+A lot of people's brains will melt navigating itar and schedule b.
+
+
+
+[â€“] Gagarin1961 70 points 71 points 72 points 5 hours ago (17 children)
+â€œenables them to do AIâ€�
+What the fuck does that mean? No CUDA cores whatsoever? Canâ€™t any chip â€œdo AI,â€� just slower?
+
+[â€“] eyebrows360 81 points 82 points 83 points 4 hours ago (13 children)
+There's a point below which "slower" becomes "useless". A graphical calculator could "do" these calculations, but not fast enough to be of practical use.
+
+[â€“] solonit 21 points 22 points 23 points 4 hours ago (2 children)
+All I'm seeing is my TI-88 with enough time can create AI waifu LET'S GO!!!
+
+[â€“] OyVeySeasoning 9 points 10 points 11 points 3 hours ago (1 child)
+why wait? your TI-88 itself could be your waifu if you're not a coward
+
+
+
+[â€“] Jaggedmallard26 7 points 8 points 9 points 3 hours ago (1 child)
+The problem is that AI acceleration is pretty much mandatory for Nvidia's market. They don't make their profit selling CPU's, they make money selling GPUs and workstation cards both of which now expect tensor cores as a matter of course. You can't sell a modern GPU without tensor cores as all modern gaming tech relies on them and if you're going to buy a GPU with 2015 levels of advancement you might as well just buy a 2015 GPU.
+
+
+
+
+
+[â€“] Rakn 12 points 13 points 14 points 4 hours ago (0 children)
+Just slower is the key here. You need pretty beefy stuff and a lot of it to build ChatGPT like things. It's likely more about slowing them down than preventing anything.
+
+
+
+[â€“] woolcoat 33 points 34 points 35 points 5 hours ago (10 children)
+"enables them to do AI" is such a broad idea. Gina should just outright ban chips to China.
+
+[â€“] SaltyRedditTears 18 points 19 points 20 points 5 hours ago (2 children)
+Before she does though can she give me a heads up I need to let my broker know.
+
+
+
+[â€“] EremiticFerret 11 points 12 points 13 points 5 hours ago (0 children)
+Because we need stuff from China that they could cut off in retaliation.
+
+
+
+[â€“] mm0nst3rr 17 points 18 points 19 points 3 hours ago (7 children)
+That sounds ridiculous. What â€œaround a particular cut lineâ€� even means? They clearly regulated what exactly can be sold to China and Nvidia did exactly that - what does she want?
+
+[â€“] Barkalow 6 points 7 points 8 points 2 hours ago (1 child)
+Purely a guess, but I assume they mean some kind of minor mechanical difference in the cards that can be easily bypassed once they're in your possession.
+
+
+
+
+
+[â€“] norcalnatv 19 points 20 points 21 points 3 hours ago (0 children)
+They are fully telling Nvidia they HAVE to stop doing this.
+You have that completely wrong.   They've told Nvidia 3 different times where the line is.   DeptCom said, don't cross the line.   And each time Nvidia said, fine, we get the rules, we won't, and didn't.
+What Raimando is weak-kneed about is banning a product specifically.   She could have done that, which is what you seem to be advocating.  Instead she drew a line in the sand, then erased it and redrew it then erased and redrew it again.
+If she wants to ban GPUs from China, just say it.
+She is an idiot and mad at herself for making a dumb decision in the first place.   Now she has to correct it, and she's saying she doesn't have enough money to enforce it.
+
+[â€“] TestLandingZone 12 points 13 points 14 points 3 hours ago (0 children)
+US Commerce Secretary Gina Raimondo
+Then have legislation that controls it in the first place
+Sounds like she's still salty about Huawei making her look like a clown
+
+
+
+[â€“] xpdx 104 points 105 points 106 points 5 hours ago (8 children)
+This says to me the rules are written poorly. Companies are going to follow the letter of the law not the spirit. You need to make the letter match the spirit. Write better rules! As regulators that's your entire job, write good rules.
+
+[â€“] Z0MGbies 8 points 9 points 10 points 1 hour ago (2 children)
+This is a fantastically well articulated and succinct point.  Are you paraphrasing something or someone in particular?
+(Genuine question)
+
+
+
+
+
+[â€“] PlutosGrasp 20 points 21 points 22 points 7 hours ago (0 children)
+Translation: weâ€™ll block everything if you donâ€™t.
+
+[â€“] Lazerpop 1226 points 1227 points 1228 points 8 hours ago (470 children)
+I don't understand the issue here. The govt says the cards can't hit 1,000 AUs, the Nvidia chips are then redesigned to hit a cap of 999 AUs, and the govt is still pissed?
+
+[â€“] Ravinac 1568 points 1569 points 1570 points 7 hours ago (281 children)
+govt says the cards can't hit 1,000 AUs
+Translation: Stop selling to China completely.
+
+[â€“] StrategicOverseer 582 points 583 points 584 points 7 hours ago * (123 children)
+The government should just outright say it then if they want compliance, it's silly and opens them up to issues like this to just continue to dance around it.
+
+[â€“] PaulSandwich 500 points 501 points 502 points 7 hours ago (79 children)
+The US has spent decades castrating regulatory agencies, so there's a good chance that strongly worded letters are all they've got.
+
+[â€“] Gravvitas 320 points 321 points 322 points 6 hours ago (50 children)
+You think they're castrated now? Wait until after this 6-3 conservative majority finishes this term and next. See, e.g., last week's oral argument on the SEC.  Those fucks aren't going to stop until absolutely nothing gets in the way of profits.
+
+[â€“] nobody_smith723 71 points 72 points 73 points 6 hours ago (1 child)
+yeah...  the delegation nonsense is about as fucked up as that bullshit they tried with the election (state gov could not be overseen by the courts)
+but seems like the corrupt scotus is more inclined to fuck over regulatory bodies vs  strip judicial oversight from themselves.
+
+[â€“] Cute_Tap2793 23 points 24 points 25 points 5 hours ago (0 children)
+Dont expect those in power to give it up willingly.
+
+[â€“] r4nd0m_j4rg0n 34 points 35 points 36 points 5 hours ago (3 children)
+Good thing this court set the precedent for over turning previous court decisions
+
+[â€“] Armlegx218 9 points 10 points 11 points 4 hours ago (2 children)
+This court set the precedent to overturn Marbury if you extend the logic.
+
+
+
+
+
+[â€“] Gagarin1961 11 points 12 points 13 points 5 hours ago (0 children)
+I means, thatâ€™s objectively wrong. The regulatory agency banned chips over 1000 AU. All people are saying is if they donâ€™t want any chips around that capability, then they need to ban at a much lower range.
+Since the regulatory agency unilaterally created this ban, and is now saying the ban is wider than previously thought, it seems that the regulatory power is very much in tactâ€¦ they just have very poor communications skills. Considering some of these vague, unprofessional sounding quotes, that seems like the obvious issue.
+So where is the evidence that they want to ban these chips but canâ€™t? It seems like the opposite is true. Your worldview is very much off in this instance.
+
+[â€“] aardw0lf11 63 points 64 points 65 points 6 hours ago (5 children)
+That's the conflict no one is talking about.  The Right are deadset on dismantling the regulatory agencies, but they continue to push for regulations against China (eg tariffs, trade bans).  At some point, their agenda will run aground.
+
+[â€“] Joseph-King 43 points 44 points 45 points 5 hours ago (0 children)
+As if the Right are strangers to hypocrisy.
+
+
+
+
+
+[â€“] Useful-Hat9880 16 points 17 points 18 points 5 hours ago (0 children)
+Politics says that itâ€™s easier to not outright ban a company from that, and instead back channel them to stop.
+A lot is said between the lines with these things.
+
+[â€“] EnsignElessar 45 points 46 points 47 points 7 hours ago (25 children)
+No, thats not how laws work. You need to specify the speed limit not something like "don't drive too fast" ðŸ¤¦â€�â™€ï¸�
+
+[â€“] StrategicOverseer 23 points 24 points 25 points 6 hours ago (7 children)
+I apologize for any confusion, my comment was aimed at the government. I was suggesting they should be more explicit about their regulatory intentions, rather than critiquing on Nvidia's response to vague regulation.
+I think ironically, this is a great example of why not being clear enough can cause issues.
+
+[â€“] EnsignElessar 9 points 10 points 11 points 6 hours ago * (0 children)
+Ok, I am with you now
+I kind of would like to know exactly why they took this approach as well...
+
+
+
+[â€“] BranchPredictor 22 points 23 points 24 points 6 hours ago (12 children)
+Actually that is how laws work. There is a maximum speed limit but most countries also state in their laws that drivers must act with care and drive according to weather and traffic conditions aka don't drive too fast.
+
+[â€“] pmjm 8 points 9 points 10 points 5 hours ago (2 children)
+I can't speak to other state's laws, but here in the state of California, you can get a speeding ticket while driving under the speed limit. It's called the "basic speed law" and you can get ticketed for it if, in the officer's judgement, you were driving "too fast for the given conditions."
+
+
+
+
+
+
+
+[â€“] WeDriftEternal 4 points 5 points 6 points 4 hours ago (0 children)
+These are all back room convos and 100% have been happening for a decade. My guess is the US govt and allies are fucking livid with many chip makers
+When we see this in the news itâ€™s not an announcement, itâ€™s telling the public that things in private are not going well and trying to gauge response
+
+
+
+[â€“] Rdubya44 16 points 17 points 18 points 7 hours ago (143 children)
+Eli5 why?
+
+[â€“] TwiNN53 75 points 76 points 77 points 7 hours ago (57 children)
+National security interests.
+
+
+
+[â€“] Caeoc 83 points 84 points 85 points 7 hours ago (65 children)
+There is strong evidence to support that China is not buying chips for the consumer market, but in fact require them for their burgeoning AI industry (as well as other sectors that require massive computing power). The Chinese government doesnâ€™t have a great track record in using new technologies like AI in â€œmorally acceptableâ€� ways. Just look at their facial recognition of Hong Kong protestors.
+
+[â€“] Overlord_Of_Puns 97 points 98 points 99 points 6 hours ago (24 children)
+While I agree with you on this, I find facial recognition of facial recognition technology a kind of ironic argument.
+The US has a problem with using AI to identify people without warrants as well, we honestly have a bad track record for this as well.
+https://www.amnesty.org/en/latest/news/2022/08/usa-nypd-black-lives-matter-protests-surveilliance/
+
+[â€“] NoMoreUpvotesForYou 17 points 18 points 19 points 6 hours ago (2 children)
+That's the scary thing, AI is convenient because it allows sociopaths to offload agency and it fully automates the systemic parts of systemic discrimination. Until AI operates fully independent of human oversight it will just have their biases programmed in. Any fully independent AI is scary for its own reasons.
+
+[â€“] VanTyler 4 points 5 points 6 points 4 hours ago (0 children)
+The script kiddie problem.  Low technical bar to malicious intent and so many ways it could spiral into complete meltdown.  I really don't think this is an alarmist take, while trying to think of hypotheticals there were so many possibilities I just gave up.  The flip side of this coin is that it's equally easy to use an AI to perform a very subtle attack, the kind that takes human hackers hours days even years of methodical infiltration and requires adaptive techniques and tactics.  The slow and methodical part of this is where an AI would excel, and of course why limit yourself to only one AI?  There is a lot of hysteria out there but we do in fact have to get a leash on this puppy.
+
+
+
+
+
+[â€“] Takingfucks 65 points 66 points 67 points 6 hours ago * (17 children)
+I just spend an unfortunately long time diving into AI policy/regulations in China recently. Iâ€™ve got to say, from what Iâ€™m seeing at their national (CAC) and international level policy they seem to be taking it really seriously. China in the last 18months, has enacted the tightest AI regulations across the world (some of which do cover public facing services only), a lot of them are similar to the EU AI Act. A lot of their policy is also written to build general infrastructure and globally collaborate, and they have shown up to back that up.
+In fact, there has been a huge alignment arise in terms of ethics applied to AI, across the world. Despite significant over representation of western values. Itâ€™s a little wild to see. Does China do shitty things? 100%, but (and I apologize for this but I have been battling with my own bias for weeks on my interpretation) - Is the U.S. not guilty of some of these same things? Like the NSA? That one time Facebook meddled in the election and it came out that everyoneâ€™s data was being used nefariously, among other things. The EU passed the GDPR, we had a hearing or two and a documentary, but the lobbyists otherwise disappeared it.
+My point is - I donâ€™t think China is the real problem here. They are light years behind us in AI, at least those that are publicly disclosed. The US pumped out 16 different â€œsignificantâ€� models in 2022 alone, the UK had like 3, France 1, China 1, and India 1 (those number may be a little off except the U.S. and China). They produce an insane amount of publications every year, but we have outspent the entire world for the last decade by 100â€™s of billions of dollars, and it shows.
+My opinion? I personally think the rest of the world is terrified of the U.S., and the imbalance regarding current advancements. I think that the dropping of atomic bombs on Nagasaki and Hiroshima, the following Cold War and living with the tension of nuclear weapons is/has influenced world leaders in how they treat AI. WHICH IS A GOOD THING. There is an effort to actively shut down references to it as the â€œAI Arms Race.â€� I donâ€™t blame other countries for that either, and with the U.S. history of profit prioritization and supremacy - doesnâ€™t it make sense that they would want to bolster their own abilities? The U.S has done some great things but we have also done some incredibly fucked up things as well, and a lot of them. I think itâ€™s disingenuous to paint one so much darker than the other.
+Edit: for clarity, I think my sentence structure was indicating something different ðŸ‘�ðŸ�»
+
+
+
+[â€“] NoMoreUpvotesForYou 17 points 18 points 19 points 6 hours ago (1 child)
+Israel is also using AI called "The Gospel" to pick targets in Gaza. They went from picking 50 targets a year to 50 targets a day. AI is hella scary because it offloads agency from sociopaths.
+
+[â€“] Jaggedmallard26 8 points 9 points 10 points 3 hours ago (0 children)
+Even the US government has commented that Israel is bombing too much. This is less offloading to AI and more using an AI to justify indiscriminate bombing.
+
+[â€“] Extra-Onion-7631 4 points 5 points 6 points 6 hours ago (0 children)
+Who does?
+
+
+
+
+
+
+
+[â€“] patrick66 81 points 82 points 83 points 7 hours ago (20 children)
+The government isnâ€™t really pissed at nvidia exactly. They set an original limit on interconnect speed maximums as an initial upper bound for allowable tech transfers. Nvidia made chips to avoid that limit. The gov has decided that in addition to the interconnect speed limits that they are just going to limit max compute which makes the 800 cards non-exportable. Commerce is just also giving fair warning not to waste time trying to create a card that is 99% identical but passes the new controls because they missed something as they will just close whatever loophole is found
+
+
+
+[â€“] powercow 387 points 388 points 389 points 7 hours ago (69 children)
+yeah and try to make a dozen bank transfers at $9,999 and watch the government not care the reporting limit is 10k.
+
+[â€“] SaltyRedditTears 107 points 108 points 109 points 6 hours ago (40 children)
+Thatâ€™s called structuring and is covered by a different regulation
+
+[â€“] WonderfulShelter 76 points 77 points 78 points 6 hours ago (37 children)
+It's really ironic how my bank can structure their charges to overdraft my account to benefit them and get a fee, even though I never spent more then was in my account - but if I structure and stagger my deposits in such a way to benefit myself I go to jail.
+
+[â€“] SubstantialAgency914 32 points 33 points 34 points 5 hours ago (19 children)
+Capitalism baby.
+
+
+
+[â€“] golgol12 6 points 7 points 8 points 3 hours ago (0 children)
+It's not illegal to make a 9999 deposit.  Nor is there extra taxes or fines.
+But at 10k there's automatically extra attention. The government requires them to look further into who and why.
+If you are specifically trying to avoid that check, then that's illegal.
+Overdraft charges are completely different. That's them trying to nickle and dime you because you are out of money.
+
+
+
+
+
+[â€“] BattlestarTide 83 points 84 points 85 points 6 hours ago (21 children)
+Exactly. This is showing a pattern of intentional avoidance.
+
+
+
+[â€“] Wooow675 23 points 24 points 25 points 7 hours ago (0 children)
+â€œOh those rascals, got us again!â€�
+
+
+
+[â€“] berserkuh 134 points 135 points 136 points 7 hours ago (6 children)
+They're not actually pissed. The title is sensationalist. They set restrictions, Nvidia adapted, the government said "no problem we'll outlaw those too".
+To be fair it's probably a blessing in disguise for Nvidia because they can save on production costs and avoid ordering too many of the to-be-banned chips lol
+
+
+
+[â€“] Fighterhayabusa 103 points 104 points 105 points 7 hours ago (20 children)
+It's pretty obvious the line was set between two product lines with the lower further below 1000. Nvidia created a new design with the sole purpose of selling to China.
+Both Nvidia and the regulators knew what the intent of the sanctions were. The government is now telling them they will strengthen the sanctions if Nvidia doesn't stop what they're doing.
+
+[â€“] VTinstaMom 62 points 63 points 64 points 7 hours ago (18 children)
+Exactly this. The government can't make a law specifically targeting one chip, because that would be anti-competitive behavior and could open them up to legal action from the corporations. However if they use a outside metric, even if that metric was based upon existing products, the courts won't find in favor of the corporations, if they go ahead and try suing the government.
+Essentially, your spot on. The metric was created to outlaw cards above a certain model number. Buy attempting to get under the limit, Nvidia is simply highlighting the true purpose of the sanctions: to prevent any new technology entering the Chinese market which could be used for AI.
+
+
+
+
+
+[â€“] BaronParnassus 12 points 13 points 14 points 6 hours ago (3 children)
+Sorry for the ignorance but what are AU's in this context?
+
+[â€“] Lazerpop 30 points 31 points 32 points 6 hours ago (2 children)
+Arbitrary Units
+
+[â€“] what_it_dude 17 points 18 points 19 points 6 hours ago (1 child)
+Can you be a little less arbitrary?
+
+[â€“] rebbsitor 14 points 15 points 16 points 6 hours ago (0 children)
+Sure, you can have an arbitrary number of Arbitrary Units.
+
+[â€“] EnsignElessar 38 points 39 points 40 points 7 hours ago (12 children)
+Because the spirit of the law is to stop selling advanced chips to China that could be used for their military or AI.
+Making a just slightly weaker, compliant version is deliberately ignoring the point for profit
+Also this isn't the first time this has happened, I think its like the third time in the last 6 months or so...
+
+[â€“] ninjaTrooper 30 points 31 points 32 points 6 hours ago (10 children)
+Spirit of the law? Thatâ€™s like deliberately creating loopholes and getting mad when companies exploit them.
+
+[â€“] patrick66 41 points 42 points 43 points 6 hours ago (3 children)
+you are inventing anger on the part of USG that doesnt really exist. USG is basically saying "yes, yes you designed your way around the first set of limits and that was whatever but if you do so for this new second set you can expect us to ban your loophole too so dont bother"
+Its not so much anger as it is fair warning that going forward things will be different
+
+
+
+[â€“] LightOfShadows 3 points 4 points 5 points 2 hours ago (0 children)
+When you set something at a number and straight up tell the implications and the whys of a procedure, then someone comes along at just 1 under that number, that's poking the bear.   And has been found in courts to be upholdable if the violater is intentionally trying to structure around the limit like that.  In particular money transfers but it holds in various different industries
+
+[â€“] EnsignElessar 6 points 7 points 8 points 6 hours ago (0 children)
+Yeah thats a fair point I would say
+
+
+
+
+
+[â€“] unlock0 7 points 8 points 9 points 7 hours ago (3 children)
+Isn't the whole idea is using parallel operations? This is easily bypassed by using multi chip modules isn't it? This will just push MCM GPUs.. and actually I think there are already leaks for the 5090 to be the first mainstream MCM from Nvidia.
+What are AUs? I can't find anything about a 1k limit.. Arithmetic Units?
+
+[â€“] zip117 6 points 7 points 8 points 5 hours ago (0 children)
+Just a silly abbreviation for Arbitrary Units
+In this case the law uses two metrics: â€˜total processing performanceâ€™ (TPP) and â€˜performance densityâ€™. The new Nvidia H20 GPU has values of 2368 and 2.9 respectively ( source ). The TPP is just below the threshold for export control:
+b.1. a â€˜total processing performanceâ€™ of 2400 or more and less than 4800 and a â€˜performance densityâ€™ of 1.6 or more and less than 5.92
+Here is the actual law: 88 FR 73458 . Search for ECCN 3A090
+
+[â€“] patrick66 5 points 6 points 7 points 2 hours ago (0 children)
+whole idea is using parallel operations? This is easily bypassed by using multi chip modules isn't
+this is actually why the limits were initially placed on memory interconnect speed and not raw FLOPS, cant scale horizontally if theres no interconnect bandwith. The feds know what they are doing here, its just that what they are doing here is making it illegal to sell any new GPU to china and so nvidia is, as one would expect, pitching a fit
+
+
+
+[â€“] Gravvitas 16 points 17 points 18 points 6 hours ago (13 children)
+Exactly. More accurate headline:
+"U.S. trade authorities realize earlier regulations inadequate, complain nonsensically to buy time while rewriting better regulations."
+
+
+
+
+
+[â€“] fixminer 882 points 883 points 884 points 8 hours ago (294 children)
+If they don't want China to get any chips, the laws should reflect that. Whether we like it or not, it's completely reasonable for Nvidia to do anything they can within legal limits to maximize their profits. It's what their shareholders expect.
+
+[â€“] Autotomatomato 372 points 373 points 374 points 8 hours ago (169 children)
+The US sanctions on China are just that. Their shareholders can get fucked..
+
+[â€“] BoringWozniak 279 points 280 points 281 points 8 hours ago (146 children)
+If Nvidia is behaving in a way that the government dislikes, the government needs to strengthen the sanctions.
+If Nvidia isnâ€™t breaching the sanctions then theyâ€™re behaving entirely reasonably.
+Their legal duty is to their shareholders, like any other public company. The mechanism to rein them in is to strengthen the sanctions.
+
+[â€“] Few-Philosopher-1699 167 points 168 points 169 points 8 hours ago (129 children)
+Isnâ€™t that what the article said the US is going to start doing? From the article:
+â€œIf you redesign a chip around a particular cut line that enables them to do Al, I'm going to control it the very next day"
+- US Commerce Secretary Gina Raimondo
+
+[â€“] lobehold 94 points 95 points 96 points 7 hours ago (88 children)
+Then stop creating bad faith cut lines if youâ€™re not going to ahere to your own rules.
+If you want a complete ban, then just ban it outright, this â€œI really want a ban, but thatâ€™s a bad look so Iâ€™m just putting in a limit but you know what I mean wink wink nudge nudgeâ€� is an insane way to behave.
+
+[â€“] ChipmunkDisastrous67 58 points 59 points 60 points 6 hours ago (49 children)
+dude what are you talking about, "bad faith"? isnt nvidea making slight changes to the design of banned chips to get around the ban the definition of bad faith?
+
+[â€“] spokale 88 points 89 points 90 points 5 hours ago (24 children)
+No, adjusting your products to comply with regulations is exactly what you're supposed to do.
+
+
+
+[â€“] ltdliability 25 points 26 points 27 points 5 hours ago (10 children)
+Is it bad faith to drive 45 mph on a road with a posted speed limit of 45 mph?
+
+
+
+
+
+
+
+
+
+[â€“] hackingdreams 44 points 45 points 46 points 7 hours ago (10 children)
+If Nvidia is behaving in a way that the government dislikes, the government needs to strengthen the sanctions.
+The US literally just issued a statement that said, "behave or we'll strengthen the sanctions." That's what this is. Read the statement.
+
+[â€“] LittleShopOfHosels 12 points 13 points 14 points 6 hours ago (3 children)
+If it's important, STRENGTHEN THEM NOW.
+Stop relying on the corporate honor system.
+It's that fucking simple.
+Unless ACTUAL ACTION IS TAKEN, TO ENFORCE THE LEVEL OF COMPLAINCE THE USA WANTS, anything less is simply theatre.
+
+
+
+
+
+
+
+[â€“] NitroLada 16 points 17 points 18 points 7 hours ago (10 children)
+except the restrictions on chips are not sanctions, the US just trying to slow down china which has already failed and backfired spectacularly accelerating china's chip making capabilities and enriching them at same time
+https://arstechnica.com/information-technology/2023/11/how-huawei-made-a-cutting-edge-chip-in-china-and-surprised-the-us/
+
+[â€“] Successful-Money4995 4 points 5 points 6 points 3 hours ago (8 children)
+This is the truth. If you can China from buying chips then they will just do it themselves. Later on when you lift the ban, those customers aren't coming back.
+I don't even get the ban. What's the point? Somehow GPUs and weapons are in the same category?
+
+
+
+
+
+
+
+[â€“] murden6562 58 points 59 points 60 points 7 hours ago (28 children)
+Not much of a free market now huh?
+
+[â€“] VTinstaMom 75 points 76 points 77 points 7 hours ago (9 children)
+Never was one.
+Imbalances in power guarantee that no market is free, and imbalances in need guarantee that no transaction is either.
+The whole idea of a free market is just a way to justify the current social order to the serfs.
+
+[â€“] mutual_raid 15 points 16 points 17 points 5 hours ago (8 children)
+This. But on top of this, ironically, US' "regulation" here is immoral even from a Marxist lens. It's just pure power-movement. It's trying to control the market to only benefit the US. This is all naked now - the newest turn in Neoliberalism Â¯_(ãƒ„)_/Â¯
+
+[â€“] VTinstaMom 5 points 6 points 7 points 5 hours ago (1 child)
+I try to remember that everything from regulation, to neoliberalism, to whatever phrase we are using to describe the new version of the system, the world has always been run for the benefit of the powerful, at the expense of those who cannot resist effectively.
+Whether we look at the Comanche, the Egyptians, the Assyrians, the Chinese, Mongols, British, Dutch, Venetians, Ottomans, Romans... this trend persists.
+Every group that finds itself more organized and more powerful than those around them has historically used whatever means possible to maintain the power imbalance in their favor. Simultaneously, each group has always found a justification, both moral and practical, for everything done in maintenance of the power imbalance.
+History in a nutshell:
+One guy walks up to another guy, bashes him over the head, and takes all of his things. Later a third guy walks up and says "why did you do that?" and the first guy points at the dead guy and says "he was an asshole."
+Currently, it's the USA in the power seat, trying to maintain the imbalance. When the next empire takes over, we will have folks just like you and I pointing at that empire, and pointing out that they're just trying to maintain a power imbalance through grossly unfair means.
+And everyone will be both correct, but also powerless to stop the trend.
+
+
+
+
+
+[â€“] Garb-O 15 points 16 points 17 points 7 hours ago (1 child)
+hasnt been since the 1800s
+
+[â€“] Bushels_for_All 9 points 10 points 11 points 6 hours ago (0 children)
+hasnt been since the 1800s
+
+[â€“] Thefrayedends 44 points 45 points 46 points 7 hours ago (4 children)
+Lol there never was, the free market is a joke of a justification for barons/oligarchs to continue milking us like cattle
+
+
+
+[â€“] patrick66 14 points 15 points 16 points 7 hours ago (0 children)
+Itâ€™s a national security issue they arenâ€™t pretending itâ€™s a free market and havenâ€™t been for several years now
+
+[â€“] Smudded 10 points 11 points 12 points 7 hours ago (0 children)
+A free market is different than free trade. Doesn't necessarily change the values that go along with it, but it certainly is a different concept.
+
+
+
+[â€“] hackingdreams 72 points 73 points 74 points 8 hours ago (53 children)
+If they don't want China to get any chips, the laws should reflect that.
+Err, they did. The law was "don't export these powerful chips to China." nVidia's circumventing that law by redesigning their chips to be exportable, and the White House is telling them "stop doing that."
+That's what this is. That's what's happening here.
+
+[â€“] MonetHadAss 76 points 77 points 78 points 7 hours ago (35 children)
+Translation:
+US Government: "Don't export these powerful chips to China."
+NVIDIA: "OK, I'll export chips that are not as powerful as those chips that you consider powerful to China."
+US Government: "No! Not like this!"
+
+[â€“] Swaggerlilyjohnson 14 points 15 points 16 points 6 hours ago * (10 children)
+The problem here is their terms are imperfect and require a degree of ambiguity. They want to place a limit on gpu performance that the 4090 exceeds (among other cards). Nvidia's response is to make a 4090d sku that is simply the 4090 but underclocked. This is not following the spirit of the sanctions because literally all they have to do is overclock the chip (which is literally as easy as moving a slider over) and they have a full 4090. The government would not really care if they legitimately made a worse chip for specifically the chinese market (essentially the 4080 is this already) the thing is they are not making a worse chip they are just clocking it down to dodge the sanctions while providing literally IDENTICAL hardware. This is what most of the people in these comments are missing
+I think all the sanctions are dumb to begin with and have already backfired (smic achieved 7nm very quickly and all this is doing is costing western companies enormous tons of money to delay them like 2-3 years) but if they are going to do sanctions they can't let nvidia just make the same chip as the west but cut the clock rates when clock rates are easily changeable in software. If they really want to do this they need to do the bans by transistor count or transistor density that would be much harder to dodge.
+
+[â€“] random_shitter 8 points 9 points 10 points 5 hours ago (4 children)
+all this is doing is costing western companies enormous tons of money to delay them like 2-3 years
+Oh, the West should hope this is the case. China's level of competence is increasing very rapidly, the innovation speed there is absolutely insane. It's just as likely China will now develop their own tech tree that some day surpasses ours, which is when they will hold all the cards.
+
+
+
+[â€“] mntln 3 points 4 points 5 points 4 hours ago (0 children)
+Clocks can be locked in firmware fyi. See Intel k vs non-k CPU's.
+
+
+
+
+
+[â€“] StrategicOverseer 14 points 15 points 16 points 7 hours ago (4 children)
+To ensure compliance, the law or regulations must explicitly state the maximum export limits for companies like NVIDIA. It's unreasonable and ineffective to expect companies to interpret vague laws. Regulations should be straightforward, eliminating the need for reading between the lines.
+
+
+
+[â€“] LittleShopOfHosels 14 points 15 points 16 points 6 hours ago (1 child)
+No, the USA said you can't sell certain chips to china
+The US said you CAN sell these chips to China.
+NVIDIA sold those Chips.
+The USA went surprise pikachu face
+
+
+
+
+
+
+
+[â€“] chris17453 870 points 871 points 872 points 9 hours ago (309 children)
+List of shit that is never gonna happen, that's at the top
+
+[â€“] quantumpencil 653 points 654 points 655 points 7 hours ago (233 children)
+Uh.. bro, if the U.S really pushes them on this they don't have the option of not complying lol.
+
+[â€“] Ok-Mine1268 524 points 525 points 526 points 7 hours ago (91 children)
+This is all about AI and is basically comparable to a nuclear race. Yes, they mean it and can enforce it.
+
+
+
+[â€“] lord_pizzabird 165 points 166 points 167 points 7 hours ago (82 children)
+Yeah. I keep seeing people argue that US law doesnâ€™t matter for international companies.  They donâ€™t understand that if you operate in the US, sell shit in the US, youâ€™re subject to US laws.
+Considering that most of Nvidiaâ€™s business in China is producing goods for the US market, I think it safe to say they theyâ€™ll cave to any request regardless.
+Apples probably next also, considering they seem to think their m-series hardware is exempt from all this.
+
+[â€“] rebbsitor 44 points 45 points 46 points 6 hours ago (0 children)
+I keep seeing people argue that US law doesnâ€™t matter for international companies.
+Nvidia is a US Company incorporated in Delaware and their headquarters is in California.  They're very much subject to US law.  That they do business in other countries doesn't make a difference.
+
+[â€“] perthguppy 54 points 55 points 56 points 6 hours ago (24 children)
+Iâ€™m a small business in Australia. I have to sign a dozen or so attestations with different vendors that I will abide by US law. If the US decides, NVIDIA wonâ€™t even be able to deal with any company that wants to do business with US entities. The US literally killed ZTE, a Chinese company, with their laws.
+
+[â€“] lord_pizzabird 24 points 25 points 26 points 6 hours ago (0 children)
+I remember while ago seeing someone argue that the Youtuber Linus Tech Tips isn't subject to US laws when he sells merch and releases videos in the US market, because he's Canadian.
+Basically why I bring this up: I'm glad that you gave your own example of this because from my experience, people just don't understand how this works.
+
+
+
+[â€“] quantumpencil 110 points 111 points 112 points 7 hours ago (20 children)
+Not only that NVDA is a headquartered in the U.S, what exactly can they do? If they even tried to move operations elsewhere the government would declare them essential for national security and straight up seize the business/all it's assets and dissolve the board/fire jensen.
+People here would do well to remember that although it can look like it in peacetime, businesses to not have real power compared to state level actors. When a state level actor, especially the United States, decides to exercise that power there is really nothing any business, no matter large can do except comply or be made to comply.
+
+[â€“] VTinstaMom 86 points 87 points 88 points 7 hours ago (13 children)
+Truthfully, we have lived in a peaceful world for so long, the people have forgotten that the balance of power between states and corporations is wildly lopsided in favor of the ones who have a monopoly on violence in a geographical area.
+Basically, the states have not pushed their authority for long enough that people forget that it even exists. And yet, push comes to shove, everything can be nationalized and everyone can be drafted.
+
+[â€“] Walter30573 37 points 38 points 39 points 7 hours ago (6 children)
+The US straight up prevented the manufacturing of civilian cars for the duration of WW2. I agree, if it's important enough they'll do whatever they want and the corporations will have to deal with it
+
+
+
+
+
+
+
+
+
+[â€“] Hug_The_NSA 24 points 25 points 26 points 6 hours ago (0 children)
+It looks like the US is fully telling them they have no choice in the matter.
+â€œIf you redesign a chip around a particular cut line that enables them to do AI, Iâ€™m going to control it the very next dayâ€�
+â€” US Commerce Secretary Gina Raimondo
+
+
+
+[â€“] Hug_The_NSA 25 points 26 points 27 points 6 hours ago (0 children)
+Actually it is definitely happening.
+â€œIf you redesign a chip around a particular cut line that enables them to do AI, Iâ€™m going to control it the very next dayâ€�
+â€” US Commerce Secretary Gina Raimondo
+
+[â€“] Unhappy_Flounder7323 172 points 173 points 174 points 8 hours ago (34 children)
+mmmh profit, money smells good, Chinese money.  -- Nvidia.
+
+[â€“] abstractConceptName 75 points 76 points 77 points 7 hours ago (28 children)
+You do know how sanctions work, right?
+
+[â€“] Denman20 20 points 21 points 22 points 7 hours ago (8 children)
+Which company recently got hit hard because of sanctions in the tech field? If I recall it wasnâ€™t a slap on the wrist financially. Was it seagate?
+
+[â€“] abstractConceptName 23 points 24 points 25 points 7 hours ago (6 children)
+It was.
+$300 million should be enough to make anyone think twice.
+They also added new mandatory auditing requirements.
+https://www.reuters.com/legal/seagate-settles-with-us-shipping-11-bln-hard-drives-huawei-2023-04-19/
+
+
+
+
+
+[â€“] cccanterbury 56 points 57 points 58 points 7 hours ago (15 children)
+Yeah this is a matter of national security, uncle Sam don't play
+
+
+
+
+
+
+
+[â€“] AggressorBLUE 36 points 37 points 38 points 7 hours ago (2 children)
+Keep in mind, Nvidia is a publicly traded company.  Drawing the ire of the Us government and the looming specter of regulatory hurtles can have a cooling effect on stock.
+Will it outright stop this behavior?  No.  But it can throttle it a bit and give nvidia pause.  Its also a signal to other chip makers.
+
+[â€“] vonbauernfeind 3 points 4 points 5 points 5 hours ago (1 child)
+It's already having an effect. NVDA is down $15.50 this morning already.
+
+
+
+[â€“] Just_Another_Scott 4 points 5 points 6 points 5 hours ago (0 children)
+AI is a national security risk. They can absolutely limit the export or designs of chips used for AI to non allied or approved countries.
+
+
+
+[â€“] MetalBawx 338 points 339 points 340 points 8 hours ago (82 children)
+Given NVIDIA's behavior and attitude over the last few years i have little sympathy for the company.
+
+[â€“] make_love_to_potato 163 points 164 points 165 points 7 hours ago (7 children)
+The company is literally shitting money and then wiping their ass with more money. The stock price is rocketing to all time highs. There is no one related to nvidia that needs or wants any sympathy.
+
+[+] [deleted] 5 hours ago (5 children)
+[deleted]
+
+
+
+
+
+
+
+[â€“] SadPOSNoises 121 points 122 points 123 points 5 hours ago (24 children)
+Redditors should stick to cat pictures instead of commenting on geopolitical issues they have zero understanding of. Some of you people are dumb as fuck.
+
+[â€“] comox 27 points 28 points 29 points 5 hours ago (2 children)
+I want my cat picture to be ray traced in real time.
+
+[â€“] MoistMonkeyMango 12 points 13 points 14 points 4 hours ago (0 children)
+Perfectly fine if you arenâ€™t in China.
+
+
+
+
+
+[â€“] Novistadore 13 points 14 points 15 points 2 hours ago (0 children)
+Someone literally said in the comments section of the article that the US is becoming more socialist because of this. I'm so tired of idiots who don't even understand that the United States is not socialist in the least and restrictions like this are very much in line with the current system.
+
+[â€“] bran_dong 6 points 7 points 8 points 5 hours ago (0 children)
+well this is gonna be awkward since the same people have enabled corporations to buy their own laws for a mere 10s of thousands of dollars are pretending they can tell corporations what to do instead of quietly going back under their rock after Nvidia pays its fine. it's important not to make the fine too big so that it's no issue to continually get paid from it indefinitely instead of actually attempting to fix the problem the fine is supposed to address.
+
+[â€“] CandyFromABaby91 16 points 17 points 18 points 4 hours ago (1 child)
+Didn't the government set guidelines for what can be sold to China, what's wrong with nvidia following those government guidelines?
+
+[â€“] patrick66 4 points 5 points 6 points 2 hours ago (0 children)
+nothing and no one in USG is angry at them, its just that USG is now setting new guidelines that Nvidia will have to also follow with the adendum that we are going to be super strict about it this time (aka no 800 series work around)
+
+[â€“] zorrofox3 11 points 12 points 13 points 2 hours ago (0 children)
+Engineer who designs high-performance computing systems (colloquially called supercomputers) here.
+Trying to prevent chip producers from making "AI enabling" chips is a perfect example of a solution from people who know just enough to be dangerous .
+It's barely meaningful, and not in the way they think.
+GPU chips with large pooled memory and lots of tensor cores are currently best for machine learning applications (aka AI*). These chips are "good" because the currently most popular algorithms (stable diffusion and large language models) require large amounts of fast memory and large amounts of extremely repetitive but very simple math. (E.g. the chip spends almost all its time moving things around memory and doing simple arithmetic and trig operations on that data using vectored operations.)
+That can and will change in the furure:
+â€‹
+
+[â€“] timbro1 106 points 107 points 108 points 8 hours ago * (16 children)
+The us government has nobody to blame but itself if they are upset about what NVidia is doing.
+
+
+
+[â€“] [deleted] 86 points 87 points 88 points 7 hours ago (14 children)
+"Stop doing Capitalism" -US govt to Nvidia, 2023.
+
+[â€“] okonisfree 50 points 51 points 52 points 5 hours ago (6 children)
+Um since when did America have unbridled capitalism? Weapons technology â€” for example rockets and jets â€” is well regulated. So is certain encryption technology. Why shouldnâ€™t AI?
+
+
+
+
+
+

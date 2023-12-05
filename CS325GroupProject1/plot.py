@@ -1,5 +1,5 @@
 # Authors: Jordan Brisley & Jayden Zebrowski
-# Date: 12/5/2023
+# Date: 12/4/2023
 # CS325-02 Group Project Module 5
 # Purpose: The purpose of this module is to read the CSV files and create a matplotlib bar graph to show the difference in sentiment values.
 
@@ -12,6 +12,7 @@ counter = 0
 files = os.scandir("../CS325GroupProject1/data/processed/csv/")
 
 for file in files:
+    fname = file.name
     counter = counter+1                                 #updating counter
     df = pandas.read_csv(file, sep=",", engine= "python",)
     itemsList = [re.sub(".[0-9]+", "", str(val).strip()) for val in df]
@@ -30,9 +31,9 @@ for file in files:
     plt.bar(sentiments, values, color = col.TABLEAU_COLORS, label=bar_labels)
     plt.xlabel("Sentiments", fontdict=labelfont)
     plt.ylabel("Count", fontdict=labelfont)
-    plt.title("URL" + str(counter) +  " Sentiments")
+    plt.title(fname[:-4].replace("_", " ") +  " Sentiments")
     plt.legend()
-    plt.savefig(fname = "../CS325GroupProject1/data/plots/figure" + str(counter) + ".png")
+    plt.savefig(fname = "../CS325GroupProject1/data/plots/" + fname[:-4] + ".png")
     plt.clf()
 
 # with open('../CS325GroupProject1/data/processed/csv/' + file, 'r') as read:

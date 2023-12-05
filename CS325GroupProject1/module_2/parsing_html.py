@@ -17,7 +17,7 @@ for dirName, subDirList, fileList in os.walk('../CS325GroupProject1/data/raw/htm
                 soup = BeautifulSoup(bs, 'html5lib')
                 commentree = soup.find("div", attrs={'class':'sitetable nestedlisting'})            #finding the html section that contains all comments in post
                 comments = commentree.find_all('p')                                                 #saving the list of comments 
-            with open('../CS325GroupProject1/data/raw/unfilteredcomments/' + f'unfilteredcomments{counter}.txt', 'w', encoding="utf-8") as output:                         #creating the new text files unfilteredcomments#.txt   
+            with open('../CS325GroupProject1/data/raw/unfilteredcomments/' + f'{file[:-4]}.txt', 'w', encoding="utf-8") as output:                         #creating the new text files unfilteredcomments#.txt   
                 for comment in comments:                                                                                                                                   #using a for loop to rewrite each comment with the html still attached
                     output.write((comment.prettify()))                                                                                                                     #creating an empty line between each comment
                     output.write("\n")                                                                                                                              
